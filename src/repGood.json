@@ -1,533 +1,4 @@
 [
- 
-  {
-    "songTitle": "circle round the zero",
-    "function": {
-      "rhythmic": { "presentation": [], "practice": ["Q"] },
-      "melodic": { "presentation": [], "practice": ["high do"] },
-      "kinder": {},
-      "misc": {}
-    },
-    "focusSong": null,
-    "grade": [2, 3, 4],
-    "source": [
-      
-    ],
-    "subject": null,
-    "score": "../../../songImages/circleRoundTheZero.png",
-    "tonalCenter": "do",
-    "ethnicOrigin": [
-      "united states",
-      "african-american",
-      "new england",
-      "massachusetts"
-    ],
-    "mm": 112,
-    "csp": "F#",
-    "toneSet": ["la,", "do", "re", "mi", "sol", "la", "do'"],
-    "scale": "extended do pentatonic",
-    "form": ["ABB'"],
-    "rhythmicElements": ["q", "sd", "Q", "gc", "aq"],
-
-    "rhythmicSpecialties": ["Q"],
-    "melodicElements": ["high do"],
-    "game": ["circle game", "play party"],
-    "meter": "quadruple",
-    "range": "8P",
-    "recording": null,
-    "language": "english",
-    "partWork": null,
-    "gameDirections": [
-      [
-        "Formation: Standing circle of players, spaced slightly apart; One leader on the outside.",
-        "Action: Circle claps the beat while singing back to back with one of the players.",
-        "At “Back, back zero,” he stands back to back with one of the players.",
-        "At “Side, side zero,” he stands beside him.",
-        "At “Front, front zero,” he stands facing the child chosen.",
-        "At “Tap your lovin’ zero,” he taps him on the shoulders.",
-        "The game is repeated, with the first leader taking the place of the one he has chosen."
-      ]
-    ]
-  },
-  {
-    "songTitle": "closet key, the",
-    "function": {
-      "rhythmic": { "presentation": [], "practice": ["qsd"] },
-      "melodic": { "presentation": [], "practice": ["re"] },
-      "kinder": {},
-      "misc": {}
-    },
-    "focusSong": null,
-    "grade": [2],
-    "source": [
-      "Erdei, Peter and Komlos, Katalin. 150 American Folk Songs to Sing, Read and Play.  Boosey & Hawkes, N.Y., 1974. 2",
-      "Scarborough, Dorothy with Ola Lee Gulledge. On the Trail of Negro Folk-Songs. Cambridge, Mass.: Harvard Univ. Press, 1925. 139.",
-      "Seeger’s American Folk songs for Children.",
-      "Johnston,Richard. Folk Songs North America Sings. E.C. Kerby Ltd. Toronto, 1984. Page 9."
-    ],
-    "subject": ["gardens", "closet"],
-    "score": "../../../songImages/closetKey.png",
-    "tonalCenter": "do",
-    "ethnicOrigin": ["united states", "african-american", "south", "virginia"],
-    "mm": 100,
-    "csp": "A",
-    "toneSet": ["do", "re", "mi"],
-    "scale": "do trichord",
-    "form": ["AA'AB"],
-    "rhythmicElements": ["q", "sd"],
-    "otherKConcepts": ["solo singing"],
-    "rhythmicSpecialties": ["qsd"],
-    "melodicElements": ["re"],
-    "game": ["guessing game", "circle game"],
-    "meter": "duple",
-    "range": "3M",
-    "recording": null,
-    "language": "english",
-    "partWork": null,
-    "notes": [
-      "story about ada sneaking into closet, causing me to lock my closet. drinking tea in muh-lady's garden.  Worry over lost key (tuning fork) and fear that I'll be trapped in the same outfit for days."
-    ],
-    "gameDirections": [
-      [
-        "Players form a ring, hands behind their backs.  One child walks around and places the key in someone’s hand.  The walker leads the stanzas 1 and 2 (with all children joining in.)  The person to whom the key was given then leads the singing of stanza 3 (with all the children joining in.)  He then proceeds to walk around the ring himself, singing stanza 1, and the whole process is repeated."
-      ],
-      [
-        "One player is blindfolded and stands in the middle of the ring, where the others hold their hands behind their backs.  During the singing of verse 1, one player walks around, and places a “key” in someone’s hand.  On verse 2, the player in the middle leads the singing. The person to whom the “key” has been given sings verse 3, and the blindfolded player then passes the “key” and the solo singer chooses the next to stand in the middle of the circle with the blindfold."
-      ],
-      [
-        "Formation: Circle of players with hands behind them; one player outside the circle with a key.  Action:  Verses 1-2: One player with a key walks around the outside of the ring and places the key secretly in someone’s hands, while leading the singing.  Verse 3: The player with the key leads the singing.  Walker rejoins the circle and the player with the key becomes the new leader."
-      ]
-    ]
-  },
-  {
-    "songTitle": "cobbler cobbler (hunt the slipper)",
-    "function": {
-      "rhythmic": { "presentation": [], "practice": ["qsd"] },
-      "melodic": { "presentation": [], "practice": ["re"] },
-      "kinder": {},
-      "misc": {}
-    },
-    "focusSong": null,
-    "grade": [0, 1],
-    "source": [
-      "Erdei, Peter (ed.) and Komlos, Katalin. 150 American Folk Songs. Boosey & Hawkes, 1974 (7th printing 1985), p.5.",
-      "Beckwith, Martha W. Folk Games of Jamaica. Poughkeepsie, New York: Vassar College/Folklore Publications, 1922. pg 30."
-    ],
-    "subject": ["professions", "cobbler", "shoes"],
-    "score": "../../../songImages/cobblerCobbler.png",
-    "tonalCenter": "sol",
-    "ethnicOrigin": ["african-american", "caribbean", "jamaica"],
-    "mm": 100,
-    "csp": "C",
-    "toneSet": ["re", "mi", "sol"],
-    "scale": "pentatonic trichord",
-    "form": ["AABC"],
-    "rhythmicElements": ["q", "sd"],
-    "otherKConcepts": ["steady beat", "beat/rhythm", "loud/soft"],
-    "rhythmicSpecialties": ["qsd"],
-    "melodicElements": ["re"],
-    "game": ["action song", "circle"],
-    "meter": "duple",
-    "range": "4P",
-    "recording": null,
-    "language": "english",
-    "partWork": null,
-    "gameDirections": [
-      [
-        "Children can pantomime fixing shoes to the beat.  Shoes can be “broken” due to too much prior movement."
-      ],
-      [
-        "All the players but one sit on the floor in a circle with their legs crossed (Turkish fashion), one acting as Chief, all pretending to work at making or mending shoes. The other player brings a slipper to the Chief Cobbler, and desires it to be mended, saying:  Cobbler, cobbler, mend my shoe,  Get it done by half-past two. The child walks away, and returns in a few moments and asks whether the shoe is ready. The Cobbler says, 'Not quite; call again in an hour's time,' or makes any other excuse which occurs to him. When the child calls again, she is told it has been sent home. After several pretences the child declares an intention to search for it. The Cobblers in the ring then all place their hands under their knees, and pass the slipper secretly from one to another in such a way as to prevent the owner of the shoe getting it for some time. The Cobbler from whom the slipper is taken becomes the owner next time. (Gomme, Alice B., The Traditional Games of England, Scotland, and Ireland, Vol. 1.)"
-      ]
-    ],
-    "notes": [
-      [
-        "This is a West Indies variant of a traditional English children's game. In the Jamaican version, the players pass the slipper behind their backs."
-      ]
-    ]
-  },
-  {
-    "songTitle": "cock robin",
-    "function": {
-      "rhythmic": {
-        "presentation": [],
-        "practice": ["w", "internal anacrusis"]
-      },
-      "melodic": { "presentation": [], "practice": ["low la"] },
-      "kinder": {},
-      "misc": {}
-    },
-    "focusSong": null,
-    "grade": [2, 3, 4],
-    "source": [
-      "Erdei, Peter and Komlos, Katalin. 150 American Folk Songs to Sing Read and Play.  Boosey & Hawkes, NY, 1974. 34",
-      "Chase, Richard. American Folk Tales and Songs. New York: Dover, 1971.178."
-    ],
-    "subject": ["death/afterlife", "birds"],
-    "score": "../../../songImages/cockRobin.png",
-    "tonalCenter": "la",
-    "ethnicOrigin": [
-      "anglo-american",
-      "appalachia",
-      "north carolina",
-      "virginia"
-    ],
-    "mm": 76,
-    "csp": "G",
-    "toneSet": ["la,", "do", "re", "mi", "la"],
-    "scale": "extended la pentatonic tetrachord",
-    "form": ["AA'BC"],
-    "rhythmicElements": ["q", "sd", "Q", "w", "t"],
-
-    "rhythmicSpecialties": ["w"],
-    "melodicElements": ["low la"],
-    "game": ["guessing game"],
-    "meter": "quadruple",
-    "range": "8P",
-    "recording": null,
-    "language": "english",
-    "partWork": null,
-    "notes": [
-      ["accompany with book"],
-      [
-        "HNU: This came from a singer near Chapel Hill, North Carolina, whose name I failed to record. I remember singing it over and over as I walked back some three miles from his home out in the country. The kinship of all folk music was once made clear to me out in Arizona when I was visiting an Indian reservation. There were present a white man and his family, a Hopi couple, a Navajo couple, and myself. We had been trying to get the Indians to sing Indian songs and, as a part of the warming up process, I hummed this tune.'Sing that again,' one of the Indians said. I hummed it again. 'Did you ever know anything like that?' I finally asked. Another Indian spoke up, 'Sure! That's a Shoshone night chant. I've heard it many times.'"
-      ],
-      ["Per Phil - Teach last phrase as one unit."]
-    ],
-    "gameDirections": [
-      [
-        "All children close their eyes.  One 'bad guy' and one 'inspector' are chosen in secret.  All children stand and walk around the room while singing the song.  At the end of the first repeat, the 'bad guy' winks at other students, who must sit down if they are winked at.  The inspector must identify the bad guy from the group.  I've done this where the bad guy must wait until I start improvising before he begins killing.  This is an absolute favorite of students and it gives shy students a chance to interact with their classmates."
-      ]
-    ]
-  },
-  {
-    "songTitle": "cocky robin",
-    "function": {
-      "rhythmic": {
-        "presentation": [],
-        "practice": ["qsd", "internal anacrusis"]
-      },
-      "melodic": { "presentation": [], "practice": ["re"] },
-      "kinder": {},
-      "misc": {}
-    },
-    "focusSong": null,
-    "grade": [2],
-    "source": ["My Singing Bird, p. 16."],
-    "subject": ["animals", "birds"],
-    "score": "../../../songImages/cockyRobin.png",
-    "tonalCenter": "do",
-    "ethnicOrigin": ["united states", "southern appalachians"],
-    "mm": 92,
-    "csp": "C",
-    "toneSet": ["do", "re", "mi", "sol", "la"],
-    "scale": "do pentatonic",
-    "form": ["AABC"],
-    "rhythmicElements": ["q", "sd", "Q"],
-    "otherKConcepts": ["story song"],
-    "rhythmicSpecialties": ["qsd"],
-    "melodicElements": ["re"],
-    "game": ["guessing game"],
-    "meter": "duple",
-    "range": "6M",
-    "recording": null,
-    "language": "english",
-    "partWork": null
-  },
-  {
-    "songTitle": "coffee canon",
-    "function": {
-      "rhythmic": { "presentation": [], "practice": ["qsd"] },
-      "melodic": { "presentation": [], "practice": ["fa"] },
-      "kinder": {},
-      "misc": {}
-    },
-    "focusSong": null,
-    "grade": [4, 5],
-    "source": [
-      "Bolkovac, Edward and Johnson, Judith. 150 Rounds for Singing and Teaching.  Music Education Press, Stanford, CA. 1992. 9.",
-      "Composed by Karl Gottlieb Hering; English text: Elinor O’Connor",
-      "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. 307."
-    ],
-    "subject": ["food and drinks", "coffee"],
-    "score": "../../../songImages/coffeeCanon.png",
-    "tonalCenter": "do",
-    "ethnicOrigin": ["German"],
-    "mm": 100,
-    "csp": "D",
-    "toneSet": ["sol,", "ti,", "do", "re", "mi", "fa", "sol"],
-    "scale": ["incomplete major"],
-    "form": ["ABC"],
-    "rhythmicElements": ["q", "sd"],
-
-    "rhythmicSpecialties": ["qsd"],
-    "melodicElements": ["fa"],
-    "game": null,
-    "meter": "triple",
-    "range": "8P",
-    "recording": ["https://youtu.be/eqwu1tnDrgQ"],
-    "language": "english",
-    "partWork": ["canon"]
-  },
-  {
-    "songTitle": "come thru 'na hurry (alabama gal)",
-    "function": {
-      "rhythmic": { "presentation": [], "practice": ["aqa"] },
-      "melodic": { "presentation": [], "practice": ["low sol"] },
-      "kinder": {},
-      "misc": {}
-    },
-    "focusSong": null,
-    "grade": [4],
-    "source": [
-      "Rohrbough, Lynn. Southern Singing Games. World Around Songs, Burnsville, NC",
-      "Johnston, Richard. Folk songs North America Sings. Caveat Publishers, Toronto, 1984. 66",
-      "Chosky, Lois and David Frummit, 120 Singing Games and Dances, Prenteic Hall, Englewood Cliffs, New Jersey. 1996. page 147.",
-      "Msb, p. 23.",
-      "Choksy, Lois.  The Kodály Context. Englewood Cliffs, N.J.: Prentice-Hall, Inc., 1981. p. 231."
-    ],
-    "subject": null,
-    "score": "../../../songImages/comeThruNaHurry.png",
-    "tonalCenter": "do",
-    "ethnicOrigin": ["united states", "tennessee"],
-    "mm": 112,
-    "csp": "G",
-    "toneSet": ["sol,", "la,", "do", "re", "mi", "sol"],
-    "scale": "extended do pentatonic",
-    "form": ["AA'"],
-    "rhythmicElements": ["q", "sd", "w", "aqa"],
-
-    "rhythmicSpecialties": ["aqa"],
-    "melodicElements": ["low sol"],
-    "game": ["play party"],
-    "meter": "quadruple",
-    "range": "8P",
-    "recording": ["look for Chimes of Dunkirk"],
-    "language": "english",
-    "partWork": null,
-    "gameDirections": [
-      [
-        "Students make two likes, facing partners.",
-        "Verse 1: Head couple sashay to foot and back.",
-        "Verse 2: All walk toward partner extending right hand, turn and go back to place.  Extend left hand and walk back to place.",
-        "Verse 3: Cast off, head couple makes an arch at the foot.",
-        "Verse 4: All go through the arch and return to place, leacing the head couple at the foot and a new head couple at the top.  Repeat the game with a new head couple."
-      ]
-    ]
-  },
-  {
-    "songTitle": "cotton eye joe",
-    "function": {
-      "rhythmic": { "presentation": [], "practice": ["cut-time"] },
-      "melodic": { "presentation": [], "practice": ["re"] },
-      "kinder": {},
-      "misc": {}
-    },
-    "focusSong": null,
-    "grade": [3],
-    "source": [
-      "Library of Congress AFS 1619 A3-B1. Recorded by Alan Lomax.",
-      "AFSC",
-      "Erdei, Peter (ed.) and Komlos, Katalin.  150 American Folk Songs. Boosey & Hawkes, 1974  (7th printing 1985). p. 23.",
-      "Johnston,Richard. Folk Songs North America Sings. E.C. Kerby Ltd. Toronto, 1984. Page 88.",
-      "Msb, p. 14."
-    ],
-    "subject": ["love", "marriage"],
-    "score": "../../../songImages/cottonEyeJoe.png",
-    "tonalCenter": "do",
-    "ethnicOrigin": [
-      "united states",
-      "anglo-american",
-      "appalachia",
-      "tennessee"
-    ],
-    "mm": 76,
-    "csp": "B",
-    "toneSet": ["sol,", "la,", "do", "re", "mi"],
-    "scale": "do pentatonic",
-    "form": ["AB"],
-    "rhythmicElements": ["q", "sd", "w", "e"],
-
-    "melodicElements": ["re"],
-    "game": null,
-    "meter": "duple",
-    "range": "6M",
-    "recording": null,
-    "language": "english",
-    "partWork": ["2-part arrangement - 46 Two Part American Folk Songs, p8."]
-  },
-  {
-    "songTitle": "cumberland gap",
-    "function": {
-      "rhythmic": { "presentation": [], "practice": ["xcd"] },
-      "melodic": { "presentation": [], "practice": ["low la"] },
-      "kinder": {},
-      "misc": {}
-    },
-    "focusSong": null,
-    "grade": [2],
-    "source": [
-      "Johnston, Richard. Folk Songs North America Sings. Caveat Music Publishers, Ltd. Toronto. 1984. 89",
-      "Lomax, John A. and Alan. American Ballads and Folk Songs. New York: The MacMillan Co., 1934. 274-275.",
-      "Locke, Eleanor G. Sail Away 155 American Folk Songs to sing read and play Boosey & Hawkes, NY, 1981. 18."
-    ],
-    "subject": ["sleeping", "naps", "historical", "civil war"],
-    "score": "../../../songImages/cumberlandGap.png",
-    "tonalCenter": "do",
-    "ethnicOrigin": [
-      "united states",
-      "anglo-american",
-      "appalachia",
-      "tennessee"
-    ],
-    "mm": 100,
-    "csp": "A",
-    "toneSet": ["la,", "do", "re", "mi", "sol", "la"],
-    "scale": "extended do pentatonic",
-    "form": ["ABAC"],
-    "rhythmicElements": ["q", "sd", "xxcc", "xcd", "sxc"],
-
-    "rhythmicSpecialties": ["xcd"],
-    "melodicElements": ["low la"],
-    "game": null,
-    "meter": "duple",
-    "range": "8P",
-    "recording": null,
-    "language": "english",
-    "partWork": null,
-    "notes": [
-      [
-        "Cumberland Gap, a popular fiddle tune, celebrates a pass through the Appalachian Mountains that still looms large in the culture of Virginia, Tennessee, and Kentucky.  Cumberland Gap was discovered in 1750 by Dr. Thomas Walker.  In 1775 Daniel Boone blazed the Wilderness Road through the Cumberland Gap, into Kentucky.  For fifty years, especially during the Revolution, it was the main highway west. But it was not until 1790 that the road was broad enough for wagon and team. By 1820 the road extended to the Ohio River. During the Civil War the pass was the site of several battles, some of which are commemorated by additional verses which appear in some versions of the song. Liner notes by Moses Asch from Folkways FP 5003, Frontier Ballads and by Patrick Warfield from Folkways SFW 40187, A Treasury of Civil War Songs."
-      ]
-    ]
-  },
-  {
-    "songTitle": "cut the cake (clap your hands together)",
-    "function": {
-      "rhythmic": { "presentation": [], "practice": ["Q"] },
-      "melodic": { "presentation": [], "practice": ["high do", "fa"] },
-      "kinder": {},
-      "misc": {}
-    },
-    "focusSong": null,
-    "grade": [1],
-    "source": [
-      "Choksy, Lois.  The Kodály Context. Englewood Cliffs, N.J.: Prentice-Hall, Inc., 1981. p.222.",
-      "Chosky, Lois and David Frummit, 120 Singing Games and Dances, Prenteic Hall, Englewood Cliffs, New Jersey. 1996. page 63.",
-      "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. 310."
-    ],
-    "subject": ["food and drinks", "cake", "movement"],
-    "score": "../../../songImages/cutTheCake.png",
-    "tonalCenter": "do",
-    "ethnicOrigin": ["canada", "nova scotia"],
-    "mm": 116,
-    "csp": "A",
-    "toneSet": ["do", "re", "mi", "fa", "sol", "la", "do'"],
-    "scale": "extended do hexachord",
-    "form": ["AB"],
-    "rhythmicElements": ["q", "sd", "Q"],
-
-    "rhythmicSpecialtie[s": ["Q"],
-    "melodicElements": ["high do", "fa"],
-    "game": ["circle game"],
-    "meter": "duple",
-    "range": "8P",
-    "recording": null,
-    "language": "english",
-    "partWork": null,
-    "gameDirections": [
-      [
-        "Circle of children clap, shake bodies, hold hands; on  then you cut the cake the person in  the middle cuts the circle between two children who then run in opposite directions around the outside of the circle. The first person back goes to the middle of the circle and the game begins again."
-      ]
-    ],
-    "notes": [
-      [
-        "No transition needed for game.  Begin singing song and gesture to the middle of the room."
-      ]
-    ]
-  },
-  {
-    "songTitle": "daddy shot a bear",
-    "function": {
-      "rhythmic": { "presentation": [], "practice": ["Q"] },
-      "melodic": { "presentation": [], "practice": ["low sol"] },
-      "kinder": {},
-      "misc": {}
-    },
-    "focusSong": null,
-    "grade": [1],
-    "source": [
-      "K. M. T. I.  Kodály for Beginning Levels, Vol. II. Wellesley, Mass.: K. M. T. I. , 1973. p. 126.",
-      "Library of Congress AFS 948 A2. Collected by John A. Lomax.",
-      "Also in Seeger, Ruth Crawford, Animal Folk Songs for Children.",
-      "Johnston,Richard. Folk Songs North America Sings. E.C. Kerby Ltd. Toronto, 1984. Page 133.",
-      "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. 310.",
-      "Locke, Eleanor G. Sail Away 155 American Folk Songs to sing read and play Boosey & Hawkes, NY, 1981. 41."
-    ],
-    "subject": ["hunting", "animals", "bears"],
-    "score": "../../../songImages/daddyShotABear.png",
-    "tonalCenter": "sol",
-    "ethnicOrigin": ["united states", "alabama", "african-american"],
-    "mm": 108,
-    "csp": "G",
-    "toneSet": ["sol,", "la,", "do", "re"],
-    "scale": "sol tetratonic",
-    "form": ["AB"],
-    "rhythmicElements": ["q", "sd", "Q"],
-
-    "rhythmicSpecialties": ["Q"],
-    "melodicElements": ["low sol"],
-    "game": ["circle game"],
-    "meter": "duple",
-    "range": "5P",
-    "recording": ["R"],
-    "language": "english",
-    "partWork": null,
-    "gameDirections": [
-      [
-        "Single circle of players, not holding hands, walking around the circle counter-clockwise, one student is in the middle.  Each time there is a rest, the students in the circle “duck” and the one in the middle pretends to shoot a rifle."
-      ]
-    ],
-    "notes": [
-      "Daddy saw a bear/ Daddy saw a bear/ Saw him through the cam-era and he was close enough."
-    ]
-  },
-  {
-    "songTitle": "dale dale",
-    "function": {
-      "rhythmic": { "presentation": [], "practice": ["qsd"] },
-      "melodic": { "presentation": [], "practice": ["ti"] },
-      "kinder": {},
-      "misc": {}
-    },
-    "focusSong": null,
-    "grade": [1],
-    "source": [
-      " Montoya-Stier, El Patio de mi Casa: 42 Traditional Rhymes, Chants, and Folksongs from Mexico. GIA Publications, 2008. p. 68."
-    ],
-    "subject": ["pinata", "party games"],
-    "score": "../../../songImages/daleDale.png",
-    "tonalCenter": "do",
-    "ethnicOrigin": ["mexico"],
-    "mm": 120,
-    "csp": "A",
-    "toneSet": ["mi", "sol", "la", "ti", "do'"],
-    "scale": "incomplete major",
-    "form": ["AB"],
-    "rhythmicElements": ["q", "sd", "Q"],
-
-    "rhythmicSpecialties": ["qsd"],
-    "melodicElements": ["ti"],
-    "game": ["action song"],
-    "meter": "duple",
-    "range": "6m",
-    "recording": null,
-    "language": "spanish",
-    "partWork": null,
-    "notes": [
-      "per students at Rodriguez - porque si lo pierdes, pierdes el camino. Ya le diste uno, ya le diste dos, ya le diste tres y tu tiempo se acabo!"
-    ]
-  },
   {
     "songTitle": "dance josey (chicken on the fencepost)",
     "function": {
@@ -560,7 +31,6 @@
     "range": "9M",
     "recording": ["R"],
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "Two players are designated as “the farmers.”  The other players make two circles, a small one inside a larger one.  If available, a rubber chicken is placed in the center of the smaller circle.  The “farmers” close their eyes and the teacher appoints to persons next to each other in the small circle and two persons next to each other in the larger circle to be the “gates.”  Then the “farmers” open their eyes.  The singing begins as the two circles walk in opposite directions.  On the last syllable of the song, “o,” the “gates” raise their arms, but all continue walking.  The “farmers” must find their way to the middle of the smaller circle and retrieve the rubber chicken."
@@ -601,7 +71,6 @@
     "game": null,
     "meter": "duple",
     "range": "7m",
-    "recording": null,
     "language": "english",
     "partWork": null
   },
@@ -638,7 +107,6 @@
     "game": null,
     "meter": "duple",
     "range": "5P",
-    "recording": null,
     "language": "english",
     "partWork": null
   },
@@ -656,7 +124,6 @@
       "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. 310.",
       "Rita Klinger, Cleveland, OH."
     ],
-    "subject": null,
     "score": "../../../songImages/debkaHora.png",
     "tonalCenter": "la",
     "ethnicOrigin": ["israel"],
@@ -672,9 +139,7 @@
     "game": null,
     "meter": "duple",
     "range": "5P",
-    "recording": null,
     "language": null,
-    "partWork": null,
     "gameDirections": [
       [
         "All face the center in a single circle and join hands.  Hands held shoulder high. Take one step (or hop) per beat of the music.",
@@ -716,9 +181,7 @@
     "game": ["circle game"],
     "meter": "duple",
     "range": "5P",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "One child takes off a shoe.  They walk around the room stepping the beat, but stamping harder with the foot wearing the shoe.  At the end of the song, give shoe to the person where they stopped.  That child takes off a shoe and repeats the activity."
@@ -746,7 +209,6 @@
       "Lomax, Alan. Folk Songs of North America.  Doubleday. New York. 1960. page 476",
       "My Singing Bird, p. 28."
     ],
-    "subject": null,
     "score": "../../../songImages/demBones.png",
     "tonalCenter": "sol",
     "ethnicOrigin": ["united states", "african-american", "south"],
@@ -764,7 +226,6 @@
     "range": "9M",
     "recording": ["look up lamar r"],
     "language": "english",
-    "partWork": null,
     "notes": [["See My Singing Bird for actions."]]
   },
   {
@@ -794,9 +255,7 @@
     "game": ["cicle game"],
     "meter": "duple",
     "range": "5P",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       ["Circle with singing and open gate?  Check online."],
       [
@@ -840,7 +299,6 @@
     "game": ["pantomiming", "dramatic play", "improvisation"],
     "meter": "duple",
     "range": "6M",
-    "recording": null,
     "language": "english",
     "partWork": [
       "Pair game with Waltz in Ab (Brahms) – Use the A section for chore movement."
@@ -887,9 +345,7 @@
     "game": ["choosing game", "circle game"],
     "meter": "duple",
     "range": "4P",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "Students sit in a single circle on the floor.  One student chosen (by the teacher) to be “it,” lies down in the middle of the circle and hides his eyes.  The teacher places a “bone” (beanbag) by the student.  While the class sings the first line of the song, the teacher appoints someone sitting in the circle to take the bone.  They then respond with a bark or echo the last phrase with the words I stole the bone.  The student in the center has three chances to guess who has the bone.  If they guess correctly, they get another turn.  If they guess incorrectly, they trade places with the person who has the bone and the game continues."
@@ -928,7 +384,6 @@
     "game": ["song tale"],
     "meter": "compound",
     "range": "9M",
-    "recording": null,
     "language": "spanish",
     "partWork": null
   },
@@ -961,9 +416,7 @@
     "game": null,
     "meter": "quadruple",
     "range": "7m",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "notes": [
       ["explanation - http://www.jewishmag.com/144mag/dona_dona/dona_dona.htm"],
       ["Phil - find a piano accompaniment for this."]
@@ -1049,9 +502,7 @@
     "game": ["circle game", "moving game"],
     "meter": "quadruple",
     "range": "6M",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "All except one child join hands in a circle. The remaining child stands in the center. All sing, circling around the center child, who at  blue points to one of the other children substituting the color of the chosen  child’s clothing for the word  blue. That child goes outside the circle and, when singing begins again, walks in the opposite direction to the original circle. This continues until all children are in the outside circle. On the last verse, the children in the circle point to the center child and shout the color of his clothing."
@@ -1093,9 +544,7 @@
     "game": ["circle"],
     "meter": "mixed",
     "range": "6M",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "Formation: A single circle of players, two persons kneeling (“down in the valley”) in the center.",
@@ -1122,7 +571,6 @@
       "Chase, Richard. Singing Games and Play Party Games. Dover Publications.  New York, NY. 1949. page 24.",
       "Chosky, Lois and David Frummit, 120 Singing Games and Dances, Prenteic Hall, Englewood Cliffs, New Jersey. 1996. page 183."
     ],
-    "subject": null,
     "score": "../../../songImages/DrawMeABucketOfWater.png",
 
     "ethnicOrigin": ["united states", "south", "georgia sea islands"],
@@ -1138,9 +586,7 @@
     "game": null,
     "meter": "quadruple",
     "range": "11P",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "Four players stand in a circle and number off.  Number 1 and 3 hold hands; number 2 and 4 hold their joined hands OVER number 1 and 3.  Singing the song the students move to a gentle twisting motion left and right.  At the words “you go under sister Sally” players 2 and 4 put their arms over the head of player number 1.  Continue each repetition for players 2, 3, and 4.  On the refrain, players put one foot faster and usually fall down before the end of the song."
@@ -1179,9 +625,7 @@
     "game": null,
     "meter": "duple",
     "range": "8P",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "notes": [["Change “drunken” to 'sleepy'"]]
   },
   {
@@ -1216,9 +660,7 @@
     "game": ["chasing game"],
     "meter": "duple",
     "range": "5P",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "A group of children is designated as ducks and geese., and they line up at one side of the room which is the “meadow”. One child is the wolf and “hides” in the middle of the room. The teacher (or a child who sings well) is the “Old Lady”. At the end of the singing of the complete song, the ducks and geese run to “the Old Lady” and try to get into the “chicken coop” before the wolf can catch them. If anyone is caught, they must freeze and we count how many were caught.",
@@ -1237,7 +679,6 @@
     "focusSong": ["low sol"],
 
     "source": ["https://www.bethsnotesplus.com/2014/05/ducks-on-millpond.html"],
-    "subject": null,
     "score": "../../../songImages/ducksInTheMillpond.png",
 
     "ethnicOrigin": null,
@@ -1251,7 +692,6 @@
     "game": null,
     "meter": null,
     "range": null,
-    "recording": null,
     "language": null,
     "partWork": null
   },
@@ -1266,7 +706,6 @@
     "focusSong": "la",
 
     "source": null,
-    "subject": null,
     "score": "../../../songImages/duermeMiTesoro.png",
 
     "ethnicOrigin": null,
@@ -1280,7 +719,6 @@
     "game": null,
     "meter": null,
     "range": null,
-    "recording": null,
     "language": null,
     "partWork": null
   },
@@ -1295,7 +733,6 @@
     "focusSong": "compound iii",
 
     "source": null,
-    "subject": null,
     "score": "../../../songImages/earlyToBed.png",
 
     "ethnicOrigin": null,
@@ -1309,7 +746,6 @@
     "game": null,
     "meter": null,
     "range": null,
-    "recording": null,
     "language": null,
     "partWork": null
   },
@@ -1324,7 +760,6 @@
     "focusSong": null,
     "grade": [2],
     "source": null,
-    "subject": null,
     "score": "../../../songImages/elCasamiento.png",
 
     "ethnicOrigin": null,
@@ -1338,7 +773,6 @@
     "game": null,
     "meter": null,
     "range": null,
-    "recording": null,
     "language": "spanish",
     "partWork": null
   },
@@ -1356,7 +790,6 @@
     "focusSong": null,
     "grade": [1],
     "source": null,
-    "subject": null,
     "score": "../../../songImages/elChiquihuite.png",
     "tonalCenter": "do",
     "ethnicOrigin": null,
@@ -1376,7 +809,6 @@
       "(Beatriz E. Aguilar) https://www.youtube.com/watch?v=ywPuYodastg "
     ],
     "language": "spanish",
-    "partWork": null,
     "gameDirections": [
       [
         "Children form a seated circle.  One student walks around the outside of the circle while the group sings with their eyes closed.  The outside child can repeat the song as many times as he wishes and he places the sandel behind one of the other students.  At that moment, he announces to the other children that they may turn around.  The one who the sandel was placed behind must stand up and run in the opposite direction, to try to make it back to his place first.  The child who is standing will begin the game again."
@@ -1412,9 +844,7 @@
     "game": ["guessing game"],
     "meter": "mixed",
     "range": "4P",
-    "recording": null,
     "language": "spanish",
-    "partWork": null,
     "translation": "The flower goes in the hands, in the hands, / and in the hands it has spoken. / Guess who has it, who has it, / or you’ll be waiting a long time.",
     "gameDirections": [
       [
@@ -1433,7 +863,6 @@
     "focusSong": null,
     "grade": [5],
     "source": ["El Libro de las Canciones p. 91."],
-    "subject": null,
     "score": "../../../songImages/elPajaro.png",
     "tonalCenter": "la",
     "ethnicOrigin": ["spain"],
@@ -1449,7 +878,6 @@
     "game": null,
     "meter": "duple",
     "range": "8ve",
-    "recording": null,
     "language": "spanish",
     "partWork": null
   },
@@ -1466,7 +894,6 @@
     "source": [
       "Montoya-Stier, El Patio de mi Casa: 42 Traditional Rhymes, Chants, and Folksongs from Mexico. GIA Publications, 2008. p. 30-31."
     ],
-    "subject": null,
     "score": "../../../songImages/elPatioDeMiCasa.png",
 
     "ethnicOrigin": ["mexico"],
@@ -1482,7 +909,6 @@
     "range": null,
     "recording": ["R"],
     "language": "spanish",
-    "partWork": null,
     "translation": "The patio of my house is very peculiar. / If it rains, it gets wet like every other one. / Squat down and squat down again / Because all the pretty children know how to squat. / Chocolate, molinillo, (wooden utensil used to make chocolate milk) / Move out, move out that the crippled child is coming through. / Since very little I was crippled of this foot, / Of this foot that I step on you, / That I step on you, / That I step on you",
     "gameDirections": [
       [
@@ -1523,7 +949,6 @@
       "(Beatriz E. Aguilar) https://www.youtube.com/watch?v=wFRhyjPXexI&list=OLAK5uy_n5Cdw_hLMsAQnqgDI3ghBWeHmUg3laf3M&index=16"
     ],
     "language": "spanish",
-    "partWork": null,
     "gameDirections": [
       ["Students lie down in a circle.  They perform the actions of the chant."]
     ],
@@ -1547,7 +972,6 @@
     "source": [
       "Montoya-Stier, El Patio de mi Casa: 42 Traditional Rhymes, Chants, and Folksongs from Mexico. GIA Publications, 2008. p. 32-33."
     ],
-    "subject": null,
     "score": "../../../songImages/emiliano.png",
 
     "ethnicOrigin": ["mexico"],
@@ -1561,9 +985,7 @@
     "game": ["chase"],
     "meter": null,
     "range": null,
-    "recording": null,
     "language": "spanish",
-    "partWork": null,
     "gameDirections": [
       [
         "A child is designated as Emiliano.  The child lies down on the floor.  The other students form a circle that passes over Emiliano.  The students sing the song and hop over Emiliano one at a time.  Meanwhile, another child is designated Mariquita.  At the end of the song, the child goes and touches Emiliano on the forehead and says, “Tiene calentura de pollo.”  The students start the song again.  At the end, Mariquita again touches Emiliano and says, “Tiene feibre.”  This continues until Mariquita says, “¡Ya se murió!”  At this point, Emiliano rises and chases everyone.  Whomever he catches is the next Emiliano.  *Instead of Emiliano chasing everyone, he can chase Mariquita."
@@ -1588,7 +1010,6 @@
     "source": [
       "Montoya-Stier, El Patio de mi Casa: 42 Traditional Rhymes, Chants, and Folksongs from Mexico. GIA Publications, 2008. p. 14."
     ],
-    "subject": null,
     "score": "../../../songImages/enUnPlatoDeEnsalada.png",
 
     "ethnicOrigin": ["mexico"],
@@ -1602,9 +1023,7 @@
     "game": null,
     "meter": null,
     "range": null,
-    "recording": null,
     "language": "spanish",
-    "partWork": null,
     "gameDirections": [
       [
         "Either the teacher or a student can point to students while saying the chant.  The pointing is done to the beat of the chant."
@@ -1644,9 +1063,7 @@
     "game": ["follow-the-leader"],
     "meter": "duple",
     "range": null,
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "Choose student who is the “locomotive”, he shuffles forward with the beat as the song is sung. At the end of the song, the student chooses one or more students to join the train. They “hook up” like a train on shoulders and move in a shuffling motion with the beat as they sing the song. Repeat until all students have joined the train.",
@@ -1670,7 +1087,6 @@
     "source": [
       "Dallin, Leon and Lynn. Heritage Songster. Wm. C. Brown Co. Dubuque, Iowa, 1966. 252."
     ],
-    "subject": null,
     "score": "../../../songImages/erieCanal.png",
     "tonalCenter": "la",
     "ethnicOrigin": ["united states", "minstrel song"],
@@ -1688,7 +1104,6 @@
     "range": "7m",
     "recording": ["https://youtu.be/9KpheIh32cQ"],
     "language": "english",
-    "partWork": null,
     "notes": [
       [
         "HS - The Erie Canal, authorized in 1817 and completed in 1825, was of immense significance in the development of the United States.  Connecting Lake Erie (Buffalo) and the Hudson River (Albany), the 363-mile waterway linked the east to the west.  It was by far the most spectacular transportation development of hte period.  The cheap, all-water route carried agricultural produce from the west to the east and manufactured goods from the east to the west.  Cities sprang up along the route.  With transportation no longer a problem, pioneers by tens of thousands settled vacant western lands.  The canal teemed with boats and barges.  Songs of the mule skinners who drove the mules along the tow paths as they hauled the flat-bottom carriers echoed across the country day and night.  Low bridges were built across the canal at frequent intervals.  The skinners shouted a warning to the passengers on the boards when approaching a bridge.  The call “low bridge ahead” was a signal for everyone on board to drop flat on the deck until the bridge was cleared.  This song made its debut as a minstrel song, but it made its home in the folk tradition."
@@ -1724,7 +1139,6 @@
     "game": null,
     "meter": "quadruple",
     "range": "5P",
-    "recording": null,
     "language": "spanish",
     "partWork": null
   },
@@ -1741,7 +1155,6 @@
     "source": [
       "Montoya-Stier, El Patio de mi Casa: 42 Traditional Rhymes, Chants, and Folksongs from Mexico. GIA Publications, 2008. p. 4."
     ],
-    "subject": null,
     "score": "../../../songImages/esteSeRoboUnHuevito.png",
 
     "ethnicOrigin": ["mexico"],
@@ -1755,9 +1168,7 @@
     "game": null,
     "meter": null,
     "range": null,
-    "recording": null,
     "language": "spanish",
-    "partWork": null,
     "gameDirections": [
       [
         "The palm faces up.  Start with the pinky, and fold one finger in as each line of the rhyme is said."
@@ -1793,9 +1204,7 @@
     "game": ["play party"],
     "meter": "quadruple",
     "range": "6M",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [["Double-circle play party"]]
   },
   {
@@ -1812,7 +1221,6 @@
       "American Methodology, p. 321.",
       "Tune number 04 on JH-050-01 A in the John Harrod Collection in the Berea College Southern Appalachian Archives."
     ],
-    "subject": null,
     "score": "../../../songImages/fireOnTheMountain.png",
 
     "ethnicOrigin": null,
@@ -1825,9 +1233,7 @@
     "game": null,
     "meter": null,
     "range": null,
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "Half of the class is seated in a circle either on the floor or in chairs and spread apart so that there is room to pass in between.  Each student in the other half of the class stands behind a seated person.  There is one student seated in the middle of the circle.  During the singing of the song the student in the middle of the circle plays the beat on a drum as the standing circle walks around outside the circle stepping the beat.  The seated students may pat the beat on their legs.  When the middle student sees a chance to reach a spot behind a “sitter,” he stops playing the drum and runs to that place while everyone else who is standing tries to get behind a “sitter.”  Whoever is left over goes to the middle.  (Like musical chairs but with the “sitters” as place markers instead of chairs.)  The game begins again with the new player in the middle.  After a few repetitions, the “sitters” and “walkers” change positions and the game continues."
@@ -1863,7 +1269,6 @@
     "game": ["scarf movements"],
     "meter": "quadruple",
     "range": "6M",
-    "recording": null,
     "language": "english",
     "partWork": ["canon"],
     "gameDirections": [["see original file for scarf movements"]]
@@ -1898,9 +1303,7 @@
     "game": ["action song"],
     "meter": "duple",
     "range": "3M",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "Players form a circle with one chosen to be the “frog” crouched in the center.  Children perform the following actions: The players sing and circle around the frog pointing menacingly with index fingers. Players in circle close their eyes and sing the song once through “inside their heads.” While circle has their eyes closed, the “frog” runs away and hides. As silent singing ends, all hunt the “frog.”  The finder becomes the next frog."
@@ -1940,7 +1343,6 @@
     "game": ["circle game"],
     "meter": "quadruple",
     "range": "6M",
-    "recording": null,
     "language": "english",
     "partWork": ["canon"],
     "gameDirections": [
@@ -1976,9 +1378,7 @@
     "game": ["jump-rope chant"],
     "meter": "duple",
     "range": "4P",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "This jump rope chant moves at a steady pace until the end on the word “HOT” at which point, turn the rope very fast. This fast movement is called ‘hot pepper.'"
@@ -2023,9 +1423,7 @@
     "game": ["play party"],
     "meter": "quadruple",
     "range": "9M",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "Single circle, alternating boys and girls.",
@@ -2080,7 +1478,6 @@
     "game": null,
     "meter": "duple",
     "range": "4P",
-    "recording": null,
     "language": "english",
     "partWork": null
   },
@@ -2114,7 +1511,6 @@
     "game": null,
     "meter": "duple",
     "range": "5P",
-    "recording": null,
     "language": "english",
     "partWork": null
   },
@@ -2149,9 +1545,7 @@
     "game": ["play party"],
     "meter": "duple",
     "range": "6M",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "Players stand in a circle and number off by 1’s and 1’s.",
@@ -2197,7 +1591,6 @@
     "range": "5P",
     "recording": ["YouTube"],
     "language": "english",
-    "partWork": null,
     "notes": [
       ["YouTube video of man “hamboning.”"],
       [
@@ -2236,7 +1629,6 @@
     "game": null,
     "meter": "quadruple",
     "range": "11M",
-    "recording": null,
     "language": "hebrew",
     "partWork": ["canon"]
   },
@@ -2271,9 +1663,7 @@
     "game": ["clapping game", "action", "double line", "partner"],
     "meter": "mixed",
     "range": "5P",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [["check original file for game instructions"]]
   },
   {
@@ -2308,9 +1698,7 @@
     "game": ["circle game"],
     "meter": "quadruple",
     "range": "6M",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "The children stand, with hands joined in a ring. One child walks in and out of the arches. On  take a little partner this child takes a partner and with 2 hands joined they face each other and gallop out through the opening where the child was taken from the ring, and back again – or dance the same around inside the ring. The first child joins the ring, the partner becomes the new “bluebird”."
@@ -2333,7 +1721,6 @@
     "source": [
       "Dallin, Leon and Lynn. Heritage Songster. Wm C. Brown Co. Dubuque, Iowa, 1966.186."
     ],
-    "subject": null,
     "score": "../../../songImages/heyHoNobodyHome.png",
     "tonalCenter": "la",
     "ethnicOrigin": ["england"],
@@ -2390,7 +1777,6 @@
     "range": "8ve",
     "recording": ["https://www.youtube.com/watch?v=1oFQ76ctfS0"],
     "language": "english",
-    "partWork": null,
     "gameDirections": [["Per Phil, have small arm motions for each noun."]]
   },
   {
@@ -2410,7 +1796,6 @@
       "Locke, Eleanor G. Sail Away 155 American Folk Songs to Sing Read and Play Boosey & Hawkes, NY, 1981. 30",
       "Murray, Tom. Folk Songs of Jamaica. London: Oxford Univeristy Press, 1952. 9."
     ],
-    "subject": null,
     "score": "../../../songImages/hillAndGullyRider.png",
     "tonalCenter": "do",
     "ethnicOrigin": ["african-american", "caribbean", "jamaica"],
@@ -2428,7 +1813,6 @@
     "range": "9M",
     "recording": ["https://www.youtube.com/watch?v=r4ZPScpox9o"],
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "Players form a curved line holding hands.  As they keep time to the song, one and then another player leaps over and passes under the joined hands without breaking the line.  (Martha Beckwith, Folk Games of Jamaica)"
@@ -2469,9 +1853,7 @@
     "game": null,
     "meter": "triple",
     "range": "8ve",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "notes": [
       "“Crossing the hills of Arirang” has come to mean carrying life’s burdens to a far-off place where trouble does not exist. Quote from Making Music Your Own, teacher’s edition."
     ]
@@ -2507,9 +1889,7 @@
     "game": ["chasing game", "pulling game"],
     "meter": "duple",
     "range": "8P",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "Each student chooses a partner.  The pair decides who is number 1 and number 2.  One or more pairs come to a line marked on the floor.  They grasp each others’ right hands and put their toes against the line while the class sings the song once.  When the song is over, each tries to pull his/her partner across the line.  Whoever wins takes the loser over to their team.  When everyone has had a turn, each team is counted, including the losers who have come from the other team.  The team with the most people wins."
@@ -2546,9 +1926,7 @@
     "game": ["double line"],
     "meter": "duple",
     "range": "9M",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [["This is danced like a Virginia Reel."]]
   },
   {
@@ -2584,9 +1962,7 @@
     "game": ["action song", "play party"],
     "meter": "duple",
     "range": "3M",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       ["improvise other actions (run, jump, etc.) using children’s ideas."]
     ]
@@ -2622,9 +1998,7 @@
     "game": ["hand clapping"],
     "meter": "quadruple",
     "range": "3M",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "notes": [
       "HS - In olden times, English streets resounded to the cries of hawkers advertising their wares.  The words of “Hot Cross Buns” are sung to an old English folk melody.  Usually played as a clapping game."
     ]
@@ -2648,7 +2022,6 @@
       "Msb, p. 24.",
       "Choksy, Lois.  The Kodály Context. Englewood Cliffs, N.J.: Prentice-Hall, Inc., 1981. p. 223."
     ],
-    "subject": null,
     "score": "../../../songImages/howManyMilesToBabylon.png",
     "tonalCenter": "do",
     "ethnicOrigin": ["british isles"],
@@ -2664,9 +2037,7 @@
     "game": ["line"],
     "meter": "quadruple",
     "range": "5P",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "notes": [
       ["*beck=curtsey *bou=bow"],
       [
@@ -2747,9 +2118,7 @@
     "game": ["action song"],
     "meter": "quadruple",
     "range": "7M",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       ["Story song with Little Boy Blue."],
       [
@@ -2792,7 +2161,6 @@
     "game": null,
     "meter": "duple",
     "range": "4P",
-    "recording": null,
     "language": "english",
     "partWork": null
   },
@@ -2825,7 +2193,6 @@
     "game": null,
     "meter": "quadruple",
     "range": "5P",
-    "recording": null,
     "language": "english",
     "partWork": null
   },
@@ -2862,7 +2229,6 @@
     "game": null,
     "meter": "quadruple",
     "range": "6M",
-    "recording": null,
     "language": "english",
     "partWork": null
   },
@@ -2937,7 +2303,6 @@
     "game": ["circle"],
     "meter": "quadruple",
     "range": "5P",
-    "recording": null,
     "language": "english",
     "partWork": "canon",
     "gameDirections": [
@@ -2985,9 +2350,7 @@
     "game": ["circle game"],
     "meter": "duple",
     "range": "8ve",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "Players form a circle with one child in the center.  They walk around singing until “Do, do let me out.” At which point the one in the middle tries to break out.  Sing the second and third verses if necessary; then another child goes into the center."
@@ -3032,9 +2395,7 @@
     "game": ["play party"],
     "meter": "quadruple",
     "range": "8ve",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "Formation: Two lines of partners facing each other as in the Virginia Reel.  The head girl is “Maria.”",
@@ -3080,9 +2441,7 @@
     "game": ["chasing game", "play party (per HNU)"],
     "meter": "duple",
     "range": "6M",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [["Envelope racing game with different actions."]],
     "notes": [
       ["Verse 1 is the original.  The other verses were created by children."],
@@ -3118,7 +2477,6 @@
     "game": null,
     "meter": "compound",
     "range": "10M",
-    "recording": null,
     "language": "english",
     "partWork": null
   },
@@ -3152,7 +2510,6 @@
     "game": null,
     "meter": "duple",
     "range": "6M",
-    "recording": null,
     "language": "english",
     "partWork": null
   },
@@ -3186,9 +2543,7 @@
     "game": ["play party", "action song", "circle game"],
     "meter": "duple",
     "range": "6m",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "Song can be performed as solo/group: soloist chooses or improvises text for verse with motion, then group repeats."
@@ -3231,9 +2586,7 @@
     "game": ["double-circle"],
     "meter": "duple",
     "range": "13P",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "Formation: Double circle, partners facing each other.",
@@ -3270,7 +2623,6 @@
       "Step it Down / 150: p. 80",
       "Lomax, Alan, Ed. American Folk Songs for Children. Atlantic 1350. B1"
     ],
-    "subject": null,
     "score": "../../../songImages/johnnyCuckoo.png",
     "tonalCenter": "do",
     "ethnicOrigin": ["african-american", "sea islands", "georgia"],
@@ -3286,9 +2638,7 @@
     "game": ["line game"],
     "meter": "duple",
     "range": "7m",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [["see original file for directions"]],
     "notes": [
       [
@@ -3331,7 +2681,6 @@
     "game": null,
     "meter": "quadruple",
     "range": "8P",
-    "recording": null,
     "language": "english",
     "partWork": ["2-part arrangement in Sourwood Mountain"]
   },
@@ -3365,9 +2714,7 @@
     "game": ["action song"],
     "meter": "duple",
     "range": "5P",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "Action song for steady beat.  C love using six hammers (both legs, both arms, head, tongue)."
@@ -3403,9 +2750,7 @@
     "game": ["choosing game"],
     "meter": "duple",
     "range": "4P",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "“Johnny” is blindfolded as the class sings the first four measures, the teacher appoints someone to sing the last two measures.  “Johnny” tries to guess who is singing.  The singer becomes the new “Johnny.”"
@@ -3451,9 +2796,7 @@
     "game": null,
     "meter": "duple",
     "range": "9M",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "notes": [
       [
         "Alternate verses from the ToneWay Project: http://toneway.com/songs/johnson-boys#ixzz4A0znQpQ6"
@@ -3496,9 +2839,7 @@
     "game": ["circle"],
     "meter": "quadruple",
     "range": "6M",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "Formation: A double circle of players standing side by side and holding inside hands, in the form of the spokes of a wheel.  One person is designated “The miller” and stands alone in the center of the wheel.",
@@ -3541,9 +2882,7 @@
     "game": ["circle"],
     "meter": "quadruple",
     "range": "6M",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "All players sit on the floor in a circle, leaving one empty place. On  Oh, Miss_______  the named player “flies over”  to the empty place, moving in different ways to the new place."
@@ -3592,7 +2931,6 @@
     "game": null,
     "meter": "duple",
     "range": "5P",
-    "recording": null,
     "language": "english",
     "partWork": "2-part arrangement - Sourwood Mountain",
     "notes": [
@@ -3637,7 +2975,6 @@
       "Chubby Parker and His Old-Time Banjo https://www.youtube.com/watch?v=BxC-c8s-RCw"
     ],
     "language": "english",
-    "partWork": null,
     "gameDirections": [["Phil’s hand game posted on Facebook..."]],
     "notes": [
       [
@@ -3679,9 +3016,7 @@
     "game": ["chasing game"],
     "meter": "duple",
     "range": "6M",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "An open space in the middle of the playing area is designated as “the king’s land,” while a line at one end of the playing area is marked as “the city limits of Boston,” and yet a third line is marked as a safety zone for the players.  One person is appointed “king” and the other players are his servants.  The kind stands at one end of the playing area while the others march across the middle of the place singing the song.  At a given signal, the king chases the servants to the opposite safety zone.  If the king touches anyone, they must then help the king touch the others after each repetition of the singing and chasing.  One version says for the game to last until all have been caught.  However it is possible to adjust the rules to fit one’s own needs."
@@ -3724,9 +3059,7 @@
     "game": ["play party"],
     "meter": "duple",
     "range": "6M",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "Formation: A single circle of players, holding hands.",
@@ -3767,9 +3100,7 @@
     "game": null,
     "meter": null,
     "range": null,
-    "recording": null,
     "language": "spanish",
-    "partWork": null,
     "notes": [
       [
         "Use this at the end of the “Milano” or “Emiliano” singing games to represent students carrying Emiliano to the grave."
@@ -3805,9 +3136,7 @@
     "game": ["circle"],
     "meter": "duple",
     "range": "8ve",
-    "recording": null,
     "language": "spanish",
-    "partWork": null,
     "gameDirections": [
       [
         "This game was originally intended for girls.  The girls move in a circle as they sing without holding hands.  When they get to the third verse they alternate jumping forward then back every two lines."
@@ -3842,9 +3171,7 @@
     "game": null,
     "meter": "quadruple",
     "range": "6M",
-    "recording": null,
     "language": "spanish",
-    "partWork": null,
     "translation": "(per mamalisa) There was an old rat a-going to iron, / When all of a sudden her tail caught a cire an’ / She put on some ointment, in a cloth tied her tail, / And the poor little rat left it there for a while / Lero lero lero / Lero lero la / That old rat don’t know how to iron."
   },
   {
@@ -3879,9 +3206,7 @@
     "game": ["circle game"],
     "meter": "duple",
     "range": null,
-    "recording": null,
     "language": "spanish",
-    "partWork": null,
     "gameDirections": [
       [
         "The students hold hands and form a circle with the “ratón” in the circle and the “gato” outside the circle.  The students say the chant, and then a student in the circle asks “¿Qué quería comer el gatito?” three times.  Another student answers: “Un pan” (second time, “Unas tortillas”; third time, “Un queso”.  The first three times the circle answers “¡No!”  Each time, the students in the circle say the chant.  The fourth time, a student asks “¿Entonces, qué le gustaría comer al pobre gatito?”  The student answers, “Un ratón.”  Everybody says, “¡Sí!”  The cat then tries to get in the circle and catch the mouse."
@@ -3916,9 +3241,7 @@
     "game": null,
     "meter": "duple",
     "range": "4P",
-    "recording": null,
     "language": "spanish",
-    "partWork": null,
     "gameDirections": [
       [
         "Children are asked to guess the colors of ribbon.  Teachers can have children select different colored ribbons.  The person whose colored ribbon is selected gets to be next.  Also, the child can “be” the colored ribbon.  For example, one child is the red ribbon, and another is the green ribbon, etc."
@@ -3985,7 +3308,6 @@
     "source": [
       "Montoya-Stier, El Patio de mi Casa: 42 Traditional Rhymes, Chants, and Folksongs from Mexico. GIA Publications, 2008. p. 38."
     ],
-    "subject": null,
     "score": "../../../songImages/lasCascarasDeHuevo.png",
 
     "ethnicOrigin": ["mexico"],
@@ -4000,9 +3322,7 @@
     "game": null,
     "meter": null,
     "range": null,
-    "recording": null,
     "language": "spanish",
-    "partWork": null,
     "gameDirections": [
       [
         "Imitate the motions of the jobs.  Lavanderas = washing motions; planchadoras = ironing motions; barrenderas = sweeping motions; bailadoras = dancing motions."
@@ -4044,7 +3364,6 @@
       "(Vicente Fernandez) https://www.youtube.com/watch?v=w_pLp4Ckbpo"
     ],
     "language": "spanish",
-    "partWork": null,
     "translation": "Per HS - As of old, we bring a song, a greeting gay at early dawn; / Waken, friend, and join our singing. Oh hear the music we bring. / I’ll step out of doors at dawning.  I’ll climb up a magic stairs. / And bring down the stars of morning to make a crown for your hair.",
     "notes": [
       [
@@ -4082,7 +3401,6 @@
     "game": ["circle game"],
     "meter": "compound",
     "range": "8P",
-    "recording": null,
     "language": "english",
     "partWork": null
   },
@@ -4123,9 +3441,7 @@
     "game": null,
     "meter": "duple",
     "range": "4P",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "One player is chosen to lead off, At the end of the dialogue sung in question and answer, the leader pours “pretend” lemonade into “glasses” held by each member of the group. Note: Children may improvise different locations, or drinks."
@@ -4172,9 +3488,7 @@
     "game": ["tunnel game"],
     "meter": "quadruple",
     "range": "5P",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "Form two lines facing each other. Hold hands up with partner to form a tunnel. Two children at the head of the line run through to the opposite end on the word “let”. Teacher may clap hands each time on  “let”, or an extra student may play the tambourine each time on  let. If time allows, reverse order."
@@ -4213,9 +3527,7 @@
     "game": ["choosing game"],
     "meter": "duple",
     "range": "4P",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "One child, who is “it,” hides their eyes, while the class sings and the teacher gives “the pumpkin” to a different child.  The child with the pumpkin sings alone and the one who is “it” must guess who was singing.  The child who sang may become “it” if the person who was “it” guesses incorrectly.  If the person guesses correctly, they remain “it” and the game continues."
@@ -4237,7 +3549,6 @@
       "Locke, Eleanor G. Sail Away 155 American Folk Songs to sing read and play Boosey & Hawkes, NY, 1981. 154.",
       "Let’s Slice the Ice, p. 10-11"
     ],
-    "subject": null,
     "score": "../../../songImages/littleJohnnyBrown.png",
     "tonalCenter": "do",
     "ethnicOrigin": [
@@ -4261,7 +3572,6 @@
       "(Bessie Jones) http://research.culturalequity.org/rc-b2/get-audio-detailed-recording.do?recordingId=10305"
     ],
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "Players are standing in a circle, singing and clapping.  One player in the middle dramatizes the words to the song: folding a large handkerchief one corner at a time.  On “Take it to your lover,”  they should choose another person in the circle and approach that person.  On “Show her (him) your motion,” create a motion which the chosen person must copy.  “Lope like a buzzard is shown by putting hands under arm pits and flapping elbows.  The person who receives the handkerchief is the next one in the middle of the circle."
@@ -4304,9 +3614,7 @@
     "game": ["circle game"],
     "meter": "duple",
     "range": "4P",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "Children join hands in a circle, with one child in the center as “Sally”, covering their eyes with their hands. The circle moves around as they sing the song. The child in the center imitates the song all the way through, pointing to another child in the circle at the end of the song, still covering the eyes with one hand so that the choice is accidental. The chosen child becomes “Sally” goes to the center and the game starts again."
@@ -4344,9 +3652,7 @@
     "game": ["partner game"],
     "meter": "quadruple",
     "range": "8P",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "A number of couples, men and women, dance in a circle, in the center of which an extra man, who has no partner, dances alone. The performance of this solo dancer is adorned with elaborate, loose-jointed pattering steps, while stamps, turns and flings add emphasis to the throbbing accentuation of the music. The object of the game is for the lone man in the middle of the ring to steal a partner from one of the men in the dancing circle. Then the robbed man must take the center, and it now becomes his turn to find a mate. So the game goes on, with a constant shifting of partners, while each solo dancer vies with his predecessors in a marvelous abandonment of dance-improvisation. Any number of verses may be made up to suit the occasion."
@@ -4394,9 +3700,7 @@
     "game": ["choosing game", "line game"],
     "meter": "duple",
     "range": "6P",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "Two players go away from the group to choose secret bribes for their respective sides, such as a string of pearls for one side, a diamond necklace for the other. The bribes haven been chosen, these 2 leaders return to the group and raise their clasped hands to form an arch. Then the group sings and marches through the arch. When the words  My fair lady O are sung, the leaders drop their arms quickly around the player just passing through, while everyone sings the chorus the prisoners are taken aside and offered their choices quietly. The prisoner then takes his place behind the leader whose gift he has selected. This goes on till all the players have chosen. A tug of war ends the game."
@@ -4445,9 +3749,7 @@
     "game": ["hand game"],
     "meter": "duple",
     "range": "3M",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [["check original file for game instructions"]]
   },
   {
@@ -4480,9 +3782,7 @@
     "game": ["action/passin game"],
     "meter": "duple",
     "range": "9M",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [["check original file for game instructions"]]
   },
   {
@@ -4521,9 +3821,7 @@
     "game": ["action song", "circle game"],
     "meter": "compound",
     "range": "6M",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "Children stand in a circle, and follow the activities of the verses of the song."
@@ -4565,9 +3863,7 @@
     "game": ["chasing game", "guessing game"],
     "meter": "duple",
     "range": "4P",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "Play as A-Tisket, A-Tasket. Children form a circle facing inward. One player takes the “pocket” and walks around outside the circle while all sing the song. At the end of the song the “pocket” is dropped, and the player thus signaled chases the other around in the same direction in a race for the place vacated. The winner becomes it."
@@ -4638,9 +3934,7 @@
     "game": ["circle game"],
     "meter": "quadruple",
     "range": "8ve",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "Single circle of players.  Measures 1-4 students alternate clapping their own hands on beats one and three, and by turning their hands sideways patting the hands of the persons on each side of them on beats two and four.",
@@ -4681,7 +3975,6 @@
     "game": null,
     "meter": "duple",
     "range": "5P",
-    "recording": null,
     "language": "english",
     "partWork": null
   },
@@ -4714,9 +4007,7 @@
     "game": ["line game"],
     "meter": "quadruple",
     "range": "5P",
-    "recording": null,
     "language": "spanish",
-    "partWork": null,
     "gameDirections": [
       [
         "Divide the class into two lines facing each other, about eight feet apart.  Designate one group to sing the first line.  As they sing, they take four steps toward the second line, curtsy, and take four steps back, ending in the same place.  They sing the first phrase twice, once going forward and once going backward.  Then the second group sings the second phrase as they take four steps toward the first line and then four steps back, ending in the same place.  The first line then sings the next verse and so forth.  To end, when they sing the last line, the two groups join to form a circle.  The circle moves as they celebrate together."
@@ -4758,9 +4049,7 @@
     "game": null,
     "meter": "triple",
     "range": "8ve",
-    "recording": null,
     "language": "spanish",
-    "partWork": null,
     "translation": "There was a hen that I had.  It died.  My bad luck.  I only had the little chicks and I would take them walking by the rivers.  Melancholy.  With little rice I would feed and maintain them.  Of the little chicks that I had left, they grew up and got married.  The hens had baby chicks.  Now I’m rich and I have it all with happiness and I live in party all day long."
   },
   {
@@ -4802,9 +4091,7 @@
     "game": null,
     "meter": "duple",
     "range": "6M",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "notes": [
       [
         "HNU - The same songs are used for rowing as for shouting.  I know only one pure boat-song, the fine lyric, 'Michael row the boat ashore'; and this I have no doubt is a real spiritual - it being the archangel Michael that is addressed.  'As I have written these tunes, ' says Mr. Ware, 'two measures are to be sung to each stroke, the first measure being accented by the beginning of the stroke, the second by the rattle of the oars in the rowlocks.  On the passenger boat at the [Beaufort] ferry, they rowed from sixteen to thirty strokes a minute; twenty-four was the average.  'Michael row' was used when the load was heavy or the tide was against us.'  -- Allen et al, Slave Songs of the United States"
@@ -4842,9 +4129,7 @@
     "game": null,
     "meter": "quadruple",
     "range": "9M",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "notes": [
       [
         "HS - Imported from England, this story song was popular in colonial times and flowered in Appalachia.  Children often pantomime the words as they sing the song or dance to its rhythm.  In the English version, the frog is said to refer to the Duke of Anjou who was courting Queen Elizabeth.  There is another version of the same song which is quite different in character.  Another song Frog He Would A-Wooing Go bears marked similarity to Frog Went A-Courting."
@@ -4881,9 +4166,7 @@
     "game": null,
     "meter": "duple",
     "range": "9M",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "notes": [["Replace “Lord” with “friend.”"]]
   },
   {
@@ -4914,7 +4197,6 @@
     "game": null,
     "meter": "triple",
     "range": "8ve",
-    "recording": null,
     "language": "english",
     "partWork": null
   },
@@ -4934,7 +4216,6 @@
     "source": [
       "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. 280."
     ],
-    "subject": null,
     "score": "../../../songImages/motherAndFatherAndUncleJohn.png",
 
     "ethnicOrigin": null,
@@ -4950,7 +4231,6 @@
     "game": null,
     "meter": "duple",
     "range": null,
-    "recording": null,
     "language": "english",
     "partWork": null
   },
@@ -4983,7 +4263,6 @@
     "game": ["jump rope game"],
     "meter": "duple",
     "range": "5P",
-    "recording": null,
     "language": "english",
     "partWork": null
   },
@@ -5035,7 +4314,6 @@
       "Playground song collected by Sean Deibler.",
       "Chosky, Lois and David Frummit, 120 Singing Games and Dances, Prenteic Hall, Englewood Cliffs, New Jersey. 1996. page 180."
     ],
-    "subject": null,
     "score": "../../../songImages/myLandlord.png",
     "tonalCenter": "la",
     "ethnicOrigin": ["united states"],
@@ -5051,9 +4329,7 @@
     "game": ["hand clapping"],
     "meter": "quadruple",
     "range": "6m",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "Partners facing each other.  Sing the song using this body ostinato:",
@@ -5098,9 +4374,7 @@
     "game": ["chasing game"],
     "meter": "duple",
     "range": "4P",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "One student taps a row or a circle of students one at a time and one per beat.  The last person to be tapped chases the child who did the tapping.  The child being chased tries to get back to his place in the row or circle before being tapped by the chaser.  Whoever wins becomes the next tapper."
@@ -5137,9 +4411,7 @@
     "game": ["circle game"],
     "meter": "duple",
     "range": "6M",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "Formation: a circle of players.",
@@ -5178,9 +4450,7 @@
     "game": ["circle game"],
     "meter": "quadruple",
     "range": "7M",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "Formation: Players make a circle, holding hands.  Two other players hold hands over one place of the circle like a bridge.",
@@ -5222,9 +4492,7 @@
     "game": ["chase game"],
     "meter": "compound",
     "range": "4P",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "Two “robbers” hide along the path where the “travelers” have to pass.  After the “robbers” have hidden, the “travelers” walk along singing the song.  Suddenly the “robbers” rush out and try to catch the “travelers.”  Those caught become “robbers.”"
@@ -5263,9 +4531,7 @@
     "game": null,
     "meter": "compound",
     "range": "6M",
-    "recording": null,
     "language": "spanish",
-    "partWork": null,
     "gameDirections": [
       [
         "Students move their hands up and down to the beat, and on “desconchinfladita” they let their hands drop."
@@ -5308,9 +4574,7 @@
     "game": ["line game"],
     "meter": "duple",
     "range": "9m",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "Formation: Two lines of players, contra dance formation",
@@ -5351,9 +4615,7 @@
     "game": ["passing game"],
     "meter": "duple",
     "range": "6M",
-    "recording": null,
     "language": "akan",
-    "partWork": null,
     "gameDirections": [
       [
         "Players sit in a circle, each with a smooth stone.  On the first beat of each measure, pass the stone one person to the left.  On the second beat of each measure, pick up the stone that is in front of them.",
@@ -5393,7 +4655,6 @@
     "game": ["play party"],
     "meter": "duple",
     "range": "8P",
-    "recording": null,
     "language": "english",
     "partWork": null
   },
@@ -5411,7 +4672,6 @@
       "Dallin, Leon and Lynn. Heritage Songster. Wm. C. Brown Co. Dubuque, Iowa, 1966. 204.",
       "150 Rounds, p. 39."
     ],
-    "subject": null,
     "score": "../../../songImages/ohHowLovely.png",
     "tonalCenter": "do",
     "ethnicOrigin": ["german"],
@@ -5427,7 +4687,6 @@
     "game": null,
     "meter": "compound",
     "range": "6M",
-    "recording": null,
     "language": "english",
     "partWork": "canon",
     "notes": [["Change to 3$"]]
@@ -5461,7 +4720,6 @@
     "game": null,
     "meter": "quadruple",
     "range": "8ve",
-    "recording": null,
     "language": "english",
     "partWork": null
   },
@@ -5492,9 +4750,7 @@
     "game": null,
     "meter": "quadruple",
     "range": "5P",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "notes": [["Ostinato: s ss m"]]
   },
   {
@@ -5534,9 +4790,7 @@
     "game": ["play party", "circle game"],
     "meter": "duple",
     "range": "8ve",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "Formation: Players stand in a circle by partners, facing in.",
@@ -5582,9 +4836,7 @@
     "game": ["play party"],
     "meter": "duple",
     "range": "6M",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [["perform the directions as sung in the text"]],
     "notes": [
       [
@@ -5626,9 +4878,7 @@
     "game": null,
     "meter": "quadruple",
     "range": "11M",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "notes": [
       [
         "Merge with other version: Lone Star Trail",
@@ -5667,7 +4917,6 @@
     "game": null,
     "meter": "quadruple",
     "range": "6M",
-    "recording": null,
     "language": "english",
     "partWork": null
   },
@@ -5705,9 +4954,7 @@
     "game": ["play party"],
     "meter": "duple",
     "range": "7m",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "Partners join hands and form a big ring. At large parties, especially those that are held in the yard or on the road in front of the house, these rings are forty or fifty feet in diameter. When the singing starts, the players hold hands and march to their right. At the chorus, the boys turn back and begin weaving through the line of girls, swinging the first by the left hand, the second by the right, and so on until they reach their partners. Then they promenade through a verse and chorus and form the ring again. For variety's sake the boys change partners by dropping back to the girl behind them and then swing their ladies twice the second time around. With as many verses as most leaders know and can make up, 'Old Joe Clark' can last a long time."
@@ -5750,7 +4997,6 @@
     "game": ["circle game"],
     "meter": "duple",
     "range": "5P",
-    "recording": null,
     "language": "english",
     "gameDirections": [
       [
@@ -5791,7 +5037,6 @@
     "game": null,
     "meter": "duple",
     "range": "9M",
-    "recording": null,
     "language": "english",
     "partWork": "canon",
     "notes": [
@@ -5831,9 +5076,7 @@
     "game": ["action song"],
     "meter": "compound",
     "range": "4P",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "Players stand in a circle with one student in the middle. For the first line of the song, the Student in the middle makes a motion, which all must follow. On the second line of the song,everyone does what the words say and on “around you go” the center person chooses another player."
@@ -5872,7 +5115,6 @@
     "range": "6M",
     "recording": ["https://www.youtube.com/watch?v=EjibPhj6bCk"],
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "Jump rope game. All players sing the jumper’s name; the jumper sings out the name of the person he wants to take his place. The current jumper jumps out on the final rest. The new jumper jumps in on the first beat of the repeat."
@@ -5912,9 +5154,7 @@
     "game": null,
     "meter": "triple",
     "range": "8ve",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "notes": [
       [
         "On Top of Old Smoky is a well-known courting song developed in the mountain areas of southern and eastern United States.  The verses sung to it are endless, and singers added to them as they sang the song.  They still do."
@@ -5950,9 +5190,7 @@
     "game": ["action song"],
     "meter": "duple",
     "range": null,
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "notes": [["CHECK HNU FOR MORE INFORMATION ON A PITCHED VERSION"]]
   },
   {
@@ -5985,7 +5223,6 @@
     "game": ["finger play"],
     "meter": "duple",
     "range": null,
-    "recording": null,
     "language": "english",
     "partWork": null
   },
@@ -6028,7 +5265,6 @@
       "John Langstaff  https://www.youtube.com/watch?v=rmgkGxFkuZU"
     ],
     "language": "english",
-    "partWork": null,
     "notes": [["Book..."]]
   },
   {
@@ -6064,7 +5300,6 @@
     "range": "6M",
     "recording": ["https://www.youtube.com/watch?v=Wt-GGP1dJUg (Jean Ritchie)"],
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "Players are in two lines, facing partners.",
@@ -6105,7 +5340,6 @@
     "game": null,
     "meter": "duple",
     "range": "6M",
-    "recording": null,
     "language": "english",
     "partWork": null
   },
@@ -6143,9 +5377,7 @@
     "game": ["play party"],
     "meter": "duple",
     "range": "9M",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "Longways sets of partners",
@@ -6192,9 +5424,7 @@
     "game": ["hand clapping"],
     "meter": "duple",
     "range": null,
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "Beat 1 – Clap partner’s hands",
@@ -6234,9 +5464,7 @@
     "game": null,
     "meter": null,
     "range": null,
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "Students stand in a circle, close together; one student is chosen to be “it,” standing in the middle of the circle.  The circle may hold a string which runs through a large bead or they may simply pass a rock.  As they sing the song, they must pass the bead or rock past as many students as possible without the person in the center seeing it.  At the end of two repetitions of singing, “it” must try to guess who has the bead or rock.  They get three guesses.  Whether they guess correctly or not, the person with the bead exchanges places with the person in the middle, and the game begins again."
@@ -6254,7 +5482,6 @@
     "focusSong": null,
 
     "source": null,
-    "subject": null,
     "score": "../../../songImages/pegLegThePirate.png",
 
     "ethnicOrigin": null,
@@ -6268,7 +5495,6 @@
     "game": null,
     "meter": null,
     "range": null,
-    "recording": null,
     "language": null,
     "partWork": null
   },
@@ -6302,9 +5528,7 @@
     "game": null,
     "meter": "quadruple",
     "range": "7m",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "notes": [
       [
         "Per Phil, change Phoebe in his petticoat to Billy in his bright, blue jeans"
@@ -6338,9 +5562,7 @@
     "game": ["action"],
     "meter": "duple meter",
     "range": "4P",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "Measure 1 –toss a ball in the air and catch it.",
@@ -6380,7 +5602,6 @@
     "game": null,
     "meter": "quadruple",
     "range": "8P",
-    "recording": null,
     "language": "english",
     "partWork": null
   },
@@ -6398,7 +5619,6 @@
       "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. ????.",
       "Authors: Thomas KenGenevan Psalter, 1551; attr. Louis Bourgeois"
     ],
-    "subject": null,
     "score": "../../../songImages/praiseAndThanksgiving.png",
     "tonalCenter": "do",
     "ethnicOrigin": ["alsace"],
@@ -6414,7 +5634,6 @@
     "game": null,
     "meter": "triple",
     "range": "8ve",
-    "recording": null,
     "language": "english",
     "partWork": ["canon"]
   },
@@ -6459,7 +5678,6 @@
       "Guy Carawan - https://www.youtube.com/watch?v=YrCvoADoXTM"
     ],
     "language": "english",
-    "partWork": null,
     "notes": [["Per Gaby - based in sol because ti implies half steps"]]
   },
   {
@@ -6492,9 +5710,7 @@
     "game": ["circle game"],
     "meter": "duple",
     "range": "6M",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "One child stands in front with his or her back to the class.  While singing the song, on the last word, the child turns around making a silly face and all must imitate the face."
@@ -6532,9 +5748,7 @@
     "game": ["circle gam"],
     "meter": "duple",
     "range": "3m",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "The question is accompanied by a rapid movement of the right hand. The second child in the ring inquires in the same manner of the third; and so all round. Then the same question is asked with a like gesture of the left hand, and, after this has gone round, with both hands, left foot, right foot, both feet, and finally by uniting all the motions at once. 'A nice long game,' as our little informant said."
@@ -6552,7 +5766,6 @@
     "focusSong": "low ti",
 
     "source": null,
-    "subject": null,
     "score": "../../../songImages/queenAlexandra.png",
 
     "ethnicOrigin": null,
@@ -6566,9 +5779,7 @@
     "game": null,
     "meter": null,
     "range": null,
-    "recording": null,
     "language": null,
-    "partWork": null,
     "gameDirections": [
       [
         "Game formation: circle or row of players with one student in the middle",
@@ -6607,9 +5818,7 @@
     "game": ["action game"],
     "meter": "duple",
     "range": null,
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "Phrase 1 - pantomime crown motion to the beat",
@@ -6654,9 +5863,7 @@
     "game": ["circle game"],
     "meter": "duple",
     "range": "8ve",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "Players sit on the floor in a circle, seated rather close together.  One person is chosen to be “Rabbit” and another to be “Possum.”  “Rabbit” is blindfolded, “Possum” is not.  After the singing the song, “Rabbit” says his name, and “Possum” must answer immediately with his name.  “Rabbit” tries to touch “Possum” indicated by where the sound came from.  “Rabbit” may say his name as often as he wants and each time “Possum” must answer immediately.  After “Rabbit” has caught “Possum” the song is sung and the game begins again with new players."
@@ -6705,9 +5912,7 @@
     "game": null,
     "meter": "duple",
     "range": "4P",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "120 - Show the rain falling by moving fingers while lowering hands from overhead, or pretend to push the rain clouds away."
@@ -6745,7 +5950,6 @@
     "game": null,
     "meter": "duple",
     "range": "8P",
-    "recording": null,
     "language": "english",
     "partWork": "canon",
     "gameDirections": [["Movements per Meredith"]]
@@ -6783,9 +5987,7 @@
     "game": ["action song", "circle"],
     "meter": "duple",
     "range": "6M",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "Children join hands in a circle and walk around singing the song. At the word “down,” they all squat down on their heels, then immediately get up, and the game begins again."
@@ -6832,7 +6034,6 @@
     "game": null,
     "meter": "triple",
     "range": "8ve",
-    "recording": null,
     "language": "english",
     "partWork": ["canon"]
   },
@@ -6869,9 +6070,7 @@
     "game": ["movement"],
     "meter": "duple",
     "range": "6M",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       ["Kelly Laws had a play party?"],
       ["phrases 3 & 4: Step, pat, high five, snap (to prep contour)"]
@@ -6910,9 +6109,7 @@
     "game": ["circle game"],
     "meter": "quadruple",
     "range": "5P",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "Students stand in a circle.  One person is chosen to be the leader.  That person steps around the outside of the circle, leading the singing and possibly playing a drum or tambourine. On the last syllable of the song, the peader taps the person they are closest to, then runs around the circle.  The tapped person musr run in the OPPOSITE direction, trying to reach their own place before the leader does.  The loser will then be the next leader."
@@ -6953,9 +6150,7 @@
     "game": ["circle game"],
     "meter": "duple",
     "range": "6M",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "All hold hands in a circle. One player is chosen to be in the middle of the ring. All sing and circle left. On the words,  “Down Miss_______,” the center player touches someone in the circle on the head, and that player must crouch down and move on with the rest, but in a crouching position. The game continues until all are down."
@@ -6998,7 +6193,6 @@
     "game": null,
     "meter": "compound",
     "range": "5P",
-    "recording": null,
     "language": "english",
     "partWork": "canon",
     "notes": [["use in kinder singing line"]]
@@ -7014,7 +6208,6 @@
     "focusSong": "sxc",
 
     "source": null,
-    "subject": null,
     "score": "../../../songImages/sagidiSapopo.png",
 
     "ethnicOrigin": null,
@@ -7028,9 +6221,7 @@
     "game": "body canon",
     "meter": null,
     "range": null,
-    "recording": null,
     "language": null,
-    "partWork": null,
     "gameDirections": [
       [
         "This is an improvisatory game. There is no limit to the number of players.  A leader is chosen to create movements for each measure and the rest of the players imitate the movement a measure later.  The movements are executed in a canonic fashion.  For the older children, the leader can combine different movements in the same measure.  You can also have three or more groups, each one imitating the group before it."
@@ -7050,7 +6241,6 @@
     "source": [
       "Locke, Eleanor G. Sail Away 155 American Folk Songs to sing read and play Boosey & Hawkes, NY, 1981. 40."
     ],
-    "subject": null,
     "score": "../../../songImages/sailAwayLadies.png",
     "tonalCenter": "do",
     "ethnicOrigin": ["united states"],
@@ -7066,9 +6256,7 @@
     "game": null,
     "meter": "duple",
     "range": "12P",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [["Per Phil, do some square dancing"]],
     "notes": [
       [
@@ -7114,7 +6302,6 @@
     "game": ["circle game"],
     "meter": "duple",
     "range": "6M",
-    "recording": null,
     "language": "english",
     "partWork": "canon",
     "gameDirections": [
@@ -7162,9 +6349,7 @@
     "game": ["follow-the-leader"],
     "meter": "quadruple",
     "range": "5P",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "One person is the leader.  He steps the beat around the room while singing.  On each of the rests in measures 3 and 5, he may touch someone.  The touched persons hold onto the leader’s shirt (coat) and follow the leader.  Continue singing until many people are marching in the line."
@@ -7203,9 +6388,7 @@
     "game": ["play party"],
     "meter": "duple",
     "range": "8ve",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "Players choose partners, and form a single ring, ladies on the right.  All join hands.",
@@ -7252,9 +6435,7 @@
     "game": null,
     "meter": "compound",
     "range": "9M",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "notes": [
       [
         "HS - Both the words and melody of this old English song exist in many versions.  Features they all have in common are a list of impossible tasks for the lovers to perform and the four seasonings--parsley, sage, rosemary, and thyme."
@@ -7290,9 +6471,7 @@
     "game": null,
     "meter": "compound",
     "range": "9M",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "notes": [
       [
         "HS - Both the words and melody of this old English song exist in many versions.  Features they all have in common are a list of impossible tasks for the lovers to perform and the four seasonings--parsley, sage, rosemary, and thyme."
@@ -7330,9 +6509,7 @@
     "game": ["hand game"],
     "meter": "duple",
     "range": "6M",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "notes": [
       [
         "HNU: Katherine Shipp: 'I learned it when I was small too... a little puppy, really.'",
@@ -7371,7 +6548,6 @@
     "game": null,
     "meter": "duple",
     "range": "5P",
-    "recording": null,
     "language": "english",
     "partWork": ["canon", "partner song with Great Big House or Ida Red"],
     "notes": [["Find book by _______."]]
@@ -7411,9 +6587,7 @@
     "game": null,
     "meter": "duple",
     "range": "8ve",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "notes": [
       [
         "This version of Shady Grove is based on an old Southern Mountain banjo- or fiddle-learning piece.Everybody who played the song made up words. I heard verses from my father, my sister, and myself filled in a few of the lines and added the chorus. Here I play it on the three-stringed Appalachian Dulcimer, as I learned from my father in Viper, Kentucky."
@@ -7457,9 +6631,7 @@
     "game": ["egg-passing game"],
     "meter": "duple",
     "range": "6M",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [["Egg-passing game?"]]
   },
   {
@@ -7491,9 +6663,7 @@
     "game": ["play party"],
     "meter": "duple",
     "range": "8ve",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "notes": [
       [
         "Allegedly, during the Civil War, a soldier told another “Shoo fly, don’t bother me.”  This inspired T. Brigham Bishop to compose the song."
@@ -7535,7 +6705,6 @@
     "game": null,
     "meter": "quadruple",
     "range": "8ve",
-    "recording": null,
     "language": "english",
     "partWork": null
   },
@@ -7569,7 +6738,6 @@
     "game": null,
     "meter": "quadruple",
     "range": "6M",
-    "recording": null,
     "language": "english",
     "partWork": null
   },
@@ -7600,9 +6768,7 @@
     "game": ["play party"],
     "meter": "compound",
     "range": "8ve",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "Formation: Players join hands in a single circle.  Two couples step into the circle and form a right hand star.",
@@ -7655,9 +6821,7 @@
     "game": ["play party"],
     "meter": "duple",
     "range": "6m",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "Formation: Single circle of partners, facing in. The girl is at her partner's right.",
@@ -7713,9 +6877,7 @@
     "game": ["follow-the-leader"],
     "meter": "duple",
     "range": "4P",
-    "recording": null,
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "Children form a line. One end player stands still, and the player at the other end moves in a wide circle, slowly winding the line up tight around the stationary person. After all are wound up tight, the outer coil wheels sharply in a contrary direction and all follow, retracing their steps."
@@ -7756,7 +6918,6 @@
     "range": "8ve",
     "recording": ["Peggy Seeger on YouTube"],
     "language": "english",
-    "partWork": null,
     "gameDirections": [
       [
         "from Jill Trinka) Seated circle.  Assign snake, frog, and lizard.  Snake and frog sit inside the circle.  Lizard lurks in the weeds outside the circle.  Players act out the text: mixing the hoecake, setting it out for the frog to watch it.  Lizard comes into the circle, takes the hoecake and runs.  After the last phrase of the song, Snake and Frog chase the Lizard."
@@ -7767,1166 +6928,5 @@
         "A hoecake is a thick batter which has been mixed with water and placed on a hoe and cooked on an open fire or on hot coals.  This was usually done by field hands who were too far away from the main house to return for lunch."
       ]
     ]
-  },
-  {
-    "songTitle": "somebody's knockin' at your door",
-    "function": {
-      "rhythmic": { "presentation": [], "practice": ["ra"] },
-      "melodic": { "presentation": [], "practice": ["high do"] },
-      "kinder": {},
-      "misc": {}
-    },
-    "focusSong": null,
-    "grade": [3, 5],
-    "source": [
-      "Hollowell, E. Calhoun Plantation Songs. C. W. Thompson, 1901. 72",
-      "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. 386.",
-      "Sing it Yourself (Bradford)"
-    ],
-    "subject": null,
-    "score": "../../../songImages/somebodysKnockinAtYourDoor.png",
-    "tonalCenter": "do",
-    "ethnicOrigin": ["united states", "south"],
-    "mm": 120,
-    "csp": "E",
-    "toneSet": ["la,", "do", "re", "mi", "sol", "la", "do'"],
-    "scale": "extended do pentatonic",
-    "form": ["ABCD"],
-    "rhythmicElements": ["q", "sd", "aqa", "ra"],
-
-    "rhythmicSpecialties": ["ra"],
-    "melodicElements": "high do",
-    "game": null,
-    "meter": "quadruple",
-    "range": "10m",
-    "recording": null,
-    "language": "english",
-    "partWork": null
-  },
-  {
-    "songTitle": "sourwood mountain",
-    "function": {
-      "rhythmic": { "presentation": [], "practice": ["gc"] },
-      "melodic": { "presentation": [], "practice": ["high do"] },
-      "kinder": {},
-      "misc": {}
-    },
-    "focusSong": null,
-    "grade": [4],
-    "source": [
-      "Rohrbaugh, Lynn. Handy Play Party Book. Delaware, Ohio: Cooperative Recreation Service, 1968. 113.",
-      "Erdei, Peter (ed.) and Komlos, Katalin.  150 American Folk Songs. Boosey & Hawkes, 1974  (7th printing 1985). p. 65.",
-      "FSNAS, p. 97.",
-      "Dallin, Leon and Lynn. Heritage Songster. Wm. C. Brown Co. Dubuque, Iowa, 1966. 114."
-    ],
-    "subject": ["love and courtship"],
-    "score": "../../../songImages/sourwoodMountain.png",
-    "tonalCenter": "do",
-    "ethnicOrigin": ["united states", "anglo-american", "appalachia"],
-    "mm": 160,
-    "csp": "D",
-    "toneSet": ["sol,", "la,", "do", "re", "mi", "sol", "la", "do'"],
-    "scale": "extended do pentatonic",
-    "form": ["AABB"],
-    "rhythmicElements": ["q", "sd", "xxcc", "sxc", "xcd", "gc"],
-
-    "rhythmicSpecialties": ["gc"],
-    "melodicElements": "high do",
-    "game": null,
-    "meter": "duple",
-    "range": "12P",
-    "recording": null,
-    "language": "english",
-    "partWork": "2-part arrangement",
-    "notes": [
-      ["More verses in 150"],
-      [
-        "HS - This very old humor song was preserved in the isolation of the southern mountains.  The words varied with the immediate area in which is was sung.  It most often was sung in unison and served as a rollicking fiddle tune for the rural dances.  Appalachia was a world apart, nestled in the southern mountains.  During the seventeenth century, immigrants from the British Isles settled there.  They kept to themselves partly by choice, partly because of the inaccessibility of the rugged terrain, and partly because transportation was primitive.  Songs were handed down orally through the generations.  Many that died out a century or more ago in the British Isles still are sung regularly in the mountain areas of the South. It has been said that nearly every folk song sung in the British Isles still can be found in these mountain regions.  This may very well be true.  Music there is a vital, living thing. Most homes have at least one musical instrument and everybody sings--from the youngest to the oldest inhabitant."
-      ]
-    ]
-  },
-  {
-    "songTitle": "starlight star bright",
-    "function": {
-      "rhythmic": { "presentation": [], "practice": ["qsd"] },
-      "melodic": { "presentation": [], "practice": ["la"] },
-      "kinder": {},
-      "misc": {}
-    },
-    "focusSong": null,
-    "grade": [0, 2],
-    "source": [
-      "Teaching Music at Beginning Levels through the Kodaly Concept. Wellesley, Mass.: Kodaly Musical Training Institute, 1973. 122.",
-      "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. 387.",
-      "Opie, Iona and M. Tatem. A Dictionary of Superstitions. Oxford University Press. Oxford, UK. 1989. pages 175-76."
-    ],
-    "subject": ["nature", "stars"],
-    "score": "../../../songImages/starlightStarBright.png",
-    "tonalCenter": "sol",
-    "ethnicOrigin": ["england"],
-    "mm": 85,
-    "csp": "B",
-    "toneSet": ["mo", "sol", "la"],
-    "scale": "child's chant",
-    "form": ["AAAA"],
-    "rhythmicElements": ["q", "sd"],
-    "otherKConcepts": ["beat/rhythm", "sign language per gaby"],
-    "rhythmicSpecialties": ["qsd"],
-    "melodicElements": "la",
-    "game": null,
-    "meter": "duple",
-    "range": "4P",
-    "recording": null,
-    "language": "english",
-    "partWork": null,
-    "notes": [["Find video of sign language to this song."]]
-  },
-  {
-    "songTitle": "sweet betsy from pike",
-    "function": {
-      "rhythmic": { "presentation": [], "practice": ["ra"] },
-      "melodic": { "presentation": [], "practice": ["ti"] },
-      "kinder": {},
-      "misc": {}
-    },
-    "focusSong": null,
-    "grade": [4],
-    "source": [
-      "Erdei, Peter and Komlos, Katalin. 150 American Folk Songs to Sing Read and Play.  Boosey & Hawkes, NY, 1974. 93",
-      "Dallin, Leon and Lynn. Heritage Songster. Wm. C. Brown Co. Dubuque, Iowa, 1966. 153."
-    ],
-    "subject": ["prospector song"],
-    "score": "../../../songImages/sweetBetsyFromPike.png",
-    "tonalCenter": "do",
-    "ethnicOrigin": ["united states", "west"],
-    "mm": 180,
-    "csp": "C",
-    "toneSet": ["do", "re", "mi", "fa", "sol", "la", "ti", "do'"],
-    "scale": "major",
-    "form": ["ABCDD"],
-    "rhythmicElements": ["q", "sd", "Q", "ra"],
-    "otherKConcepts": ["internal anacrusis"],
-    "rhythmicSpecialties": ["ra"],
-    "melodicElements": "ti",
-    "game": null,
-    "meter": "triple",
-    "range": "8ve",
-    "recording": null,
-    "language": "english",
-    "partWork": null,
-    "notes": [
-      ["More verses in 150"],
-      [
-        "HS - This song crossed the country with prospectors heading for western gold, and “Sweet Betsy” came to represent every girl who might have made the perilous trip.  This song is typical of the exaggerated humor and satire sometimes found in songs of the frontier.  Carl Sandburg wrote of Sweet Betsy from Pike, “It has the stuff of a realistic novel.  It is droll and don’t-care, bleary and leering, as slippery and lackadaisical as some of the come characters of Shakespeare.”  The melody was brought to this country under the name Villikins and his Dinah, a copy of which is in the British Museum in a very old manuscript."
-      ]
-    ]
-  },
-  {
-    "songTitle": "swing low sweet chariot",
-    "function": {
-      "rhythmic": { "presentation": [], "practice": [] },
-      "melodic": { "presentation": [], "practice": ["low sol"] },
-      "kinder": {},
-      "misc": {}
-    },
-    "focusSong": null,
-    "grade": [5],
-    "source": [
-      "Erdei, Peter and Komlos, Katalin. 150 American Folk Songs to Sing Read and Play.  Boosey & Hawkes, NY, 1974. 60",
-      "Dallin, Leon and Lynn. Heritage Songster. Wm. C. Brown Co. Dubuque, Iowa, 1966. 108."
-    ],
-    "subject": ["spiritual"],
-    "score": "../../../songImages/swingLowSweetChariot.png",
-    "tonalCenter": "do",
-    "ethnicOrigin": ["united states", "spiritual"],
-    "mm": 92,
-    "csp": "A",
-    "toneSet": ["sol,", "la,", "do", "re", "mi", "sol", "la"],
-    "scale": "extended do pentatonic",
-    "form": ["ABCD"],
-    "rhythmicElements": ["q", "sd", "w", "ra", "aqa", "ar"],
-    "otherKConcepts": ["internal anacrusis ", "dc al fine"],
-
-    "melodicElements": "low sol",
-    "game": null,
-    "meter": "quadruple",
-    "range": "9M",
-    "recording": null,
-    "language": "english",
-    "partWork": null,
-    "notes": [
-      [
-        "HS - The beliefs expressed in Swing Low, Sweet Chariot are typical of those found in the many spirituals that originated in America.  Home represents the promised land, and the River Jordan is symbolic of an obstacle that has to be overcome or crossed to get there.  The words “coming for to carry me home” may be sung by the entire group and the alternating phrases by a soloist for varied effect.  There is an ancient legend of a wise and good king in Africa who was taken to heaven in a golden chariot before the eyes of his amazed people.  This song may have come from Africa to southern plantations."
-      ]
-    ]
-  },
-  {
-    "songTitle": "tecolote",
-    "function": {
-      "rhythmic": { "presentation": [], "practice": [] },
-      "melodic": { "presentation": [], "practice": [] },
-      "kinder": {},
-      "misc": {}
-    },
-    "focusSong": null,
-    "grade": [2],
-    "source": null,
-    "subject": null,
-    "score": "../../../songImages/tecolote.png",
-
-    "ethnicOrigin": null,
-
-    "csp": null,
-    "toneSet": null,
-
-    "form": null,
-    "rhythmicElements": null,
-
-    "game": null,
-    "meter": null,
-    "range": null,
-    "recording": null,
-    "language": "spanish",
-    "partWork": null
-  },
-  {
-    "songTitle": "teddy bear",
-    "function": {
-      "rhythmic": { "presentation": [], "practice": ["Q"] },
-      "melodic": { "presentation": [], "practice": ["sol-mi"] },
-      "kinder": {},
-      "misc": {}
-    },
-    "focusSong": null,
-    "grade": [0, 1],
-    "source": [
-      "120 - This little verse has appeared and reappeared in a number of guises.  Some authorities think it originated as a political gibe against Teddy Roosevelt.  Whatever its origin, it is still in the oral tradition of children togay, both as a jump-rope chant and as an action song.",
-      "Source: Wyzga Helen. Simple Gifts. Resource Book II., 1976.",
-      "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. 390.",
-      "Chosky, Lois and David Frummit, 120 Singing Games and Dances, Prenteic Hall, Englewood Cliffs, New Jersey. 1996. page 33."
-    ],
-    "subject": ["toys", "teddy bears", "movement"],
-    "score": "../../../songImages/teddyBear.png",
-    "tonalCenter": "do",
-    "ethnicOrigin": ["united states", "anglo-american"],
-    "mm": 125,
-    "csp": "B",
-    "toneSet": ["do", "re", "mi", "sol", "la"],
-    "scale": "do pentatonic",
-    "form": ["ABAC"],
-    "rhythmicElements": ["q", "sd", "Q"],
-
-    "rhythmicSpecialties": ["Q"],
-    "melodicElements": ["s-m", "re"],
-    "game": ["action song", "jump rope"],
-    "meter": "duple",
-    "range": "6M",
-    "recording": null,
-    "language": "english",
-    "partWork": null,
-    "gameDirections": [["Children act out the song while singing."]]
-  },
-  {
-    "songTitle": "this old man",
-    "function": {
-      "rhythmic": { "presentation": [], "practice": ["xcd"] },
-      "melodic": { "presentation": [], "practice": ["fa"] },
-      "kinder": {},
-      "misc": {}
-    },
-    "focusSong": null,
-    "grade": [0, 1],
-    "source": [
-      "Wyzga, Helen L.  Simple Gifts, Resource Book I. Copyright 1976. p. 30.",
-      "Dallin, Leon and Lynn. Heritage Songster. Wm. C. Brown Co. Dubuque, Iowa, 1966. 15."
-    ],
-    "subject": ["counting"],
-    "score": "../../../songImages/thisOldMan.png",
-    "tonalCenter": "do",
-    "ethnicOrigin": ["england"],
-    "mm": 105,
-    "csp": "C",
-    "toneSet": ["do", "re", "mi", "fa", "sol", "la"],
-    "scale": "do hexachord",
-    "form": ["ABCD"],
-    "rhythmicElements": ["q", "sd", "xxcc", "xcq", "sxc"],
-    "otherKConcepts": ["counting"],
-    "rhythmicSpecialties": ["xcd"],
-    "melodicElements": "fa",
-    "game": ["action song"],
-    "meter": "duple",
-    "range": "6M",
-    "recording": null,
-    "language": "english",
-    "partWork": null,
-    "notes": [["Check for Malcolm Arnold’s “The Children’s Marching Song.”"]]
-  },
-  {
-    "songTitle": "thread follows the needle",
-    "function": {
-      "rhythmic": { "presentation": [], "practice": [] },
-      "melodic": { "presentation": [], "practice": ["la"] },
-      "kinder": {},
-      "misc": {}
-    },
-    "focusSong": null,
-    "grade": [1],
-    "source": [
-      "Eisen, Ann and Robertson, Lamar.  An American Methodology. Sneaky Snake Publications, 1996. p. 92."
-    ],
-    "subject": ["chores", "needle and thread"],
-    "score": "../../../songImages/threadFollowsTheNeedle.png",
-    "tonalCenter": "mi",
-    "ethnicOrigin": ["united states"],
-    "mm": 72,
-    "csp": "B",
-    "toneSet": ["mi", "sol", "la"],
-    "scale": "child's chant",
-    "form": ["AABC"],
-    "rhythmicElements": ["r", "ssd", "qa"],
-
-    "melodicElements": "la",
-    "game": ["line game"],
-    "meter": "compound",
-    "range": "4P",
-    "recording": null,
-    "language": "english",
-    "partWork": null,
-    "gameDirections": [
-      [
-        "Children stand in a circle formation. Do not hold hands. The leader makes a weaving pattern in and out of the circle. At the last word, the leader touches a child on the head; that child then follows the leader, as does each child who is touched on the head. The weaving pattern continues until all are chosen or the game ends."
-      ]
-    ]
-  },
-  {
-    "songTitle": "tideo",
-    "function": {
-      "rhythmic": { "presentation": [], "practice": ["xxcc"] },
-      "melodic": { "presentation": [], "practice": ["high do"] },
-      "kinder": {},
-      "misc": {}
-    },
-    "focusSong": null,
-    "grade": [2, 4],
-    "source": [
-      "Wyzga, Helen.Simple Gifts Book 3.",
-      "Folk Songs North America Sings, p. 6-7",
-      "Rohrbough, Lynn - Play Party Games, Cooperative Recreation Service, Delaware, Ohio",
-      "Erdei, Peter (ed.) and Komlos, Katalin.  150 American Folk Songs. Boosey & Hawkes, 1974  (7th printing 1985). p. 87.",
-      "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. 393.",
-      "Chosky, Lois and David Frummit, 120 Singing Games and Dances, Prenteic Hall, Englewood Cliffs, New Jersey. 1996. page 68."
-    ],
-    "subject": ["windows", "movement"],
-    "score": "../../../songImages/tideo.png",
-    "tonalCenter": "do",
-    "ethnicOrigin": ["anglo-american", "ohio", "south", "texas"],
-    "mm": 80,
-    "csp": "A",
-    "toneSet": ["do", "re", "mi", "sol", "la", "do'"],
-    "scale": "extended do pentatonic",
-    "form": ["AA'BB"],
-    "rhythmicElements": ["q", "sd", "xxcc"],
-
-    "rhythmicSpecialties": ["xxcc"],
-    "melodicElements": "high do",
-    "game": ["play party", "double-circle"],
-    "meter": "quadruple",
-    "range": "8P",
-    "recording": null,
-    "language": "english",
-    "partWork": null,
-    "gameDirections": [
-      [
-        "A double circle of players: partners facing partners.  Each time the students sing “pass” they step one person to their left.  Each time they sing “Tideo,” they pat their legs, clap their hands, and pat both hands of their partner."
-      ]
-    ],
-    "notes": [
-      [
-        "AFSC - At Christmas time this old play-party song becomes a companion to the favorite Jingle Bells.  Various game patterns may be improvised if desired, but free rhythmic play--with or without bells on ankles or wrists--is perhaps most loved."
-      ]
-    ]
-  },
-  {
-    "songTitle": "to work upon the railway",
-    "function": {
-      "rhythmic": { "presentation": [], "practice": ["qa"] },
-      "melodic": { "presentation": [], "practice": [] },
-      "kinder": {},
-      "misc": {}
-    },
-    "focusSong": null,
-    "grade": [5],
-    "source": [
-      "Locke,Eleanor G. Sail Away 155 American Folk Songs to Sing Read and Play Boosey & Hawkes NY, 1981. 130",
-      "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. 394."
-    ],
-    "subject": ["railroads"],
-    "score": "../../../songImages/toWorkUponTheRailway.png",
-    "tonalCenter": "la",
-    "ethnicOrigin": ["ireland"],
-    "mm": 126,
-    "csp": "A",
-    "toneSet": ["mi", "fa", "sol", "la", "ti", "do'", "re'"],
-    "scale": "natural minor",
-    "form": ["ABCB"],
-    "rhythmicElements": ["r", "ssd", "qa"],
-    "otherKConcepts": ["internal anacrusis", "external anacrusis"],
-    "rhythmicSpecialties": ["qa"],
-
-    "game": null,
-    "meter": "compound",
-    "range": "7m",
-    "recording": null,
-    "language": "english",
-    "partWork": null,
-    "notes": [
-      [
-        "SA - A song written about immigrant Irish railroad workers; set to the tune of a popular Irish reel: probably from a Music Hall variety show"
-      ]
-    ]
-  },
-  {
-    "songTitle": "tortillitas",
-    "function": {
-      "rhythmic": { "presentation": [], "practice": ["qsd"] },
-      "melodic": { "presentation": [], "practice": ["sol-mi"] },
-      "kinder": {},
-      "misc": {}
-    },
-    "focusSong": null,
-    "grade": [0],
-    "source": [
-      "Montoya-Stier, El Patio de mi Casa: 42 Traditional Rhymes, Chants, and Folksongs from Mexico. GIA Publications, 2008. p. 50."
-    ],
-    "subject": ["food", "tortillas", "tacos"],
-    "score": "../../../songImages/tortillitas.png",
-    "tonalCenter": "mi",
-    "ethnicOrigin": ["mexico"],
-    "mm": 120,
-    "csp": "C",
-    "toneSet": ["mi", "sol"],
-    "scale": "child's chant",
-    "form": ["AA"],
-    "rhythmicElements": ["sd", "ssd"],
-
-    "melodicElements": "s-m",
-    "game": ["action song"],
-    "meter": "duple",
-    "range": "3m",
-    "recording": null,
-    "language": "spanish",
-    "partWork": null,
-    "gameDirections": [["Tell story of making tacos.  C suggest fillings."]]
-  },
-  {
-    "songTitle": "twinkle twinkle little star",
-    "function": {
-      "rhythmic": { "presentation": [], "practice": ["qsd"] },
-      "melodic": { "presentation": [], "practice": ["fa"] },
-      "kinder": {},
-      "misc": {}
-    },
-    "focusSong": null,
-    "grade": [0],
-    "source": [
-      "Dallin, Leon and Lynn. Heritage Songster. Wm. C. Brown Co. Dubuque, Iowa, 1966. 80."
-    ],
-    "subject": ["nature", "stars"],
-    "score": "../../../songImages/twinkleTwinkle.png",
-    "tonalCenter": "do",
-    "ethnicOrigin": ["france", "england"],
-    "mm": 80,
-    "csp": "F",
-    "toneSet": ["do", "re", "mi", "fa", "sol", "la"],
-    "scale": "do hexachord",
-    "form": ["ABA"],
-    "rhythmicElements": ["q", "sd"],
-
-    "rhythmicSpecialties": ["qsd"],
-    "melodicElements": "fa",
-    "game": null,
-    "meter": "quadruple",
-    "range": "6M",
-    "recording": null,
-    "language": "english",
-    "partWork": null
-  },
-  {
-    "songTitle": "two four six eight",
-    "function": {
-      "rhythmic": { "presentation": [], "practice": ["qsd"] },
-      "melodic": { "presentation": [], "practice": [] },
-      "kinder": {},
-      "misc": {}
-    },
-    "focusSong": null,
-    "grade": [1],
-    "source": [
-      "Abrahams, Roger D., ed., Jump-Rope Rhymes: A Dictionary. Austin: University of Texas Press, 1969. 197.",
-      "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. 282."
-    ],
-    "subject": ["numbers"],
-    "score": "../../../songImages/twoFourSixEight.png",
-
-    "ethnicOrigin": ["england"],
-    "mm": 120,
-    "csp": null,
-    "toneSet": null,
-
-    "form": ["ABCA"],
-    "rhythmicElements": ["q", "sd"],
-    "otherKConcepts": ["beat/rhythm"],
-    "rhythmicSpecialties": ["qsd"],
-
-    "game": null,
-    "meter": "duple",
-    "range": null,
-    "recording": null,
-    "language": "english",
-    "partWork": null,
-    "notes": [["Check online for a sml version."]]
-  },
-  {
-    "songTitle": "two rubble tum",
-    "function": {
-      "rhythmic": { "presentation": [], "practice": ["internal anacrusis"] },
-      "melodic": { "presentation": [], "practice": ["do"] },
-      "kinder": {},
-      "misc": {}
-    },
-    "focusSong": null,
-    "grade": [2],
-    "source": [
-      "Sung by Sean Deibler in Chattanooga, Tenn. In 1979 at a Kodály Summer Course.",
-      "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. 396."
-    ],
-    "subject": null,
-    "score": "../../../songImages/twoRubbleTum.png",
-    "tonalCenter": "do",
-    "ethnicOrigin": ["united states"],
-    "mm": 110,
-    "csp": "B",
-    "toneSet": ["do", "mi", "sol", "la"],
-    "scale": "do tetratonic",
-    "form": ["call-and-response"],
-    "rhythmicElements": ["q", "sd", "Q", "a"],
-    "otherKConcepts": ["internal anacrusis"],
-
-    "melodicElements": "do",
-    "game": ["circle game"],
-    "meter": "duple",
-    "range": "6M",
-    "recording": null,
-    "language": "english",
-    "partWork": null,
-    "gameDirections": [
-      [
-        "Players stand in a circle with one person (the witch) in the middle.  On the words “to buy”, the players clap their hands on to and make a fist with each hand on buy.  When they say Hey Old Witch, they may put their hands up to their mouths as if calling.  The witch then points to one of the players, who replies, “One o'clock, going on two” etc. until the sixth player has said “Five o'clock going on six.”  With each question, the witch may pantomime and give their answer.  After the last question, all the players in the circle must close their eyes as the witch replies in a scary voice “to boil one of your chickens.” grabbing one of the players in the circle.  The frightened person becomes the next witch."
-      ]
-    ]
-  },
-  {
-    "songTitle": "viva la musica",
-    "function": {
-      "rhythmic": { "presentation": [], "practice": ["ra"] },
-      "melodic": { "presentation": [], "practice": [] },
-      "kinder": {},
-      "misc": {}
-    },
-    "focusSong": null,
-    "grade": [4],
-    "source": [
-      "Bolkavac, Edward and Judith Johnson. 150 Rounds for Singing and Teaching. Boosey & Hawkes, Inc. New York, NY. 1996. Page ___.",
-      "How Can I Keep From Singing, p. 19."
-    ],
-    "subject": ["music"],
-    "score": "../../../songImages/vivaLaMusica.png",
-    "tonalCenter": "sol",
-    "ethnicOrigin": ["italy"],
-    "mm": 100,
-    "csp": "D",
-    "toneSet": ["fa,", "sol,", "la,", "ti,", "do", "re", "mi", "fa", "sol"],
-    "scale": "sol mixolydian",
-    "form": ["ABC"],
-    "rhythmicElements": ["q", "sd", "w", "ra"],
-    "otherKConcepts": ["fermata"],
-    "rhythmicSpecialties": ["ra"],
-
-    "game": null,
-    "meter": "quadruple",
-    "range": "9M",
-    "recording": null,
-    "language": "english",
-    "notes": [["For a good choir, this is a good process in and process out."]]
-  },
-  {
-    "songTitle": "wake up canon",
-    "function": {
-      "rhythmic": { "presentation": [], "practice": ["internal anacrusis"] },
-      "melodic": { "presentation": [], "practice": ["ti"] },
-      "kinder": {},
-      "misc": {}
-    },
-    "focusSong": null,
-    "grade": [5],
-    "source": [
-      "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. 399.",
-      "Bolkavac, Edward and Judith. 150 Rounds for Singing and Teaching. Boosey and Hawkes. New York, NY. 1996. page 38."
-    ],
-    "subject": ["sleep/waking"],
-    "score": "../../../songImages/wakeUpCanon.png",
-    "tonalCenter": "do",
-    "ethnicOrigin": ["united states"],
-    "mm": 100,
-    "csp": "B",
-    "toneSet": ["sol,", "do", "re", "mi", "fa", "sol", "la", "ti", "do'"],
-    "scale": "major",
-    "form": ["ABCD"],
-    "rhythmicElements": ["q", "w", "t"],
-    "otherKConcepts": ["internal anacrusis"],
-
-    "melodicElements": "ti",
-    "game": null,
-    "meter": "quadruple",
-    "range": "11P",
-    "recording": null,
-    "language": "english",
-    "partWork": ["canon"]
-  },
-  {
-    "songTitle": "wallflowers",
-    "function": {
-      "rhythmic": { "presentation": [], "practice": ["sxc", "re"] },
-      "melodic": { "presentation": [], "practice": ["re"] },
-      "kinder": {},
-      "misc": {}
-    },
-    "focusSong": null,
-    "grade": [2, 3],
-    "source": [
-      "So Early in the Morning. Tradition REcords TR 1034. Collected by Diane Hamilton.",
-      "Locke, Eleanor G. Sail Away 155 American Folk Songs to sing read and play Boosey & Hawkes, NY, 1981. 16.",
-      "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. 399."
-    ],
-    "subject": ["nature", "flowers"],
-    "score": "../../../songImages/wallflowers.png",
-    "tonalCenter": "do",
-    "ethnicOrigin": ["irish", "british isles"],
-    "mm": 116,
-    "csp": "D",
-    "toneSet": ["do", "re", "mi", "sol", "la"],
-    "scale": "do pentatonic",
-    "form": ["ABCD"],
-    "rhythmicElements": ["q", "sd", "w", "sxc"],
-
-    "rhythmicSpecialties": ["sxc", "w"],
-    "melodicElements": "re",
-    "game": ["circle game"],
-    "meter": "duple",
-    "range": "6M",
-    "recording": null,
-    "language": "english",
-    "partWork": null,
-    "gameDirections": [
-      [
-        "Players are holding hands in a circle, with one player in the middle.  The player in the middle just dances around inside the circle as the others walk around singing.  At the words: “Let’s all go to...” change the name to the one in the middle.  At the last line of the song, all players act out those words.  As the song begins again, the person in the middle chooses a new player."
-      ],
-      [
-        "All children but one walk counter-clockwise in a circle.  The other child walks clockwise inside of the circle.  Children sing “Let’s all go to...” with a fermata on “to.”  The person in the middle sings a new child’s name and the game repeats.",
-        "Children enjoy having the clockwise cirle accumulate individuals and grow."
-      ]
-    ]
-  },
-  {
-    "songTitle": "we are dancing in the forest",
-    "function": {
-      "rhythmic": { "presentation": [], "practice": ["qsd"] },
-      "melodic": { "presentation": [], "practice": ["la"] },
-      "kinder": {},
-      "misc": {}
-    },
-    "focusSong": null,
-    "grade": [0, 1, 2],
-    "source": [
-      "Wyzga, Helen L.  Simple Gifts, Resource Book I. Copyright 1976. p. 21.",
-      "Locke, Eleanor G., American Folk Songs for Teaching.",
-      "Unpublished collection, Holy Names University. Collected by Betsy Moll.",
-      "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. 402."
-    ],
-    "subject": ["animals", "wolves", "dancing"],
-    "score": "../../../songImages/weAreDancingInTheForest.png",
-    "tonalCenter": "mi",
-    "ethnicOrigin": ["united states"],
-    "mm": 110,
-    "csp": "C",
-    "toneSet": ["mi", "sol", "la"],
-    "scale": "child's chant",
-    "form": ["ABAB"],
-    "rhythmicElements": ["q", "sd"],
-    "otherKConcepts": ["beat/rhythm", "loud/soft"],
-    "rhythmicSpecialties": ["qsd"],
-    "melodicElements": "la",
-    "game": ["action song"],
-    "meter": "duple",
-    "range": "4P",
-    "recording": null,
-    "language": "english",
-    "partWork": null,
-    "gameDirections": [
-      [
-        "Children in a scattered formation.  One child is appointed 'the wolf' and is hiding nearby or is in the center of the circle.  After singing one repetition, the group asks, 'Wolf, are you there' to which 'the wolf' may answer something like, 'No, I am putting on my shoes.' When the wolf answers, 'I'm here!' The children freeze and pretend to be trees in the forest.  'The wolf' then selects the quietest and the most still tree to become the 'wolf.' The game continues.  'Wolf' to play steady beat on a drum."
-      ],
-      [
-        "Formation: a circle of children.  A different child is appointed “the wolf” and is hiding nearby or is in the center of the circle.  After singing one repetition, the circle asks, “Wolf, are you there?” to which “the wolf” may answer something like, “No, I am putting on my shoes.”  When the wolf answers, “I’m coming to get you!” The children run with the wolf chasing after them.  When one is caught, they become “the wolf” and the game continues."
-      ],
-      [
-        "A combination of the two above, but only a few children dance at a time."
-      ]
-    ]
-  },
-  {
-    "songTitle": "weevily wheat",
-    "function": {
-      "rhythmic": { "presentation": [], "practice": ["aqa"] },
-      "melodic": { "presentation": [], "practice": ["low sol"] },
-      "kinder": {},
-      "misc": {}
-    },
-    "focusSong": null,
-    "grade": [3, 4],
-    "source": [
-      "Trinka, Jill. Folk Songs, Singing Games and Play Parties, Vol. III. 25",
-      "Folk Songs North America Sings, p. 34",
-      "Dallin, Leon and Lynn. Heritage Songster. Wm. C. Brown Co. Dubuque, Iowa, 1966. 125.",
-      "Chosky, Lois and David Frummit, 120 Singing Games and Dances, Prenteic Hall, Englewood Cliffs, New Jersey. 1996. page 172.",
-      "Choksy, Lois.  The Kodály Context. Englewood Cliffs, N.J.: Prentice-Hall, Inc., 1981. p. 234-235."
-    ],
-    "subject": ["numbers", "counting"],
-    "score": "../../../songImages/weevilyWheat.png",
-    "tonalCenter": "do",
-    "ethnicOrigin": ["united states", "ozarks", "illinois", "england"],
-    "mm": 110,
-    "csp": "B",
-    "toneSet": ["sol,", "la,", "do", "re", "mi", "sol", "la"],
-    "scale": "extended do pentatonic",
-    "form": ["ABA'B'"],
-    "rhythmicElements": ["q", "sd", "xcd", "aqa"],
-
-    "rhythmicSpecialties": ["aqa"],
-    "melodicElements": "low sol",
-    "game": ["play party"],
-    "meter": "duple",
-    "range": "9M",
-    "recording": null,
-    "language": "english",
-    "partWork": null,
-    "gameDirections": [
-      [
-        "Formation: Four players in a standing circle, holding hands.",
-        "Phrase 1: Step around clockwise.",
-        "Phrase 2: Reverse and step counterclockwise.",
-        "Phrase 3: Player #1 extends LH to center on the beat, palm down, player #2 lays LH on top; players #3 & #4 follow suit, keeping the beat. Players repeat sequence with RH.",
-        "Phrase 4: Player #1 takes LH from bottom of stack and places it on top of the pile and so until the end of the phrase when the process begins all over again."
-      ]
-    ],
-    "notes": [
-      [
-        "HS - Weevily Wheat originally was a jester’s song which referred to Charles II of England and was sung to an old English country dance tune.  In the United States it became a play party game song and square dance tune.  The weevils about which it tells are members of the beetle family with heads that end in projecting snouts.  The grubs, or larvae, hatch from eggs and are highly destructive to many crops.  They are difficult to control with sprays and are destroyed by burning infected plants, grain, and fruit, and by digging up the ground in which they spend the winter."
-      ]
-    ]
-  },
-  {
-    "songTitle": "weldon",
-    "function": {
-      "rhythmic": { "presentation": [], "practice": ["aqa"] },
-      "melodic": { "presentation": [], "practice": ["low ti"] },
-      "kinder": {},
-      "misc": {}
-    },
-    "focusSong": null,
-    "grade": [5],
-    "source": [
-      "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. 402.",
-      "Owens, William A. Swing and Turn. Texas Play Party Games. Tardy Publishing Co. Dallas, TX. 1936. pages 84-85."
-    ],
-    "subject": null,
-    "score": "../../../songImages/weldon.png",
-    "tonalCenter": "do",
-    "ethnicOrigin": ["united states"],
-    "mm": 100,
-    "csp": "B",
-    "toneSet": ["sol,", "la,", "ti,", "do", "re", "mi"],
-    "scale": "incomplete major",
-    "form": ["AABB'"],
-    "rhythmicElements": ["sd", "w", "aqa"],
-
-    "rhythmicSpecialties": ["aqa"],
-    "melodicElements": "low ti",
-    "game": null,
-    "meter": "quadruple",
-    "range": "6M",
-    "recording": null,
-    "language": "english",
-    "partWork": null,
-    "gameDirections": [
-      [
-        "Let’s go - forward and back",
-        "My girl - girls go around",
-        "Once and half - forward 2,3 turn",
-        "Let’s promenade - split",
-        "Fare thee - head moves to foot",
-        "Refrain -swing"
-      ]
-    ]
-  },
-  {
-    "songTitle": "what'll I do with the baby-o?",
-    "function": {
-      "rhythmic": { "presentation": [], "practice": ["xcd", "gc"] },
-      "melodic": { "presentation": [], "practice": ["high do"] },
-      "kinder": {},
-      "misc": {}
-    },
-    "focusSong": null,
-    "grade": [0, 3],
-    "source": [
-      "Ritchie, Jean. Folk Songs of the Southern Appalachians",
-      "Library of Congress AFS 4173 A1. Collected by Robert F. Draves.",
-      "Folk Songs North America Sings, p.24.",
-      "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. 403.",
-      "AFSC, p. 146."
-    ],
-    "subject": ["sleep/waking", "lullaby", "love and courtship"],
-    "score": "../../../songImages/whatllWeDoWithTheBabyo.png",
-    "tonalCenter": "do",
-    "ethnicOrigin": ["united states", "appalachia", "kentucky"],
-    "mm": 84,
-    "csp": "E",
-    "toneSet": ["do", "re", "mi", "sol", "la", "do'"],
-    "scale": "extended do pentatonic",
-    "form": ["AA'BB'"],
-    "rhythmicElements": ["q", "sd", "sxc", "xcd", "gc"],
-
-    "rhythmicSpecialties": ["xcd", "gc"],
-    "melodicElements": "high do",
-    "game": null,
-    "meter": "duple",
-    "range": "8ve",
-    "recording": null,
-    "language": "english",
-    "partWork": null,
-    "notes": [["*Countypin--embroidered quilt or bedspread"]]
-  },
-  {
-    "songTitle": "whistle daughter whistle",
-    "function": {
-      "rhythmic": { "presentation": [], "practice": ["w"] },
-      "melodic": { "presentation": [], "practice": ["fa"] },
-      "kinder": {},
-      "misc": {}
-    },
-    "focusSong": null,
-    "grade": [4],
-    "source": [
-      "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. 406.",
-      "My Singing Bird, p. 82."
-    ],
-    "subject": null,
-    "score": "../../../songImages/whistleDaughterWhistle.png",
-    "tonalCenter": "do",
-    "ethnicOrigin": ["england"],
-    "mm": 160,
-    "csp": "B",
-    "toneSet": ["do", "re", "mi", "fa", "sol"],
-    "scale": "do pentachord",
-    "form": ["AA"],
-    "rhythmicElements": ["q", "Q", "w"],
-    "otherKConcepts": ["internal anacrusis"],
-    "rhythmicSpecialties": ["w"],
-    "melodicElements": "fa",
-    "game": null,
-    "meter": "quadruple",
-    "range": "5P",
-    "recording": null,
-    "language": "english",
-    "partWork": null,
-    "notes": [
-      ["Per Phil - good for improvising. Change “daughter” to C’s name."]
-    ]
-  },
-  {
-    "songTitle": "who's that tapping at the window?",
-    "function": {
-      "rhythmic": { "presentation": [], "practice": ["w"] },
-      "melodic": { "presentation": [], "practice": ["re"] },
-      "kinder": {},
-      "misc": {}
-    },
-    "focusSong": null,
-    "grade": [1, 2],
-    "source": [
-      "150",
-      "Heath (book II), on the trail of the negro folk songs (scarborough/gulledge)",
-      "fsnas"
-    ],
-    "subject": ["windows"],
-    "score": "../../../songImages/whosThat.jpeg",
-    "tonalCenter": "do",
-    "ethnicOrigin": ["united states", "virginia"],
-    "mm": 120,
-    "csp": "D",
-    "toneSet": ["do", "re", "mi", "sol"],
-    "scale": "do pentatonic tetrachord",
-    "form": ["ABAB"],
-    "rhythmicElements": ["q", "sd", "w"],
-
-    "rhythmicSpecialties": ["w"],
-    "melodicElements": "re",
-    "game": null,
-    "meter": "duple",
-    "range": "5P",
-    "recording": null,
-    "language": "english",
-    "partWork": null,
-    "notes": [
-      [
-        "Story: spooky sounds and knocking at my door while I was home alone, playing video games.  Growling is stomach and knocking is pizza man."
-      ]
-    ]
-  },
-  {
-    "songTitle": "wildcat",
-    "function": {
-      "rhythmic": { "presentation": [], "practice": ["xcd"] },
-      "melodic": { "presentation": [], "practice": ["low sol"] },
-      "kinder": {},
-      "misc": {}
-    },
-    "focusSong": null,
-    "grade": [3],
-    "source": [
-      "White, Neuman. Frank C. Brown Collection of North Carolina Folklore. Vol. V Duke University Press. # 679",
-      "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. 406.",
-      "My Singing Bird, p. 11."
-    ],
-    "subject": ["nonsense and play"],
-    "score": "../../../songImages/wildcat.png",
-    "tonalCenter": "do",
-    "ethnicOrigin": [
-      "united states",
-      "anglo-american",
-      "appalachia",
-      "north carolina"
-    ],
-    "mm": 108,
-    "csp": "F",
-    "toneSet": ["sol,", "la,", "do", "re", "mi"],
-    "scale": "do pentatonic",
-    "form": ["AAB"],
-    "rhythmicElements": ["q", "sd", "w", "sxc", "xcd"],
-    "otherKConcepts": ["internal anacrusis"],
-    "rhythmicSpecialties": ["xcd"],
-    "melodicElements": "low sol",
-    "game": null,
-    "meter": "duple",
-    "range": "6M",
-    "recording": null,
-    "language": "english",
-    "partWork": null,
-    "gameDirections": [
-      [
-        "Students enjoy improvising many things that will make the wildcat go wild."
-      ]
-    ]
-  },
-  {
-    "songTitle": "wishy washy",
-    "function": {
-      "rhythmic": { "presentation": [], "practice": [] },
-      "melodic": { "presentation": [], "practice": ["fa"] },
-      "kinder": {},
-      "misc": {}
-    },
-    "focusSong": null,
-    "grade": [5],
-    "source": [
-      "Jill Trinka. Folksongs, Singing Games, and Play Parties, Vol. 1. P. 31 ."
-    ],
-    "subject": ["sea"],
-    "score": "../../../songImages/wishyWashy.png",
-    "tonalCenter": "do",
-    "ethnicOrigin": ["british isles"],
-    "mm": 65,
-    "csp": "D",
-    "toneSet": ["do", "re", "mi", "fa", "sol"],
-    "scale": "do pentachord",
-    "form": ["ABAB"],
-    "rhythmicElements": ["r", "qa"],
-    "otherKConcepts": ["internal anacrusis", "external anacrusis"],
-
-    "melodicElements": "fa",
-    "game": ["circle game"],
-    "meter": "compound",
-    "range": "5P",
-    "recording": null,
-    "language": "english",
-    "partWork": null,
-    "gameDirections": [
-      [
-        "Formation:  A circle of players.  Two players are in the middle of the circle holding both hands.",
-        "When the singing begins, the two center players lean back and spin around for two lines of music.  On the third line the two players drop hands and find a different person in the circle; they stand in front of that person, put their hands on each other’s shoulders and do a little step in which they kick their own legs out to the side, keeping time to the music.  At the end of the song, the new partners meet in the middle of the circle and the game begins again."
-      ]
-    ]
-  },
-  {
-    "songTitle": "witch witch",
-    "function": {
-      "rhythmic": { "presentation": [], "practice": ["qa"] },
-      "melodic": { "presentation": [], "practice": ["sol-mi"] },
-      "kinder": {},
-      "misc": {}
-    },
-    "focusSong": null,
-    "grade": [0, 1],
-    "source": [
-      "Locke, Eleanor G.  Sail Away: 155 American Folk Songs. Boosey & Hawkes, 1988. p.1.",
-      "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. 408.",
-      "Choksy, Lois.  The Kodály Context. Englewood Cliffs, N.J.: Prentice-Hall, Inc., 1981. p. 212."
-    ],
-    "subject": ["seasonal", "witches", "holidays", "halloween"],
-    "score": "../../../songImages/witchWitch.png",
-    "tonalCenter": "mi",
-    "ethnicOrigin": ["united states"],
-    "mm": 100,
-    "csp": "B",
-    "toneSet": ["mi", "sol", "la"],
-    "scale": "child's chant",
-    "form": ["ABC"],
-    "rhythmicElements": ["r", "ssd", "qa"],
-
-    "rhythmicSpecialties": ["qa"],
-    "melodicElements": "so-mi",
-    "game": ["chasing game"],
-    "meter": "compound",
-    "range": "3m",
-    "recording": null,
-    "language": "english",
-    "partWork": null,
-    "gameDirections": [
-      [
-        "This is a game of chase. A witch is chosen who stands facing a group of children. They move toward her singing, witch, witch.  The witch answers with  are you my children to which they reply,  Yes, … twice, but after the third question they respond by shouting,  NO YOU OLD WITCH and scatter, the witch in pursuit until she catches someone to replace her, and the next round of the game begins."
-      ],
-      [
-        "All children but one (the witch) have a dot or a bean bag.  On the first two iterations of the call-and-response, the children move closer to the witch.  On the third repeat, all children (including the witch) run to stand on a dot.  The child without a dot or a bean bag at the end becomes the new witch."
-      ]
-    ]
-  },
-  {
-    "songTitle": "yangtze boatman's chantey",
-    "function": {
-      "rhythmic": { "presentation": [], "practice": ["w"] },
-      "melodic": { "presentation": [], "practice": ["low la"] },
-      "kinder": {},
-      "misc": {}
-    },
-    "focusSong": null,
-    "grade": [3],
-    "source": [
-      "Where in the World. English words by Bliss Wiant",
-      "American Methodology, p. 308."
-    ],
-    "subject": ["sailing"],
-    "score": "../../../songImages/yangtzeBoatmansChantey.png",
-    "tonalCenter": "la",
-    "ethnicOrigin": ["china"],
-    "mm": 70,
-    "csp": "A",
-    "toneSet": ["la,", "do", "re", "mi"],
-    "scale": "la tetratonic",
-    "form": ["AABA"],
-    "rhythmicElements": ["q", "w"],
-
-    "rhythmicSpecialties": ["w"],
-    "melodicElements": "low la",
-    "game": null,
-    "meter": "quadruple",
-    "range": "P5",
-    "recording": null,
-    "language": "english",
-    "partWork": ["canon"]
-  },
-  {
-    "songTitle": "yankee doodle",
-    "function": {
-      "rhythmic": { "presentation": [], "practice": ["gc"] },
-      "melodic": { "presentation": [], "practice": [] },
-      "kinder": {},
-      "misc": {}
-    },
-    "focusSong": null,
-    "grade": [4],
-    "source": [
-      "Dallin, Leon and Lynn. Heritage Songster. Wm. C. Brown Co. Dubuque, Iowa, 1966. 92",
-      "120, p. 117."
-    ],
-    "subject": null,
-    "score": "../../../songImages/yankeeDoodle.png",
-    "tonalCenter": "do",
-    "ethnicOrigin": ["england"],
-    "mm": 120,
-    "csp": "E",
-    "toneSet": ["mi,", "sol,", "la,", "ti,", "do", "re", "mi", "fa"],
-    "scale": "major",
-    "form": ["ABCD"],
-    "rhythmicElements": ["q", "sd", "a", "gc"],
-    "otherKConcepts": ["internal anacrusis", "external anacrusis"],
-    "rhythmicSpecialties": ["gc"],
-
-    "game": null,
-    "meter": "duple",
-    "range": "9m",
-    "recording": null,
-    "language": "english",
-    "partWork": null,
-    "notes": [
-      ["Weikert folk dance | See American Methodology for folk dance steps"],
-      [
-        "HS - A parody meant to mock the Continental army, these lyrics were written for and presented to the colonists in 1775 by a British army surgeon Dr. Richard Schuckburgh, who passed it off as popular English martial music.  The joke backfired.  The song delighted the colonists, as it has Americans ever since, and they sang it through the war and on to victory.  The melody is much older.  It was a harvesting song in Holland in the 1500s (and perhaps earlier) and was known in England in the 1600s.  A version appeared in print about 1778 in a Glasgow publication, Aird’s Selection of Scottish, English, Irish, and Foreign Airs.  The first American publication to include it seems to have been Benjamin Carr’s Federal Overture in 1795."
-      ]
-    ]
-  },
-  {
-    "songTitle": "zudio (zoodio)",
-    "function": {
-      "rhythmic": { "presentation": [], "practice": [] },
-      "melodic": { "presentation": [], "practice": ["high do"] },
-      "kinder": {},
-      "misc": {}
-    },
-    "focusSong": null,
-    "grade": [2, 5],
-    "source": [
-      "Hawes, Bess and Jones, Bessie. Step it Down. 137",
-      "American Methodology, p. 410"
-    ],
-    "subject": null,
-    "score": "../../../songImages/zudio.png",
-    "tonalCenter": "do",
-    "ethnicOrigin": ["united states", "african-american", "southeast"],
-    "mm": 160,
-    "csp": "E",
-    "toneSet": ["do", "re", "mi", "sol", "la", "do'"],
-    "scale": "extended do pentatonic",
-    "form": ["AABBCB"],
-    "rhythmicElements": null,
-
-    "melodicElements": "high do",
-    "game": ["play party"],
-    "meter": "quadruple",
-    "range": "8ve",
-    "recording": null,
-    "language": "english",
-    "partWork": null,
-    "notes": [["See American Methodology for the last three lines."]]
   }
 ]
