@@ -1,0 +1,15 @@
+.holdingDrawer {
+  position: fixed;
+  right: 0px;
+  height: 100vh;
+  width: 300px;
+  background-color: tomato;
+  transition: right 0.3s ease-out;
+  z-index: 5;
+  /* margin-top: 6vh; */
+  /* height: 94vh; */
+}
+
+/* .holdingDrawer.open {
+  right: 0px;
+} */

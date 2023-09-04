@@ -1,0 +1,59 @@
+.songDisplay {
+  background-color: blue;
+  color: whitesmoke;
+  padding: 60px;
+}
+
+.score {
+  width: 60%;
+}
+
+.titleBar {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-template-rows: 1fr;
+  width: 85%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.mm {
+  grid-area: 1 / 1 / 3 / 2;
+}
+.title {
+  grid-area: 1 / 2 / 3 / 5;
+}
+.csp {
+  grid-area: 1 / 5 / 3 / 6;
+}
+
+.analysis {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  width: 85%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.misc {
+  grid-area: 1 / 1 / 3 / 2;
+}
+.melody {
+  grid-area: 1 / 2 / 3 / 5;
+}
+.rhythm {
+  grid-area: 1 / 5 / 3 / 6;
+}
+
+.categoryName {
+  font-weight: 800;
+  text-decoration: underline;
+}
+
+.musEd {
+  font-family: 'Light';
+}
+
+.score {
+  width: 60%;
+}

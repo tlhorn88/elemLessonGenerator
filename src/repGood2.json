@@ -1,0 +1,4415 @@
+[
+  {
+    "songTitle": "a el burro se va",
+    "grade": [0],
+    "score": ["../../../songImages/aElBurroSeVa.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "csp": "",
+      "tonalCenter": "",
+      "toneSet": [],
+      "range": null,
+      "scale": null
+    },
+    "context": {
+      "subject": ["animals", "donkeys", "vowels"],
+      "lyrics": [],
+      "ethnicOrigin": ["mexico"],
+      "language": ["spanish"],
+      "translation": [
+        "A, the donkey is leaving;",
+        "E, the donkey is gone;",
+        "I, the donkey is here;",
+        "O, the donkey is drowned;",
+        "U, the donkey is you."
+      ]
+    },
+    "form": [],
+    "packet source": ["tx state"],
+    "source": [
+      "Montoya-Stier, El Patio de mi Casa: 42 Traditional Rhymes, Chants, and Folksongs from Mexico. GIA Publications, 2008. p. 3."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": ["finger play"],
+      "gameDirections": [],
+      "notes": [["Last two lines added by Simón Orozco, Rodriguez ES student"]]
+    }
+  },
+
+  {
+    "songTitle": "a la claire fontaine",
+    "grade": [5],
+    "score": ["../../../songImages/aLaClaireFontaine.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["sxc"] },
+      "melodic": { "presentation": [], "practice": ["r"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "quadruple",
+      "mm": "80",
+      "rhythmSet": ["q", "sd", "sxc"]
+    },
+    "melody": {
+      "csp": "G",
+      "tonalCenter": "d",
+      "toneSet": ["d", "r", "m", "s"],
+      "range": null,
+      "scale": "do pentatonic tetrachord"
+    },
+    "context": {
+      "subject": ["nature", "trees", "birds"],
+      "lyrics": [],
+      "ethnicOrigin": ["french canada"],
+      "language": ["french"],
+      "translation": []
+    },
+    "form": ["ABC"],
+    "packet source": ["tx state"],
+    "source": [
+      "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. 293.",
+      "Fowke, Edith & Richard Johnston, Folk Songs of Canada. Caveat Music Publishers Ltd. Toronto, CA. E. C. Kerby Ltd. 1984. Page 73"
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": ["(Mama Lisa - Tiphaine Woerth)"],
+      "gameDirections": [],
+      "notes": [["Optional per Phil - Line 1, beat 1 to low sol."]]
+    }
+  },
+
+  {
+    "songTitle": "a la ese",
+    "grade": [],
+    "score": ["../../../songImages/aLaEse.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["qsd"] },
+      "melodic": { "presentation": [], "practice": ["l"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": ["q", "sd"]
+    },
+    "melody": {
+      "csp": "",
+      "tonalCenter": "",
+      "toneSet": ["m", "s", "l"],
+      "range": null,
+      "scale": null
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": ["spanish"],
+      "translation": []
+    },
+    "form": ["AAAA"],
+    "packet source": ["antologia kodaly columbiana"],
+    "source": [
+      "VIVA LA MÚSICA. Canciones Infantiles para los grados 1 y 2. Misión Pedagógica Alemana. Bogotá, Colombia.1972"
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "a la puerta del cielo (at the gate of heaven)",
+    "grade": [],
+    "score": ["../../../songImages/aLaPuertaDelCielo.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["w"] },
+      "melodic": { "presentation": [], "practice": ["t,"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "duple",
+      "mm": 84,
+      "rhythmSet": ["q", "sd", "w"]
+    },
+    "melody": {
+      "csp": "D",
+      "tonalCenter": "d",
+      "toneSet": ["s,", "t,", "d", "r", "m", "f", "s", "l"],
+      "range": "9M",
+      "scale": "major"
+    },
+    "context": {
+      "subject": ["lullaby", "heaven", "sleep and waking"],
+      "lyrics": [],
+      "ethnicOrigin": ["spain", "new mexico"],
+      "language": ["spanish"],
+      "translation": []
+    },
+    "form": ["AABAv"],
+    "packet source": ["tx state"],
+    "source": [
+      "Dallin, Leon and Lynn. Heritage Songster. Wm. C. Brown Co. Dubuque, Iowa, 1966. 73."
+    ],
+    "misc": {
+      "partWork": ["4-beat canon"],
+      "recording": [],
+      "gameDirections": [],
+      "notes": [
+        [
+          "According to Zanzig, this lullaby came to New Mexico from the Pyrenees in Spain."
+        ],
+        [
+          "Heritage Songster: Here is a beautiful Basque folk lullaby that came to New Mexico from the Pyrenees of Spain."
+        ],
+        [
+          "Phil: C must sing each line as a phrase, no breaths! For performance, sing one verse and then an interlude and then again."
+        ]
+      ]
+    }
+  },
+
+  {
+    "songTitle": "a la ronda",
+    "grade": [],
+    "score": ["../../../songImages/aLaRonda.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["qsd"] },
+      "melodic": { "presentation": [], "practice": ["l"] },
+      "kinder": ["tuneful singing"],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": ["s", "qd"]
+    },
+    "melody": {
+      "csp": "",
+      "tonalCenter": "",
+      "toneSet": ["m", "s", "l"],
+      "range": null,
+      "scale": null
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": ["spanish"],
+      "translation": []
+    },
+    "form": [],
+    "packet source": ["antologia kodaly columbiana"],
+    "source": [
+      "VIVA LA MÚSICA. Canciones Infantiles para los grados 1 y 2. Misión Pedagógica Alemana. Bogotá, Colombia. 1972. Juego de afinación: Alejandro Zuleta"
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "a la rueda de san miguel",
+    "grade": [0],
+    "score": ["../../../songImages/aLaRuedaDeSanMiguel.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["sxc", "Aa"] },
+      "melodic": { "presentation": [], "practice": ["s,"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "duple",
+      "mm": "100",
+      "rhythmSet": ["q", "sd", "sxc", "ssd"]
+    },
+    "melody": {
+      "csp": "F",
+      "tonalCenter": "d",
+      "toneSet": ["s,", "d", "r", "m"],
+      "range": "6M",
+      "scale": "incomplete do pentatonic"
+    },
+    "context": {
+      "subject": ["food", "honey"],
+      "lyrics": [],
+      "ethnicOrigin": ["mexico"],
+      "language": ["spanish"],
+      "translation": [
+        "To the circle, to the circle of St. Miguel",
+        "Everyone brings their carton of honey",
+        "When it's ripe, when it's ripe",
+        "Let donkey (name of child) turn around."
+      ]
+    },
+    "form": ["ABC"],
+    "packet source": ["tx state"],
+    "source": [
+      "Montoya-Stier, El Patio de mi Casa: 42 Traditional Rhymes, Chants, and Folksongs from Mexico. GIA Publications, 2008. p. 23."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": ["https://youtu.be/3LNn75ljb6U"],
+      "gameType": "circle",
+      "gameDirections": [
+        [
+          "The children form a circle holding hands and one child goes in the middle.  When that child calls another kid by name (putting in the song on the last line), that child who was called turns with their back towards the inner circle.  They keep going around until all the children have their backs turned.  Then, the song is done over again until all the children are facing the inner circle again."
+        ]
+      ],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "a madru senores",
+    "grade": [2],
+    "score": ["../../../songImages/aMadruSenores.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["qsd", "Aa"] },
+      "melodic": { "presentation": [], "practice": ["d'"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "duple",
+      "mm": "80",
+      "rhythmSet": ["q", "sd"]
+    },
+    "melody": {
+      "csp": "E",
+      "tonalCenter": "d",
+      "toneSet": ["d", "m", "s", "d"],
+      "range": "8ve",
+      "scale": "extended do tritonic"
+    },
+    "context": {
+      "subject": ["professions"],
+      "lyrics": [],
+      "ethnicOrigin": ["mexico"],
+      "language": ["spanish"],
+      "translation": [
+        "A “madrú misters,",
+        "I come from La Habana,",
+        "To cut strawberry trees",
+        "For Mrs. Juana.",
+        "The right hand",
+        "And then the left hand",
+        "And then to the side",
+        "And then lying down",
+        "And then I turn",
+        "With your reverence.",
+        "“Tan, tan!”",
+        "Who knocks at the door?",
+        "“Tan, tan!”",
+        "If it is the death.",
+        "“Tan, tan!”",
+        "I’m not going to open.",
+        "“Tan, tan!”",
+        "If it coming for me."
+      ]
+    },
+    "form": ["AAAAABB"],
+    "packet source": ["tx state"],
+    "source": [
+      "Montoya-Stier, El Patio de mi Casa: 42 Traditional Rhymes, Chants, and Folksongs from Mexico. GIA Publications, 2008. p. 24-25."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": "circle",
+      "gameDirections": [
+        [
+          "Start with a person in the middle of a circle.  Holding hands, the circle moves until “la mano derecha.”  At “la mano derecha” students shake hands with the persons to the right of them, and then they shake hands with the persons to the left of them.  Then they lean to the right and then to the left.  On “y después la vuelta,” students turn and then curtsy.  Beginning on “¡Tan, tan!” students begin to move about, and at the end of the song quickly squat down.  The person in the middle has to touch someone before that person sits down.  If the game is played in a large area, instead of squatting the person in the middle has to catch someone in the circle."
+        ]
+      ],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "a mi burro",
+    "grade": [],
+    "score": ["../../../songImages/aMiBurro.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": ["s,"], "practice": ["s,"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": ["q", "sd"]
+    },
+    "melody": {
+      "csp": "",
+      "tonalCenter": "",
+      "toneSet": ["s,", "d", "r", "m", "s"],
+      "range": null,
+      "scale": null
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": ["spanish"],
+      "translation": []
+    },
+    "form": ["AAvBC"],
+    "packet source": ["antologia kodaly columbiana"],
+    "source": ["Tradición oral. Transcripción de Alejandro Zuleta."],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": "",
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "agua de limones",
+    "grade": [],
+    "score": ["../../../songImages/aguaDeLimones.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["Q"] },
+      "melodic": { "presentation": [], "practice": ["la"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": ["q", "sd", "Q"]
+    },
+    "melody": {
+      "csp": "",
+      "tonalCenter": "",
+      "toneSet": ["m", "s", "l"],
+      "range": null,
+      "scale": null
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": ["spanish"],
+      "translation": []
+    },
+    "form": ["AA"],
+    "packet source": ["antologia kodaly columbiana"],
+    "source": ["Transcripción de Alejandro Zuleta."],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": "",
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "aguacero e' mayo",
+    "grade": [],
+    "score": ["../../../songImages/aguaceroEMayo.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "csp": "",
+      "tonalCenter": "",
+      "toneSet": ["l,", "d", "r", "m", "f", "s", "l", "t", "d"],
+      "range": null,
+      "scale": null
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": ["spanish"],
+      "translation": []
+    },
+    "form": [],
+    "packet source": ["antologia kodaly columbiana"],
+    "source": [
+      "Transcripción de Alejandro Zuleta.",
+      "Toto la Momposina. CD MTM 018299-2 Disco 1 Track 9"
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": "",
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "al pasar la barca",
+    "grade": [],
+    "score": ["../../../songImages/alPasarLaBarca.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": ["t,"], "practice": ["t,", "l"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": ["q", "sd", "Q"]
+    },
+    "melody": {
+      "csp": "",
+      "tonalCenter": "",
+      "toneSet": ["t,", "d", "r", "m", "f", "s"],
+      "range": null,
+      "scale": null
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": ["spain"],
+      "language": ["spanish"],
+      "translation": []
+    },
+    "form": ["AB"],
+    "packet source": ["antologia kodaly columbiana"],
+    "source": [
+      "HEIMSY DE GAINZA, Violeta. Para Divertirnos Cantando, Buenos Aires, Ricordi, 1973."
+    ],
+    "misc": {
+      "partWork": ["canon"],
+      "recording": [],
+      "gameType": "",
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "al paso al trote",
+    "grade": [0],
+    "score": ["../../../songImages/alPasoAlTrote.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": ["steady beat"],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "csp": "",
+      "tonalCenter": "",
+      "toneSet": [],
+      "range": null,
+      "scale": null
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": ["spain"],
+      "language": ["spanish"],
+      "translation": []
+    },
+    "form": ["ABB"],
+    "packet source": ["antologia kodaly columbiana"],
+    "source": ["Tradición oral. Transcripción de Alejandro Zuleta."],
+    "misc": {
+      "partWork": ["canon"],
+      "recording": [],
+      "gameType": "",
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "al pin al pon",
+    "grade": [],
+    "score": ["../../../songImages/alPinAlPon.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": ["q", "sd", "Aa", "sxc"]
+    },
+    "melody": {
+      "csp": "",
+      "tonalCenter": "",
+      "toneSet": ["s,", "d", "r", "m", "f", "s", "l"],
+      "range": null,
+      "scale": null
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": ["spanish"],
+      "translation": []
+    },
+    "form": ["ABB"],
+    "packet source": ["antologia kodaly columbiana"],
+    "source": ["Tradición oral. Transcripción de Alejandro Zuleta."],
+    "misc": {
+      "partWork": ["canon"],
+      "recording": [],
+      "gameType": "",
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "ama uacashpa tiajungui",
+    "grade": [],
+    "score": ["../../../songImages/amaUacashpaTiajungui"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["minor pentatonic"] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": ["q", "sd", "xsc"]
+    },
+    "melody": {
+      "csp": "",
+      "tonalCenter": "",
+      "toneSet": ["l,", "d", "r", "m", "s", "l"],
+      "range": null,
+      "scale": null
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": ["ecuador"],
+      "language": ["quechua"],
+      "translation": []
+    },
+    "form": ["ABB"],
+    "packet source": ["antologia kodaly columbiana"],
+    "source": [
+      "GABOR. Charles. Antología, Introducción a la música folklórica del Ecuador. Quito: PNUD- UNESCO, 1981. P. 40 Traducción: Cortesìa de Onofre Padilla"
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": "",
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "anton pirulero",
+    "grade": [],
+    "score": ["../../../songImages/antonPirulero"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": ["l"] },
+      "kinder": ["tuneful singing"],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": ["q", "sd", "w"]
+    },
+    "melody": {
+      "csp": "",
+      "tonalCenter": "",
+      "toneSet": [],
+      "range": null,
+      "scale": null
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": ["latin america"],
+      "language": ["spanish"],
+      "translation": []
+    },
+    "form": ["AAAA"],
+    "packet source": ["antologia kodaly columbiana"],
+    "source": [
+      "Conjunto Pro Música de Rosario, Argentina CD American Recording CD 16003. Transcripción de Alejandro Zuleta"
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": "",
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "arruruu",
+    "grade": [],
+    "score": ["../../../songImages/arrurru"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["w"] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": ["q", "sd", "w"]
+    },
+    "melody": {
+      "csp": "",
+      "tonalCenter": "",
+      "toneSet": ["l,", "t,", "d", "r", "m", "f"],
+      "range": null,
+      "scale": null
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": ["columbia"],
+      "language": ["spanish"],
+      "translation": []
+    },
+    "form": ["AB"],
+    "packet source": ["antologia kodaly columbiana"],
+    "source": [
+      "GUTIERREZ, Benigno. De todo el Maíz. Tonadas típicas campesinas. Medellín, Imprenta Municipal. 1944 No 19"
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": "",
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "ay dios que mujer",
+    "grade": [],
+    "score": ["../../../songImages/ayDiosQueMujer"],
+    "function": {
+      "rhythmic": { "presentation": ["6*"], "practice": ["6*"] },
+      "melodic": { "presentation": ["f"], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "compound",
+      "mm": "",
+      "rhythmSet": ["r", "qa", "ssd"]
+    },
+    "melody": {
+      "csp": "",
+      "tonalCenter": "",
+      "toneSet": ["d", "r", "m", "f", "s"],
+      "range": null,
+      "scale": null
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": ["columbia"],
+      "language": ["spanish"],
+      "translation": []
+    },
+    "form": [],
+    "packet source": ["antologia kodaly columbiana"],
+    "source": ["Tradición oral. Transcripción de Alejandro Zuleta. "],
+    "misc": {
+      "partWork": ["canon"],
+      "recording": [],
+      "gameType": "",
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "a tisket a tasket",
+    "grade": [0, 1, 2],
+    "score": ["../../../songImages/aTisketATasket.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["Aa"] },
+      "melodic": { "presentation": [], "practice": ["l"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "duple",
+      "mm": "126",
+      "rhythmSet": ["q", "sd", "Aa"]
+    },
+    "melody": {
+      "csp": "A",
+      "tonalCenter": "m",
+      "toneSet": ["m", "s", "l"],
+      "range": "P4",
+      "scale": "child's chant"
+    },
+    "context": {
+      "subject": ["mail", "basket"],
+      "lyrics": [],
+      "ethnicOrigin": ["african american"],
+      "language": ["english"],
+      "translation": []
+    },
+    "form": ["ABCBAB"],
+    "packet source": ["tx state"],
+    "source": [
+      "Erdei, Peter (ed.) and Komlos, Katalin.  150 American Folk Songs. Boosey & Hawkes, 1974  (7th printing 1985). p. 4.",
+
+      "Locke, Eleanor G. Sail Away 155 American Folk Songs to sing read and play Boosey & Hawkes, NY, 1981. 75.",
+      "Chosky, Lois and David Frummit, 120 Singing Games and Dances, Prenteic Hall, Englewood Cliffs, New Jersey. 1996. page 57."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": ["Ella Fitzgerald recording - https://goo.gl/rY9dX6"],
+      "gameType": ["circle", "chase"],
+      "gameDirections": [
+        [
+          "Children form a circle.  One child circles outside the ring, carrying a handkerchief.  At the very end of the song he drops it behind a child in the ring and starts to run around the ring.  The child who has the handkerchief at his heels must pick it up and run after the first child.  If he catches the first child before he completes the circle to the empty place, the first child must go around again.  If he does not catch the first child, he must go around, and the game begins again."
+        ]
+      ],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "above the plain",
+    "grade": [],
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "csp": "",
+      "tonalCenter": "",
+      "toneSet": [],
+      "range": null,
+      "scale": null
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "form": [],
+    "packet source": ["tx state"],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": "",
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "ah poor bird",
+    "grade": [4],
+    "score": ["../../../songImages/ahPoorBird.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["w"] },
+      "melodic": {
+        "presentation": ["harmonic minor"],
+        "practice": ["si", "harmonic minor"]
+      },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "quadruple",
+      "mm": 78,
+      "rhythmSet": ["q", "sd", "w"]
+    },
+    "melody": {
+      "csp": "D",
+      "tonalCenter": "la",
+      "toneSet": ["l,", "t,", "d", "r", "m", "si"],
+      "range": "8P",
+      "scale": ["incomplete harmonic minor"]
+    },
+    "context": {
+      "subject": ["animals", "birds"],
+      "lyrics": [],
+      "ethnicOrigin": ["england"],
+      "language": ["english"],
+      "translation": []
+    },
+    "form": ["AB"],
+    "packet source": ["tx state"],
+    "source": [
+      "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. 284.",
+      "Bolkavac, Edward and Judith Johnson. 150 Rounds for Singing and Teaching. Boosey & Hawkes, Inc. New York, NY. 1996. Page 2."
+    ],
+    "misc": {
+      "partWork": ["canon", "sing with hey ho, nobody's home"],
+      "recording": [],
+      "gameType": "",
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "ah! vous dirai-je, mamam (oh dear mother shall i say?)",
+    "grade": [4],
+    "score": ["../../../songImages/ahVous.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["qsd"] },
+      "melodic": { "presentation": [], "practice": ["f"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "duple",
+      "mm": "90",
+      "rhythmSet": ["q", "sd"]
+    },
+    "melody": {
+      "csp": "G",
+      "tonalCenter": "d",
+      "toneSet": ["d", "r", "m", "f", "s", "l"],
+      "range": "6M",
+      "scale": ["do hexachord"]
+    },
+    "context": {
+      "subject": ["love and courtship"],
+      "lyrics": [],
+      "ethnicOrigin": ["french canada"],
+      "language": ["french"],
+      "translation": []
+    },
+    "form": ["ABA"],
+    "packet source": ["tx state"],
+    "source": [
+      "Dallin, Leon and Lynn. Heritage Songster. Wm. C. Brown Co. Dubuque, Iowa, 1966. 80.",
+      "Johnston, Richard. Folk Songs North America Sings. E.C. Kerby Ltd. Toronto, 1984. Page 164."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": "",
+      "gameDirections": [],
+      "notes": [
+        [
+          "HS - Generations of children the world over have delighted in this old French nursery tune, and famous composers Mozart (1756-1791) and Dohnanyi (1877-1960) have written variations on it.  It has acquired three sets of English words--Baa, Baa, Black Sheep, The Alphabet Song, and Twinkle, Twinkle Little Star, none of which have any connection with the original French words."
+        ]
+      ]
+    }
+  },
+
+  {
+    "songTitle": "alabama gal",
+    "grade": [4],
+    "score": ["../../../songImages/alabamaGal.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["aqa", "Aa"] },
+      "melodic": { "presentation": [], "practice": ["f"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "quadruple",
+      "mm": "112",
+      "rhythmSet": ["q", "sd", "w", "aqa", "e", "Aa"]
+    },
+    "melody": {
+      "csp": "G",
+      "tonalCenter": "d",
+      "toneSet": ["d", "r", "m", "f", "s"],
+      "range": "5P",
+      "scale": ["do pentachord"]
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": ["united states"],
+      "language": ["english"],
+      "translation": []
+    },
+    "form": ["ABAC"],
+    "packet source": ["tx state"],
+    "source": [
+      "Trinka, Jill. The Little Black Bull. Folk Music Works, 1996. 4."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": "",
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "alabama mississippi",
+    "grade": [4, 5],
+    "score": ["../../../songImages/alabamaMississippi.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["tie", "aqa"] },
+      "melodic": { "presentation": [], "practice": ["f"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "quadruple",
+      "mm": "156",
+      "rhythmSet": ["q", "sd", "w", "aqa"]
+    },
+    "melody": {
+      "csp": "G",
+      "tonalCenter": "d",
+      "toneSet": ["ta,", "t,", "d", "r", "m", "f"],
+      "range": "5P",
+      "scale": "incomplete bebop scale"
+    },
+    "context": {
+      "subject": ["geography"],
+      "lyrics": [],
+      "ethnicOrigin": ["united states"],
+      "language": ["english"],
+      "translation": []
+    },
+    "form": ["ABA'CD"],
+    "packet source": ["tx state"],
+    "source": ["circle round the zero (kenney)"],
+    "misc": {
+      "partWork": [],
+      "recording": ["New England Dance Masters - Down in the Valley"],
+      "gameType": ["circle"],
+      "gameDirections": [
+        ["Formation: Circle."],
+        [
+          "On “Number One” a player designated as “One” moves into the circle and does a dance.  Game continues as “Number Two” goes into the circle, and so on until everyone has had a turn. * Assign students numbers 1-5 and all students with the called number enter the middle of the circle."
+        ]
+      ],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "alcitron",
+    "grade": [2, 3],
+    "score": ["../../../songImages/alCitron.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["ra", "Aa"] },
+      "melodic": { "presentation": [], "practice": ["s,"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "duple",
+      "mm": "116",
+      "rhythmSet": ["q", "sd", "ra", "Aa"]
+    },
+    "melody": {
+      "csp": "F",
+      "tonalCenter": "d",
+      "toneSet": ["s,", "d", "r", "m"],
+      "range": "6M",
+      "scale": "do pentatonic tetrachord"
+    },
+    "context": {
+      "subject": ["food", "nonsense syllables", "fruit"],
+      "lyrics": [],
+      "ethnicOrigin": ["mexico"],
+      "language": ["spanish"],
+      "translation": []
+    },
+    "form": ["AA'"],
+    "packet source": ["tx state"],
+    "source": [
+      "Locke, Eleanor G. Sail Away 155 American Folk Songs to sing read and play Boosey & Hawkes, NY, 1981. 21",
+      "Yurchenco, Henrietta. Latin American Children Game Songs recorded in Puerto Rico and Mexico. F 7851 Folkways, 1968",
+      "Chosky, Lois and David Frummit, 120 Singing Games and Dances, Prenteic Hall, Englewood Cliffs, New Jersey. 1996. page 165."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": "passing",
+      "gameDirections": [
+        [
+          "Children sit in a circle on the ground.  Each child has a stone (or small stick) which passes to his right.  On each downbeat the stone is banged down near his neighbor; on the second beat, a new one is picked up to bang down on the next downbeat.  The stones move around the circle in this manner until the words “triqui, triqui, tran,” when they are held and knocked on the ground to the right and left of the child, and passed on the word “tran.”  The game continues in this way and any child breaking the rhythm is eliminated until only one is left."
+        ]
+      ],
+      "notes": [["Most of the words are nonsense in Spanish."]]
+    }
+  },
+
+  {
+    "songTitle": "alfonso doce",
+    "grade": [3],
+    "score": ["../../../songImages/alfonsoDoce.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": ["t,"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "triple",
+      "mm": "85",
+      "rhythmSet": ["q", "sd", "w", "ra", "Aa"]
+    },
+    "melody": {
+      "csp": "G",
+      "tonalCenter": "l",
+      "toneSet": ["l,", "t,", "d", "r", "m", "f"],
+      "range": "6m",
+      "scale": "la hexachord"
+    },
+    "context": {
+      "subject": ["death"],
+      "lyrics": [],
+      "ethnicOrigin": ["mexico"],
+      "language": ["spanish"],
+      "translation": []
+    },
+    "form": ["AB"],
+    "packet source": ["tx state"],
+    "source": [
+      "Montoya-Stier, El Patio de mi Casa: 42 Traditional Rhymes, Chants, and Folksongs from Mexico. GIA Publications, 2008. p. 54-55."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": "",
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "all around the buttercup",
+    "grade": [1],
+    "score": ["../../../songImages/allAroundTheButtercup.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["Q"] },
+      "melodic": { "presentation": [], "practice": ["r"] },
+      "kinder": ["beat v. rhythm"],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "meter",
+      "mm": "85",
+      "rhythmSet": ["q", "sd", "Q"]
+    },
+    "melody": {
+      "csp": "B",
+      "tonalCenter": "d",
+      "toneSet": ["d", "r", "m", "s"],
+      "range": "5P",
+      "scale": ["do tetrachord"]
+    },
+    "context": {
+      "subject": ["nature", "flowers", "plants"],
+      "lyrics": [],
+      "ethnicOrigin": ["england", "united states", "scotland", "ireland"],
+      "language": ["english"],
+      "translation": []
+    },
+    "form": ["AB"],
+    "packet source": ["tx state"],
+    "source": ["Carol and Sarah Heath, The Song Garden II, p.9"],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": ["circle", "choosing"],
+      "gameDirections": [],
+      "notes": [
+        ["change pretty maid to nice, young friend."],
+        [
+          "Also “Round About the Punch Bowl” (eter and Iona Opie - The Singing Game)"
+        ],
+        ["Also “All around the butter dish”"]
+      ]
+    }
+  },
+
+  {
+    "songTitle": "above the plain",
+    "grade": [3, 4],
+    "score": ["../../../songImages/aboveThePlain.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["ra", "Aa"] },
+      "melodic": { "presentation": [], "practice": ["f"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "quadruple",
+      "mm": "116",
+      "rhythmSet": ["q", "sd", "ra"]
+    },
+    "melody": {
+      "csp": "A",
+      "tonalCenter": "d",
+      "toneSet": ["s,", "d", "r", "m", "f", "s"],
+      "range": null,
+      "scale": ["extended do pentachord"]
+    },
+    "context": {
+      "subject": ["nature", "landforms", "rivers"],
+      "lyrics": [],
+      "ethnicOrigin": ["czechoslovakia"],
+      "language": ["english"],
+      "translation": []
+    },
+    "form": ["ABCC"],
+    "packet source": ["tx state"],
+    "source": [],
+    "misc": {
+      "partWork": ["canon"],
+      "recording": [],
+      "gameType": "",
+      "gameDirections": [],
+      "notes": [["https://danaxtell.com/ifca/"]]
+    }
+  },
+
+  {
+    "songTitle": "alleluia major",
+    "grade": [4],
+    "score": ["../../../songImages/alleluiaMajor.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["qsd"] },
+      "melodic": { "presentation": ["t", "major"], "practice": ["t", "major"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "duple",
+      "mm": "100",
+      "rhythmSet": ["q", "sd"]
+    },
+    "melody": {
+      "csp": "C",
+      "tonalCenter": "d",
+      "toneSet": ["d", "r", "m", "f", "s", "l", "t", "d'"],
+      "range": "8ve",
+      "scale": ["major"]
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": ["latin 18th century", "composed"],
+      "language": [],
+      "translation": []
+    },
+    "form": ["AB"],
+    "packet source": ["tx state", "antologia kodaly columbiana"],
+    "source": [
+      "Bolkavac, Edward and Judith Johnson. 150 Rounds for Singing and Teaching. Boosey & Hawkes, Inc. New York, NY. 1996. Page 2."
+    ],
+    "misc": {
+      "partWork": ["canon"],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [
+        ["If parent complaints, sing on “loo.”"],
+        [
+          "Per Gaby - Pair with Pachabel’s Canon in D - https://www.youtube.com/watch?v=jXC9tuumjiA"
+        ]
+      ]
+    }
+  },
+
+  {
+    "songTitle": "alleluia major",
+    "grade": [4],
+    "score": ["../../../songImages/alleluiaMajor.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["qsd"] },
+      "melodic": {
+        "presentation": ["natural minor"],
+        "practice": ["natural minor"]
+      },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "duple",
+      "mm": "100",
+      "rhythmSet": ["q", "sd"]
+    },
+    "melody": {
+      "csp": "C",
+      "tonalCenter": "l,",
+      "toneSet": ["l,", "t", "d", "r", "m", "f", "s", "l"],
+      "range": "8ve",
+      "scale": ["natural minor"]
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": ["latin 18th century", "composed"],
+      "language": [],
+      "translation": []
+    },
+    "form": ["AB"],
+    "packet source": ["tx state", "antologia kodaly columbiana"],
+    "source": [
+      "Bolkavac, Edward and Judith Johnson. 150 Rounds for Singing and Teaching. Boosey & Hawkes, Inc. New York, NY. 1996. Page 2."
+    ],
+    "misc": {
+      "partWork": ["canon"],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [
+        ["Per Phil - There are very few songs in natural minor complete."]
+      ]
+    }
+  },
+
+  {
+    "songTitle": "all god's children",
+    "grade": [4],
+    "score": ["../../../songImages/allGodsChildren.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["aqa", "tie"] },
+      "melodic": { "presentation": [], "practice": ["s,"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "quadruple",
+      "mm": "76",
+      "rhythmSet": ["q", "sd", "Q", "w", "aqa"]
+    },
+    "melody": {
+      "csp": "B",
+      "tonalCenter": "d",
+      "toneSet": ["s,", "l,", "d", "r", "m"],
+      "range": "6M",
+      "scale": ["do pentatonic"]
+    },
+    "context": {
+      "subject": ["spiritual"],
+      "lyrics": [],
+      "ethnicOrigin": ["african american", "south"],
+      "language": ["english"],
+      "translation": []
+    },
+    "form": ["verse refrain"],
+    "packet source": ["tx state"],
+    "source": [
+      "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. 284.",
+      "Johnson, James Weldom and J. Rosamund. The Book of American Negro Sprituals. Viking Press, New York. 1969. Page 71 (variant).",
+      "Msb, p. 86."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": "",
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "all night all day",
+    "grade": [4, 5],
+    "score": ["../../../songImages/allNightAllDay.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["Aa", "DC al fine"] },
+      "melodic": { "presentation": [], "practice": ["s,"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "duple",
+      "mm": "104",
+      "rhythmSet": ["q", "sd", "w", "aqa", "ra"]
+    },
+    "melody": {
+      "csp": "D",
+      "tonalCenter": "d",
+      "toneSet": ["s,", "l,", "d", "r", "m", "s"],
+      "range": "8P",
+      "scale": "extended do pentatonic"
+    },
+    "context": {
+      "subject": ["spiritual", "plantation"],
+      "lyrics": [],
+      "ethnicOrigin": ["american"],
+      "language": ["english"],
+      "translation": []
+    },
+    "form": ["ABA'B'"],
+    "packet source": [],
+    "source": [
+      "Erdei, Peter (ed.) and Komlos, Katalin.  150 American Folk Songs. Boosey & Hawkes, 1974  (7th printing 1985). p. 39",
+      "Just Five (Kersey).",
+      "Dallin, Leon and Lynn. Heritage Songster. Wm. C. Brown Co. Dubuque, Iowa, 1966. 29."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [
+        [
+          "Heritage Songster - This is one of the lasting and lovely spirituals that helps to form the great heritage of American folk music.  The famous Bohemian composer Anton Dvorak came to the United States in 1892 to direct the National Conservatory of Music in New York.  He greatly admired the American spirituals.  He wrote, “In the Negro melodies of America I discover all that is needed for a great and noble school of music.  They are pathetic, tender, passionate, melancholy, solemn, religious, bold, and merry.”"
+        ],
+        ["Per Phil - good song for soloists"]
+      ]
+    }
+  },
+
+  {
+    "songTitle": "all round the brickyard",
+    "grade": [1, 2, 3, 5],
+    "score": ["../../../songImages/allRoundTheBrickyard.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["aqa"] },
+      "melodic": { "presentation": [], "practice": ["s,"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "duple",
+      "mm": "125",
+      "rhythmSet": []
+    },
+    "melody": {
+      "csp": "C",
+      "tonalCenter": "d",
+      "toneSet": ["s,", "l", "d", "r", "m", "s"],
+      "range": "9M",
+      "scale": ["extended do pentatonic"]
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": ["united states", "midwest", "illinois"],
+      "language": ["english"],
+      "translation": []
+    },
+    "form": [],
+    "packet source": ["tx state"],
+    "source": [
+      "Locke, Eleanor G. Sail Away 155 American Folk Songs to sing read and play Boosey & Hawkes, NY, 1981. 31.",
+      "Chosky, Lois and David Frummit, 120 Singing Games and Dances, Prenteic Hall, Englewood Cliffs, New Jersey. 1996. page 20.",
+      "Choksy, Lois.  The Kodály Context. Englewood Cliffs, N.J.: Prentice-Hall, Inc., 1981. p. 219."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": ["dramatic action", "circle", "play-party"],
+      "gameDirections": [
+        [
+          "Played as a “follow-the-leader” game, either in a circle or in a moving line. *Improvise a new action for each verse: kick, clap, swing, etc."
+        ]
+      ],
+      "notes": [
+        [
+          "This is originally a play-party, with specific instructions attached to each of the five verses.  For classroom use, it can be played in a line or circle formation, with the leader improvising text and actions (swing it, tap it, wave it, etc.)"
+        ],
+        [
+          "Per Phil: First line should be different.",
+          "qgc|ar|aqaQ",
+          "sssls ddrm",
+          "sssls mmrd"
+        ]
+      ]
+    }
+  },
+
+  {
+    "songTitle": "alphabet song",
+    "grade": [5],
+    "score": ["../../../songImages/alphabetSong.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["t"] },
+      "melodic": { "presentation": [], "practice": ["t"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "csp": "",
+      "tonalCenter": "",
+      "toneSet": [],
+      "range": null,
+      "scale": null
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "form": [],
+    "packet source": ["tx state"],
+    "source": ["attributed to wa mozart"],
+    "misc": {
+      "partWork": ["four-beat round"],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[["Per Phil - repeat at LMNOP must be quiet"]]]
+    }
+  },
+
+  {
+    "songTitle": "alphabet song (2)",
+    "grade": [],
+    "score": ["../../../songImages/alphabetSongMelody.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["t"] },
+      "melodic": { "presentation": [], "practice": ["t"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "triple",
+      "mm": "100",
+      "rhythmSet": ["q", "sd", "t"]
+    },
+    "melody": {
+      "csp": "F",
+      "tonalCenter": "d",
+      "toneSet": ["d", "r", "m", "f", "s", "l", "t", "d"],
+      "range": "8ve",
+      "scale": ["major"]
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": ["germany"],
+      "language": [],
+      "translation": []
+    },
+    "form": [],
+    "packet source": ["tx state"],
+    "source": ["attributed to wa mozart"],
+    "misc": {
+      "partWork": ["four-beat round"],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [["Per Phil - repeat at LMNOP must be quiet"]]
+    }
+  },
+
+  {
+    "songTitle": "amasee",
+    "grade": [2, 5],
+    "score": ["../../../songImages/amasee.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": ["r"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "cut-time",
+      "mm": "200",
+      "rhythmSet": []
+    },
+    "melody": {
+      "csp": "C",
+      "tonalCenter": "d",
+      "toneSet": ["s,", "l,", "d", "r", "m"],
+      "range": "6M",
+      "scale": ["do pentatonic"]
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": ["united states", "african american", "alabama"],
+      "language": ["english"],
+      "translation": []
+    },
+    "form": ["AA"],
+    "packet source": [],
+    "source": [
+      "Locke, Eleanor G. Sail Away 155 American Folk Songs to sing read and play  Boosey & Hawkes. NY, 1981. 23",
+      "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. 288.",
+      "Johnston,Richard. Folk Songs North America Sings. E.C. Kerby Ltd. Toronto, 1984. Page 89.",
+      "Locke, Eleanor G. Sail Away 155 American Folk Songs to sing read and play Boosey & Hawkes, NY, 1981. 23.",
+      "Chosky, Lois and David Frummit, 120 Singing Games and Dances, Prenteic Hall, Englewood Cliffs, New Jersey. 1996. page 135.",
+      "Choksy, Lois.  The Kodály Context. Englewood Cliffs, N.J.: Prentice-Hall, Inc., 1981. p. 223."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": ["line"],
+      "gameDirections": [
+        [
+          ["Two lines, partners facing each other."],
+          [
+            "On verse one, head couple takes hands and struts down the set between the lines."
+          ],
+          [
+            "On verse two, this couple swings right elbows at the bottom of the set."
+          ],
+          [
+            "Dance begins again with second couple.  Set shifts up a little each time as a new couple reaches the bottom."
+          ],
+          ["Go on until all couples have completed a turn."],
+          ["The lines keep a steady hand-clap throughout."],
+          [
+            "A leader may be chosen to sing the lines, with the group coming in on the words “amasee.”"
+          ]
+        ]
+      ],
+      "notes": [["I must see"]]
+    }
+  },
+
+  {
+    "songTitle": "apple peach pear plum",
+    "grade": [0, 1],
+    "score": ["../../../songImages/applePeachPearPlum.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": ["beat v. rhythm"],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": ["q", "sd"]
+    },
+    "melody": {
+      "csp": "",
+      "tonalCenter": "",
+      "toneSet": [],
+      "range": null,
+      "scale": null
+    },
+    "context": {
+      "subject": ["food", "fruit", "months"],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": ["english"],
+      "translation": []
+    },
+    "form": [],
+    "packet source": ["tx state"],
+    "source": ["American Methodology, p. 276"],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "apple tree",
+    "grade": [1],
+    "score": ["../../../songImages/appleTree.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["qsd"] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": ["beat v. rhythm"],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": ["q", "sd"]
+    },
+    "melody": {
+      "csp": "",
+      "tonalCenter": "",
+      "toneSet": [],
+      "range": null,
+      "scale": null
+    },
+    "context": {
+      "subject": ["food", "fruit", "apples"],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": ["english"],
+      "translation": []
+    },
+    "form": [],
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [
+        [
+          "Students stand in circle, and teacher makes a tree with a child (the child stands inside the circle, the teacher stands outside the circle, and the two join hands.) The students sing the song and keep the beat in their feet. On the word “out,” the teacher and student who are the tree “catch” a child. That child then makes a tree with the student standing inside the circle, and the teacher chooses another child to be a tree with. The game continues until all but one child has been chosen to be a tree or is “out”; that student wins."
+        ]
+      ],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "aquaqua del a omar",
+    "grade": [5],
+    "score": ["../../../songImages/aquaquaDelaOmar.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["ra"] },
+      "melodic": { "presentation": [], "practice": ["t,"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "duple",
+      "mm": "112",
+      "rhythmSet": ["q", "sd", "Q", "W", "Aa", "ra"]
+    },
+    "melody": {
+      "csp": "A",
+      "tonalCenter": "d",
+      "toneSet": ["m,", "s,", "l,", "t,", "d"],
+      "range": "6m",
+      "scale": ["incomplete major"]
+    },
+    "context": {
+      "subject": ["nonsense and play", "nonsense syllables"],
+      "lyrics": [],
+      "ethnicOrigin": ["israel"],
+      "language": [],
+      "translation": []
+    },
+    "form": [],
+    "packet source": ["tx state"],
+    "source": [
+      "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. 288.",
+      "Learned from Rita Klinger. 1987 Organization of American Kodaly Educators Conference. St. Louis, MO. 1987."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": ["pass-the-beat"],
+      "gameDirections": [
+        [
+          "Single circle of players; palms up.",
+          "Place right hand in the left palm of the player on the right.  Students appoint a leader who begins on the first down beat of the song by tapping the palm of the player on the left with the leader’s right hand."
+        ]
+      ],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "are you sleeping? (brother john)",
+    "grade": [2, 4],
+    "score": ["../../../songImages/areYouSleeping.png"],
+    "function": {
+      "rhythmic": { "presentation": ["4$"], "practice": ["w", "4$"] },
+      "melodic": { "presentation": [], "practice": ["f"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "quadruple",
+      "mm": "104",
+      "rhythmSet": ["q", "sd", "w"]
+    },
+    "melody": {
+      "csp": "G",
+      "tonalCenter": "d",
+      "toneSet": ["s,", "d", "r", "m", "f", "s", "l"]
+    },
+    "context": {
+      "subject": ["sleep and waking", "bells"],
+      "lyrics": [],
+      "ethnicOrigin": ["france"],
+      "language": ["english", "spanish", "french"],
+      "translation": []
+    },
+    "form": ["ABCD"],
+    "packet source": ["tx state"],
+    "source": [
+      "Dallin, Leon and Lynn. Heritage Songster. Wm. C. Brown Co. Dubuque, Iowa, 1966. 15.",
+      "Johnston,Richard. Folk Songs North America Sings. E.C. Kerby Ltd. Toronto, 1984. Page 165."
+    ],
+    "misc": {
+      "partWork": ["canon"],
+      "recording": [],
+      "gameType": ["dynamic action"],
+      "gameDirections": [
+        [
+          "Students step and clap on beat walk, snapping on beats 2-4.",
+          "Students can perform Dalcroze four count conducting"
+        ]
+      ],
+      "notes": [
+        [
+          "HS - Children find this French round delightful.  It is easy to sing and provides an excellent initial experience singing in the original language."
+        ]
+      ]
+    }
+  },
+
+  {
+    "songTitle": "aserrin aserran",
+    "grade": [0],
+    "score": ["../../../songImages/aserrinAserran.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["Aa", "qsd"] },
+      "melodic": { "presentation": [], "practice": ["f"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "duple",
+      "mm": "90",
+      "rhythmSet": ["q", "sd", "ssd", "qa"]
+    },
+    "melody": {
+      "csp": "G",
+      "tonalCenter": "d",
+      "toneSet": ["d", "f", "s"]
+    },
+    "context": {
+      "subject": ["occupations", "lumberjack"],
+      "lyrics": [],
+      "ethnicOrigin": ["caribbean", "puerto rico", "cuba", "mexico", "chile"],
+      "language": ["spanish"],
+      "translation": []
+    },
+    "form": ["AAA"],
+    "packet source": [],
+    "source": [
+      "Rios, Maria Alvarez and Maria Antonieta Henriquez. Cantos Infantiles Cubanos. Havana, Cuba: Editorial Gente Nueva, 2000. 32.",
+      "Cabrera, Mirna. A la Rueda, Rueda. p. 7."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": ["dramatic action"],
+      "gameDirections": [
+        [
+          "Formation: Seated pairs of children",
+          "Action: As they sing, children grasp hands and sway back and forth, imitating the motion of lumberjacks sawing.",
+          "Or, a child sits in the mother’s lap and the mother leans the child back and forth in time with the song,"
+        ]
+      ],
+      "notes": [
+        [
+          "Additional verses from Montoya, Juan Hidalgo, Cancionero Popular Infantil Espanol"
+        ],
+        [
+          "A la Rueda - The opening words “aserrín, asseran” are onomatopoeic and imitate the rhythmic action of two sawyers pulling back and forth on a large two-man saw.  This variant likely refers to the colonial-era shipyards of San Juan, Puerto Rico.  It alternates back and forth between two tones, in which each sawyer asks for something (often nonsensical) that rhymes with his name- Juan with pan, Pedro with queso, Roque with alfandoque, Enrique with alfeñique.  Tickling songs provide a fun, interactive activity for both young children and adults.  The adult is supposed to rock the child back and forth in rhythm with the saw, and then tickle on the final triqui-trán, to make the child laugh."
+        ]
+      ]
+    }
+  },
+
+  {
+    "songTitle": "au clair de la lune",
+    "grade": [5],
+    "score": ["../../../songImages/auClairDeLaLune.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["t"] },
+      "melodic": { "presentation": [], "practice": ["t,"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "quadruple",
+      "mm": "120",
+      "rhythmSet": ["q", "Q", "w", "t"]
+    },
+    "melody": {
+      "csp": "B",
+      "tonalCenter": "d",
+      "toneSet": ["s,", "l,", "t,", "d", "r", "m"]
+    },
+    "context": {
+      "subject": ["moon"],
+      "lyrics": [],
+      "ethnicOrigin": ["france"],
+      "language": ["french"],
+      "translation": []
+    },
+    "form": ["AABA"],
+    "packet source": ["tx state"],
+    "source": [
+      "Boni, dMargaret Bradford. Fireside Book of Folk Songs. Simon and Schuster, NY, 1947. 74",
+      "Dallin, Leon and Lynn. Heritage Songster. Wm. C. Brown Co. Dubuque, Iowa, 1966. 117.",
+      "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. 290.",
+      "Jaffa, Audrey DuBuc and Betty M. Barlow. Salut! Nous allons chanter (Sing and Learn French). Shawnee Press Inc. Delaware Water Gap, PA. 1972. Page 32."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [
+        [
+          "HS - Au Clair de la Lune is regarded as a French folk song, and one of the most popular, through its melody is attributed to Jean Baptiste Lully.  Lully rose from humble beginnings to a spectacular career as a composer and conductor in the court of Louis XIV."
+        ]
+      ]
+    }
+  },
+
+  {
+    "songTitle": "aunt rhody/nancy",
+    "grade": [1, 4, 5],
+    "score": ["../../../songImages/auntRhody.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["w", "Aa"] },
+      "melodic": { "presentation": [], "practice": ["f"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "quadruple",
+      "mm": "88",
+      "rhythmSet": ["q", "sd", "w", "W"]
+    },
+    "melody": {
+      "csp": "B",
+      "tonalCenter": "d",
+      "toneSet": ["d", "r", "m", "f", "s"]
+    },
+    "context": {
+      "subject": ["animals", "birds", "geese", "death/afterlife"],
+      "lyrics": [],
+      "ethnicOrigin": ["united states", "anglo-american", "south", "texas"],
+      "language": ["english"],
+      "translation": []
+    },
+    "form": ["ABCD"],
+    "packet source": ["tx state"],
+    "source": [
+      "Chase, Richard. Old Songs and Singing Games. Dover Publications, NY, 1972. 3",
+      "Library of Congress, AFS 2638 B1. Collected by John A. and Ruby T. Lomax.",
+      "Chase, Richard. American Folk Tales and Songs. New York: Dover Publications, 1971. 176-177.",
+      "Erdei, Peter (ed.) and Komlos, Katalin.  150 American Folk Songs. Boosey & Hawkes, 1974  (7th printing 1985). p. 67.",
+      "Johnston,Richard. Folk Songs North America Sings. E.C. Kerby Ltd. Toronto, 1984. Page 41.",
+      "Dallin, Leon and Lynn. Heritage Songster. Wm. C. Brown Co. Dubuque, Iowa, 1966. 218.,"
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [
+        [
+          "HNU - This is one of the most widely known and best loved of all our songs. The melody is also known in hymnals as “Greenville” or “Rousseau’s Dream,” and in this use it has a second part. It appeared in an opera written by Jean Jacques Rousseau in 1750, and it is said that Rousseau dreamed he went to Heaven and heard angels singing this melody as they stood around the throne of God."
+        ],
+        [
+          "Book for Go Tell Aunt Rhody - https://www.publishersweekly.com/978-0-689-80765-7"
+        ]
+      ]
+    }
+  },
+
+  {
+    "songTitle": "aviso al publico",
+    "grade": [5],
+    "score": ["../../../songImages/avisoElPublico.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["xxcc", "Aa"] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "duple",
+      "mm": "79",
+      "rhythmSet": ["q", "sd", "xxcc", "Aa", "z"]
+    },
+    "melody": {
+      "csp": "",
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": ["tongue twister"],
+      "lyrics": [],
+      "ethnicOrigin": ["mexico"],
+      "language": ["spanish"],
+      "translation": []
+    },
+    "form": ["AB"],
+    "packet source": ["tx state"],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": ["hand clapping"],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "ay guarenita",
+    "grade": [],
+    "score": ["../../../songImages/ayGuarenita.png"],
+    "function": {
+      "rhythmic": { "presentation": ["w"], "practice": ["w"] },
+      "melodic": {
+        "presentation": ["minor pentatonic"],
+        "practice": ["minor pentatonic"]
+      },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": ["w", "q", "sd"]
+    },
+    "melody": {
+      "csp": "",
+      "tonalCenter": "",
+      "toneSet": ["l,", "d", "r", "m", "s", "l"]
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": ["argentina"],
+      "language": ["spanish"],
+      "translation": []
+    },
+    "form": ["ABCD"],
+    "packet source": ["antologia kodaly columbiana"],
+    "source": [
+      "HEMSY de GAINZA, Violeta. El Cantar Tiene Sentido, Libro 1,Buenos Aires: Ricordi, 1991. P 64."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "bee bee bumble bee",
+    "grade": [0, 1],
+    "score": ["../../../songImages/beeBeeBumbleBee.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["qsd"] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [
+        "5 voices",
+        "steady beat",
+        "loud soft",
+        "high low",
+        "fast slow"
+      ],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "duple",
+      "mm": "100",
+      "rhythmSet": ["q", "sd"]
+    },
+    "melody": {
+      "csp": "",
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": ["animals", "insects", "bees", "bears", "pigs"],
+      "lyrics": [],
+      "ethnicOrigin": ["united states"],
+      "language": ["english"],
+      "translation": []
+    },
+    "form": ["ABBB"],
+    "packet source": ["antologia kodaly columbiana"],
+    "source": [
+      "Bacon, Denise.  Let’s Sing Together! Boosey & Hawkes, 1971.p.14.",
+      "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. 277."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": ["circle"],
+      "gameDirections": [
+        [
+          "Students sit in a circle.",
+          "One student walks the circle tapping the heads of seated children. The student tapped on the word  out becomes the new “bee” and the game continues."
+        ]
+      ],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "biddy biddy hold fast",
+    "grade": [],
+    "score": ["../../../songImages/biddyBiddyHoldFast.png"],
+    "function": {
+      "rhythmic": { "presentation": ["xxcc"], "practice": ["xxcc"] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "csp": "",
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "form": [],
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": ["circle"],
+      "gameDirections": [
+        [
+          "Game formation: circle or row of players with one student in the middle",
+          "Action:  all students have their hands held out in front of them with their palms vertical, touching and almost closed.  The one student in the middle also has his/her hands with palms touching, but with a toy ring between their hands.  As the song is sung, the center player 'slices' through the other players hands and drops the ring into some one's hand.  The players then try to guess who has the ring at the end.  If you play 'Button You Must Wander' with your students, it's the same game except with a ring.",
+
+          "One thing that we do is while the guessing is going on, all students hum the song.  If they want to make a guess, they raise their hands (still clasped together) and point to who they thing has the ring.  The guessed player then opens their hands to reveal if the guesser is correct.  To avoid the guessing from taking too long we limit either the number of guesses per round or the number of times we hum the melody.  The person with the ring is the next center person."
+        ]
+      ],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "big fat biscuit",
+    "grade": [3],
+    "score": ["../../../songImages/bigFatBiscuit.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["ra", "Aa"] },
+      "melodic": { "presentation": [], "practice": ["l,", "s,"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "quadruple",
+      "mm": "162",
+      "rhythmSet": ["q", "w", "aqa", "ra"]
+    },
+    "melody": {
+      "csp": "F",
+      "tonalCenter": "d",
+      "toneSet": ["l,", "d", "r", "m"]
+    },
+    "context": {
+      "subject": ["food", "biscuits", "jumping"],
+      "lyrics": [],
+      "ethnicOrigin": ["african american", "south", "united states"],
+      "language": ["english"],
+      "translation": []
+    },
+    "form": ["AAA'"],
+    "packet source": ["tx state"],
+    "source": [
+      "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. 290.",
+      "Johnson, Guy. Folklore from St. Helen Island. Folklore Associates, Inc. Haborn, PA. 1968. Page 170."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": ["jumping game"],
+      "gameDirections": [
+        [
+          "Students will enjoy lining up side by side, three to six at a time, to see who can jump flat-footed the farthest at the end of the song."
+        ]
+      ],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "",
+    "grade": [],
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "csp": "",
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "form": [],
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "",
+    "grade": [],
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "csp": "",
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "form": [],
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "bile dem cabbage down",
+    "grade": [5],
+    "score": ["../../../songImages/bileDemCabbageDown.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["xsc"] },
+      "melodic": { "presentation": [], "practice": ["f", "t,"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "duple",
+      "mm": "114",
+      "rhythmSet": ["q", "sd", "Q", "sxc", "vh"]
+    },
+    "melody": {
+      "csp": "B",
+      "tonalCenter": "d",
+      "toneSet": ["t,", "d", "r", "m", "f"]
+    },
+    "context": {
+      "subject": ["food", "cabbage"],
+      "lyrics": [],
+      "ethnicOrigin": ["african american"],
+      "language": ["english"],
+      "translation": []
+    },
+    "form": [],
+    "packet source": ["tx state"],
+    "source": [
+      "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. 291.",
+      "Alan Lomax, Folk Songs of North America, adapted from the singing of Peggy Seeger.  Doubleday and Company, Inc. Garden City, NY. 1960, pages 506-507, 493-494."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": ["https://youtu.be/441sSWWxee4"],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "billy boy",
+    "grade": [3, 4],
+    "score": ["../../../songImages/billyBoy.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["ar", "tie"] },
+      "melodic": { "presentation": [], "practice": ["t,"] },
+      "kinder": [],
+      "misc": ["story song"]
+    },
+    "rhythm": {
+      "meter": "quadruple",
+      "mm": "95",
+      "rhythmSet": ["q", "sd", "Q", "ar"]
+    },
+    "melody": {
+      "csp": "G",
+      "tonalCenter": "d",
+      "toneSet": ["t,", "d", "r", "m", "s", "l", "d'"]
+    },
+    "context": {
+      "subject": ["love", "food", "pie"],
+      "lyrics": [],
+      "ethnicOrigin": ["england", "new england"],
+      "language": ["english"],
+      "translation": []
+    },
+    "form": ["ABCD"],
+    "packet source": [],
+    "source": [
+      "Dallin, Leon and Lynn. Heritage Songster. Wm. C. Brown Commpany. Dubuque, Iowa, 1966. 43.",
+      "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. 292.",
+      "Golden Encyclopedia of Folk Music, Hal Leonard Publishing Corp. Milwaukee, WI. [not dated]"
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [
+        [
+          "HS - Here is an example of a question-answer song, a type that abounds in folk song literature, including that of primitive societies.  This song came from England to New England and found great favor in the southern mountain country.  The words exist in many versions, and additional verses can be improvised describing various household chores.  A common practice in singing question-answer songs is for the group to ask the questions and a soloist to provide the answer."
+        ]
+      ]
+    }
+  },
+
+  {
+    "songTitle": "birch tree",
+    "grade": [4],
+    "score": ["../../../songImages/birchTree.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["ra"] },
+      "melodic": { "presentation": ["t,"], "practice": ["t,"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "duple",
+      "mm": "95",
+      "rhythmSet": ["q", "sd", "ra"]
+    },
+    "melody": {
+      "csp": "B",
+      "tonalCenter": "l,",
+      "toneSet": ["l,", "t,", "d", "r", "m", "s"]
+    },
+    "context": {
+      "subject": ["nature", "trees", "instruments"],
+      "lyrics": [],
+      "ethnicOrigin": ["russia"],
+      "language": ["english"],
+      "translation": []
+    },
+    "form": ["AA'BB'"],
+    "packet source": ["tx state"],
+    "source": [
+      "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. 294.",
+      "Rubin, Rose N. And Michael Stillman, eds. A Russian Song Book. Random House, New York. 1962. Reprint: Dover Publications, Inc. 1989, Part I."
+    ],
+    "misc": {
+      "partWork": ["2-beat canon", "canon"],
+      "recording": ["https://www.youtube.com/watch?v=Hi0uGbarREA"],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [
+        [
+          "Look for video of silly man playing balalaika.",
+          "Look in handbook for lesson transitioning to Tchaikovsky Symphony No. 4, Movement IV."
+        ]
+      ]
+    }
+  },
+  {
+    "songTitle": "bird's courting song, the",
+    "grade": [4],
+    "score": ["../../../songImages/birdsCourtingSong.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["ra", "Aa"] },
+      "melodic": { "presentation": [], "practice": ["f"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "quadruple",
+      "mm": "",
+      "rhythmSet": ["q", "sd", "Q", "w", "ra", "Aa"]
+    },
+    "melody": {
+      "csp": "Bb",
+      "tonalCenter": "",
+      "toneSet": ["l,", "d", "r", "f", "s", "l", "d'"]
+    },
+    "context": {
+      "subject": ["animals", "birds"],
+      "lyrics": [],
+      "ethnicOrigin": ["anglo-american"],
+      "language": ["english"],
+      "translation": []
+    },
+    "form": ["ABAB"],
+    "packet source": ["tx state"],
+    "source": [
+      "Anglo-American song as sung by James Atwood of Pisgah, Vermont, 1919",
+      "Lock, Eleanor, G. Sail Away 155 American Folk Songs to Sing, Read and Play Boosey & Hawkes, N.Y. 1981. 59",
+      "Johnston,Richard. Folk Songs North America Sings. E.C. Kerby Ltd. Toronto, 1984. Page 147."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+  {
+    "songTitle": "blow ye winds",
+    "grade": [3, 5],
+    "score": ["../../../songImages/blowYeWinds.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["ar", "Aa"] },
+      "melodic": { "presentation": [], "practice": ["t,"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "quadruple",
+      "mm": "80",
+      "rhythmSet": ["q", "sd", "Q", "w", "ra", "ar"]
+    },
+    "melody": {
+      "csp": "D",
+      "tonalCenter": "d",
+      "toneSet": ["s,", "l,", "t,", "d", "r", "m", "f", "s", "l"]
+    },
+    "context": {
+      "subject": ["professions", "sailing"],
+      "lyrics": [],
+      "ethnicOrigin": ["united states", "sea song"],
+      "language": ["english"],
+      "translation": []
+    },
+    "form": ["verse and refrain"],
+    "packet source": ["tx state"],
+    "source": [
+      "Dallin, Leon and Lynn. Heritage Songster. Wm. C. Brown Co., Dubuque, Iowa, 1966. 118",
+      "deep sea chanties (trevine)"
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [
+        [
+          "HS - Whaling was a major industry in early America.  Whale oil was in demand and brought high prices.  Sailors signed on whaling vessels for a share of the profit.  The venture was dangerous, and some whaling voyages lasted for several years.  To amuse themselves on these long trips, sailors made up songs about their activities and adventures.  Blow Ye Winds is one of the stories American sailors told in song.  The melody is an old English ballad which originally may have been a dancing song."
+        ]
+      ]
+    }
+  },
+  {
+    "songTitle": "blue",
+    "grade": [2, 3],
+    "score": ["../../../songImages/blue.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["w", "4$"] },
+      "melodic": { "presentation": [], "practice": ["r"] },
+      "kinder": [],
+      "misc": ["story song"]
+    },
+    "rhythm": {
+      "meter": "quadruple",
+      "mm": "80",
+      "rhythmSet": ["q", "sd", "w"]
+    },
+    "melody": {
+      "csp": "B",
+      "tonalCenter": "d",
+      "toneSet": ["d", "r", "m", "s"]
+    },
+    "context": {
+      "subject": ["animals", "dogs"],
+      "lyrics": [],
+      "ethnicOrigin": ["anglo-american", "mississippi", "south mississippi"],
+      "language": ["english"],
+      "translation": []
+    },
+    "form": ["ABAC"],
+    "packet source": ["tx state"],
+    "source": [
+      "Heath, Carol. The Song Garden,  Book II. KMTI. 1985. 12",
+      "Also in Seeger, Ruth Crawford. Animal Folk Songs for Children. and Rinzler, Kate, ed. Old Mother Hippletoe.",
+      "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. 295."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [
+        [
+          "HNU - Hunting dogs are highly prized by southern country people, and numerous songs express their owners' pride in and friendship for their dogs. This song has been widely collected from both black and white singers but is generally thought to be of black authorship.  The melodies of the collected versions are diverse.  Some versions include syllables imitating a howling hound, but most exhibit a striking stability of text and paint the picture found here: the preliminary boast about a favorite dog, the possum hunt, the dog's sickness, the doctor's verdict, the dog's death, his burial, and a stanza about meeting him in heave.  One variant ends: Blue, Blue, you rascal, you,I wish it was me instead of you. Although the burial with a silver spade and a golden chain is borrowed from English tradition, Blue is an American song through and through. According to the collector’s notes, the Scruggs sisters (fifteen, sixteen, and thirteen years old respectively) sang together often, sometimes with guitar and sometimes with piano accompaniment."
+        ]
+      ]
+    }
+  },
+  {
+    "songTitle": "boatman, the",
+    "grade": [2],
+    "score": ["../../../songImages/boatman.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["ra"] },
+      "melodic": { "presentation": [], "practice": ["r"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "quadruple",
+      "mm": "160",
+      "rhythmSet": ["q", "sd", "ra", "ar"]
+    },
+    "melody": {
+      "csp": "A",
+      "tonalCenter": "d",
+      "toneSet": ["d", "r", "m"]
+    },
+    "context": {
+      "subject": ["professions", "boatman"],
+      "lyrics": [],
+      "ethnicOrigin": ["united states", "african american"],
+      "language": ["english"],
+      "translation": []
+    },
+    "form": ["ABA'B'"],
+    "packet source": ["tx state"],
+    "source": [
+      "Erdei, Peter and Komlos, Katalin. 150 American Folk Songs to Sing, Read and Play.  Boosey & Hawkes, NY, 1974. 1",
+      "Choksy, Lois.  The Kodály Context. Englewood Cliffs, N.J.: Prentice-Hall, Inc., 1981. p. 241."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+  {
+    "songTitle": "bobby shaftoe",
+    "grade": [0, 1, 2],
+    "score": ["../../../songImages/bobbyShaftoe.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["qsd"] },
+      "melodic": { "presentation": ["2$"], "practice": ["l", "2$"] },
+      "kinder": ["beat v. rhythm", "loud soft"],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "duple",
+      "mm": "100",
+      "rhythmSet": ["q", "sd"]
+    },
+    "melody": {
+      "csp": "C",
+      "tonalCenter": "m",
+      "toneSet": ["m", "s", "l"]
+    },
+    "context": {
+      "subject": ["sea", "love and courtship", "nature", "sailing"],
+      "lyrics": [],
+      "ethnicOrigin": ["england"],
+      "language": ["english"],
+      "translation": []
+    },
+    "form": ["AAAA"],
+    "packet source": ["tx state"],
+    "source": [
+      "Variant of Wyzga, Helen L.  Simple Gifts, Resource Book I. Copyright 1976. p.21.",
+      "Sneaky Snake Publications, 2010 (2nd ed.). p. 295.",
+      "Gant, Andrew. Folk Songs of the British Isles. Kevin Mayhew, Letd. 1977",
+      "Eleanor G. Locke, ed.American Folk Songs for Teaching(unpublished collection)Oakland, Calif.: Holy Names University, 1978",
+      "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. 295.",
+      "Dallin, Leon and Lynn. Heritage Songster. Wm. C. Brown Co. Dubuque, Iowa, 1966. 69.",
+      "Chosky, Lois and David Frummit, 120 Singing Games and Dances, Prenteic Hall, Englewood Cliffs, New Jersey. 1996. page 11.",
+      "Choksy, Lois.  The Kodály Context. Englewood Cliffs, N.J.: Prentice-Hall, Inc., 1981. p. 213."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [
+        "b. 1-4: pantomime waves with one hand",
+        "b. 5-8: tap knee with alternating hands",
+        "b. 9-12: pantomime waves with one hand",
+        "b. 13-16: swinging arm motion"
+      ],
+      "notes": [
+        ["Alternate Lyrics: Sailed his ship to Italy Lucky Bobby Shafto"]
+      ]
+    }
+  },
+  {
+    "songTitle": "boots of shining leather",
+    "grade": [5],
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["w"] },
+      "melodic": { "presentation": [], "practice": ["t", "t,"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "quadruple",
+      "mm": "105",
+      "rhythmSet": ["q", "sd", "w", "W"]
+    },
+    "melody": {
+      "csp": "",
+      "tonalCenter": "l",
+      "toneSet": ["s,", "l,", "t,", "d", "r", "m", "l", "t"]
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": ["hungary"],
+      "language": ["english"],
+      "translation": []
+    },
+    "form": ["AABBCAD"],
+    "packet source": ["tx state"],
+    "source": [
+      "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. 297."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": ["play-party"],
+      "gameDirections": ["Circle and clap on “four quick steps in place"],
+      "notes": [
+        [
+          "This song may also be sung in two part canon after four beats or two beats.  The movements are originated by Ann Kay of Minnetonka, Minnesota."
+        ]
+      ]
+    }
+  },
+  {
+    "songTitle": "boston beans",
+    "grade": [5],
+    "score": ["../../../songImages/bostonBeans.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["gc"] },
+      "melodic": { "presentation": [], "practice": ["dorian"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "duple",
+      "mm": "90",
+      "rhythmSet": ["q", "sd", "xxcc", "sxc", "gc"]
+    },
+    "melody": {
+      "csp": "D",
+      "tonalCenter": "r",
+      "toneSet": ["d", "r", "m", "f", "s", "l", "d'", "r'", "m'"]
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": ["united states", "south"],
+      "language": ["english"],
+      "translation": []
+    },
+    "form": [],
+    "packet source": [],
+    "source": [
+      "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. 297.",
+      "Ritchie, Jean. Celebration of Life. Geordie Music Publishing, Inc. 1971. Page 81."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+  {
+    "songTitle": "bought me a cat",
+    "grade": [0, 3],
+    "score": ["../../../songImages/boughtMeACat.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["sxc"] },
+      "melodic": { "presentation": [], "practice": ["r"] },
+      "kinder": [],
+      "misc": ["cumulative singing"]
+    },
+    "rhythm": {
+      "meter": "duple",
+      "mm": "112",
+      "rhythmSet": ["q", "sd", "Q", "sxc", "xcd"]
+    },
+    "melody": {
+      "csp": "F",
+      "tonalCenter": "d",
+      "toneSet": []
+    },
+    "context": {
+      "subject": ["animals", "cats"],
+      "lyrics": [],
+      "ethnicOrigin": [
+        "united states",
+        "south",
+        "ozarks",
+        "arkansas",
+        "kentucky"
+      ],
+      "language": ["english"],
+      "translation": ["d", "r", "m", "s"]
+    },
+    "form": [],
+    "packet source": [],
+    "source": [
+      "Erdei, Peter and Komlos, Katalin. 150 American Folk Songs to Sing, Read and Play. Boosey & Hawkes. NY, 1974. 8",
+      "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. 298.",
+      "Heath, Carol. The Song Garden, Book3. KMTI. West Hartford, CT. 1985. Pages 4-5.",
+      "Johnston,Richard. Folk Songs North America Sings. E.C. Kerby Ltd. Toronto, 1984. Page 107.",
+      "Dallin, Leon and Lynn. Heritage Songster. Wm. C. Brown Co. Dubuque, Iowa, 1966. 9."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": ["boy's choir (find this!)"],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "bounce high bounce low",
+    "grade": [0, 1, 2],
+    "score": ["../../../songImages/bounceHighBounceLow.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["qsd"] },
+      "melodic": { "presentation": ["l"], "practice": ["l"] },
+      "kinder": ["beat v. rhythm", "loud soft"],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "duple",
+      "mm": "80",
+      "rhythmSet": ["q", "sd"]
+    },
+    "melody": {
+      "csp": "C",
+      "tonalCenter": "m",
+      "toneSet": ["m", "s", "l"]
+    },
+    "context": {
+      "subject": ["ball", "movement"],
+      "lyrics": [],
+      "ethnicOrigin": ["united states"],
+      "language": ["english"],
+      "translation": []
+    },
+    "form": ["AA"],
+    "packet source": ["tx state"],
+    "source": [
+      "Locke, Eleanor G., Sail Away: 155 American Folk Songs to Sing, Read, and Play. P.4.",
+      "Choksy, Lois.  The Kodály Context. Englewood Cliffs, N.J.: Prentice-Hall, Inc., 1981. p. 212."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": ["action song", "ball"],
+      "gameDirections": [
+        "Children take turns in a circle bouncing a ball on the word “bounce,” replacing “Shilo” with the next child’s name."
+      ],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "bow belinda",
+    "grade": [5],
+    "score": ["../../../songImages/bowBelinda.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["qsd"] },
+      "melodic": { "presentation": ["dorian"], "practice": ["dorian"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "duple",
+      "mm": "106",
+      "rhythmSet": ["q", "sd"]
+    },
+    "melody": {
+      "csp": "A",
+      "tonalCenter": "r",
+      "toneSet": ["d", "r", "m", "f", "s", "l", "t", "d'", "r'"]
+    },
+    "context": {
+      "subject": ["movements"],
+      "lyrics": [],
+      "ethnicOrigin": ["united states", "southeast"],
+      "language": [],
+      "translation": []
+    },
+    "form": [],
+    "packet source": ["tx state"],
+    "source": [
+      "Chase, Richard. Singing Games and Playparty Games. Dover Publications, Inc. New York, N.Y.  Page 32",
+      "Dallin, Leon and Lynn. Heritage Songster. Wm. C. Brown Co. Dubuque, Iowa, 1966. 17.",
+      "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. 299.",
+      "Johnston,Richard. Folk Songs North America Sings. E.C. Kerby Ltd. Toronto, 1984. Page ???.",
+      "Chosky, Lois and David Frummit, 120 Singing Games and Dances, Prenteic Hall, Englewood Cliffs, New Jersey. 1996. page 145."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": ["dance game"],
+      "gameDirections": [
+        [
+          "Formation: Longways set for 5 to 9 couples.",
+          "6 couples is best.",
+          "Verses 1-5 are danced by the head man and the foot girl first; then by the head girl and the foot man.  Simply follow the words.",
+          "On verse 6, all promenade.  Skip around, by couples to the foot of the set.  Couple one makes an arch;",
+          "Verse 7, all couples go through the arch and the original second couple becomes the new head couple."
+        ]
+      ],
+      "notes": [
+        [
+          "HS - In this American singing game song, the actions are fitted to the words. The game begins with boys and girls in separate lines facing each other.  Verses can be made up to fit the music and direct the action as the dance progresses."
+        ],
+        ["Per Phil - takes a life of its own as it’s being sung."],
+        ["Per Phil, start on mi to have fi ready."],
+        [
+          "Per Gaby, start with re and then “too easy” into mi as starting pitch."
+        ],
+        [
+          "Per Micheal - re based moves by step and la based moves with triadic movement"
+        ],
+        ["Presentation and labeling: introducing fi and the scale"]
+      ]
+    }
+  },
+
+  {
+    "songTitle": "bow wow wow",
+    "grade": [1, 2, 3],
+    "score": ["../../../songImages/bowWowWow.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["Q"] },
+      "melodic": { "presentation": ["d"], "practice": ["r", "d"] },
+      "kinder": ["beat v. rhythm", "fast slow"],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "duple",
+      "mm": "120",
+      "rhythmSet": ["q", "sd", "Q"]
+    },
+    "melody": {
+      "csp": "G",
+      "tonalCenter": "d",
+      "toneSet": ["d", "r", "m", "s", "l"]
+    },
+    "context": {
+      "subject": ["animals", "dogs", "bones"],
+      "lyrics": [],
+      "ethnicOrigin": ["united states", "massachusetts"],
+      "language": ["english"],
+      "translation": []
+    },
+    "packet source": ["tx state"],
+    "source": [
+      "Moses, Irene E.P. Rhythmic Action Plays and Dances. Springfield, Mass.: Milton Bradley, 1915. 109.",
+      "Chosky, Lois and David Frummit, 120 Singing Games and Dances, Prenteic Hall, Englewood Cliffs, New Jersey. 1996. page 49.",
+      "Choksy, Lois.  The Kodály Context. Englewood Cliffs, N.J.: Prentice-Hall, Inc., 1981. p. 215."
+    ],
+    "misc": {
+      "partWork": ["partner song"],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [
+        "Form a circle and face a partner.",
+        "1st phrase – stamp feet 3 times",
+        "2nd phrase - shake finger at partner",
+        "3rd phrase -  partners clasp hands and circle half around exchanging places",
+        "4th phrase – stamp feet 3 times ; on final rest, jump around to face a new partner"
+      ],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "bump up tomato",
+    "grade": [5],
+    "score": ["../../../songImages/bumpUpTomato.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["aqa"] },
+      "melodic": { "presentation": [], "practice": ["ta"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "144",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "csp": "G",
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": ["united states", "illinois"],
+      "language": [],
+      "translation": []
+    },
+    "form": [],
+    "packet source": ["tx state"],
+    "source": [
+      "Chicago playground song collected by Eve Harwood.",
+      "Leegh Ann Mock Garner, TMEA 2007"
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [["Per Gaby: ta will prepare for mixolydian"]]
+    }
+  },
+
+  {
+    "songTitle": "button you must wander",
+    "grade": [1, 2],
+    "score": ["../../../songImages/buttonYouMustWander.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["qsd"] },
+      "melodic": { "presentation": [], "practice": ["r"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "duple",
+      "mm": "112",
+      "rhythmSet": ["q", "sd", "Q"]
+    },
+    "melody": {
+      "csp": "G",
+      "tonalCenter": "d",
+      "toneSet": ["d", "r", "m", "s", "l"]
+    },
+    "context": {
+      "subject": ["buttons"],
+      "lyrics": [],
+      "ethnicOrigin": ["united states"],
+      "language": ["english"],
+      "translation": []
+    },
+    "packet source": ["tx state"],
+    "source": [
+      "Chosky, Lois and David Frummit, 120 Singing Games and Dances, Prenteic Hall, Englewood Cliffs, New Jersey. 1996. page 161."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [
+        "(120) The child who is “it” sits in the center of the circle.  The rest of the children pass an object (the button) around the circle while trying to cover their actions from the child in the center.  When the song is over, the button stays with whoever has it at that point, and the child who is “it” must try to guess who has it."
+      ],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "bye baby bunting",
+    "grade": [0, 1, 2],
+    "score": ["../../../songImages/byeBabyBunting.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["qsd"] },
+      "melodic": { "presentation": [], "practice": ["l"] },
+      "kinder": [],
+      "misc": ["lullaby"]
+    },
+    "rhythm": {
+      "meter": "duple",
+      "mm": "96",
+      "rhythmSet": ["q", "sd", "Aa"]
+    },
+    "melody": {
+      "csp": "B",
+      "tonalCenter": "m",
+      "toneSet": ["m", "s", "l"]
+    },
+    "context": {
+      "subject": ["hunting", "sleep/waking"],
+      "lyrics": [],
+      "ethnicOrigin": ["united states"],
+      "language": ["english"],
+      "translation": []
+    },
+    "form": [],
+    "packet source": [],
+    "source": [
+      " Erdei, Peter (ed.) and Komlos, Katalin. 150 American Folk Songs, Boosey & Hawkes, 1974 (7th printing 1985). p.4.",
+      "Johnston,Richard. Folk Songs North America Sings. E.C. Kerby Ltd. Toronto, 1984. Page 13.",
+      "Chosky, Lois and David Frummit, 120 Singing Games and Dances, Prenteic Hall, Englewood Cliffs, New Jersey. 1996. page 8."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [
+        [
+          "120 - Pretend to gently rock the baby to sleep while singing this lullaby."
+        ]
+      ]
+    }
+  },
+
+  {
+    "songTitle": "bye bye baby",
+    "grade": [0, 2],
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["w"] },
+      "melodic": { "presentation": [], "practice": ["r"] },
+      "kinder": [],
+      "misc": ["lullaby"]
+    },
+    "rhythm": {
+      "meter": "duple",
+      "mm": "80",
+      "rhythmSet": ["q", "sd", "w"]
+    },
+    "melody": {
+      "csp": "B",
+      "tonalCenter": "d",
+      "toneSet": ["d", "r", "m", "s"]
+    },
+    "context": {
+      "subject": ["sleep/waking", "lullaby"],
+      "lyrics": [],
+      "ethnicOrigin": ["united states", "appalachia", "virginia"],
+      "language": ["english"],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [
+      "Erdei, Peter (ed.) and Komlos, Katalin. 150 American Folk Songs.Boosey & Hawkes, 1974. (7th printing 1985). p. 6",
+      "Reprinted by permission from English Folk Songs from the Southern Appalachians by Cecil Sharp,,   Oxford University Press, 1932.",
+      "Johnston,Richard. Folk Songs North America Sings. E.C. Kerby Ltd. Toronto, 1984. Page 20."
+    ],
+    "misc": {
+      "partWork": ["2-part arrangement - sourwood mountain"],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [
+        [
+          "Per HNU, “Mrs. Thomas, the singer, who was 85 years old, lived by herself in a small log cabin in the woods. When we came upon her she was singing to sleep her grand-niece, a little baby of 2 months old. It made a lovely picture, and the crooning song, though very simple, sounded very beautiful.”"
+        ]
+      ]
+    }
+  },
+
+  {
+    "songTitle": "canoe round",
+    "grade": [3, 4],
+    "score": ["../../../songImages/canoeRound.png"],
+    "function": {
+      "rhythmic": { "presentation": ["aqa"], "practice": ["aqa"] },
+      "melodic": { "presentation": [], "practice": ["m,"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "quadruple",
+      "mm": "100",
+      "rhythmSet": ["q", "sd", "w", "aqa"]
+    },
+    "melody": {
+      "csp": "G",
+      "tonalCenter": "l",
+      "toneSet": ["m,", "l,", "d", "r", "m", "l"]
+    },
+    "context": {
+      "subject": ["transportation", "nature", "rivers", "camping song"],
+      "lyrics": [],
+      "ethnicOrigin": ["united states", "new england", "maine"],
+      "language": ["english"],
+      "translation": []
+    },
+    "form": [],
+    "packet source": ["tx state"],
+    "source": [
+      "Zanzig, Augusts D. The Open Road Song Book. World Around Songs, Burnsville, N.C.",
+      "Johnston, Richard. Folk Songs North America Sings. Caveat Publishers, Toronto, 1984. 29.",
+      "Bolkovac, Edward and Judith Johnson, 150 Rounds for Singing and Teaching. New York: Boosey & Hawkes, 1996. 38.",
+      "Dallin, Leon and Lynn. Heritage Songster. Wm. C. Brown Co. Dubuque, Iowa, 1966. 99."
+    ],
+    "misc": {
+      "partWork": [
+        "2-beat canon",
+        "partner song with land of the silver birch"
+      ],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [
+        ["Last measure is sometimes notated as l,l, s, l, due to copyright."],
+        [
+          "HS - The canoe is the traditional means of transportation by water for the Indian.  This song is often acted out as it is sung, to accentuate the rhythm.  Originally animal skin or birch bark was stretched over the canoe framework to make the boat.  Today canvas, laminated wood, and aluminum are commonly used.  The basic design of the canoe is that of the Chippewa Indians.  Canoe Song was written at Camp Wohelo, a Camp Fire Girls camp in South Casco, Maine, about 1914."
+        ],
+        [
+          "Per Phil - The best ostinato for this song is sdsdqq.  This ostinato will keep this from rushing."
+        ]
+      ]
+    }
+  },
+
+  {
+    "songTitle": "cape cod girls",
+    "grade": [3, 4],
+    "score": ["../../../songImages/capeCodGirls.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": ["d'"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "quadruple",
+      "mm": "90",
+      "rhythmSet": ["q", "sd", "Q", "ra", "t"]
+    },
+    "melody": {
+      "tonalCenter": "d",
+      "toneSet": ["s,", "d", "r", "m", "s", "l", "d'"]
+    },
+    "context": {
+      "subject": ["professions", "sailing"],
+      "lyrics": [],
+      "ethnicOrigin": ["united states", "new england"],
+      "language": ["english"],
+      "translation": []
+    },
+    "form": [],
+    "packet source": [],
+    "source": [
+      "Erdei, Peter and Komlos, Kati. 150 American Folk songs to Sing, Read and Play. Boosey & Hawkes, NY 1973,  64",
+      "Dallin, Leon and Lynn. Heritage Songster. Wm. C. Brown Co. Dubuque, Iowa, 1966. 134."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [
+        [
+          "HS - The words that are different in each verse may be sung by a solo voice;  the chorus and the words that are the same in all verses may be sung by the entire group."
+        ],
+        [
+          "On early American sailing ships a large, spool-shaped cylinder that turned on an inner shaft was used to wind anchor cables on.  This was called a capstan.  The chanteyman would sing a verse of a chantey to set the work pace.  Ths sailors, posted around the capstan, would sing the refrain in rhythm with their motions.  The chanteyman was a most important member of the crew.  He was hired for his powerful voice and ability to make up endless verses to any song to keep the sailors working together until the job was completed.  This is a typical capstan chantey."
+        ]
+      ]
+    }
+  },
+
+  {
+    "songTitle": "car song, the",
+    "grade": [],
+    "score": ["../../../songImages/carSong.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "csp": "",
+      "tonalCenter": "d",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": ["english"],
+      "translation": []
+    },
+    "form": [],
+    "packet source": [],
+    "source": ["https://mrmeehlsmusic.wixsite.com/mmmusic/song-search"],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "cedar swamp",
+    "grade": [3, 4],
+    "score": ["../../../songImages/cedarSwamp.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["xcd"] },
+      "melodic": { "presentation": [], "practice": ["l,", "d'"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "duple",
+      "mm": "120",
+      "rhythmSet": ["q", "sd", "xxcc", "sxc", "xcd"]
+    },
+    "melody": {
+      "tonalCenter": "d",
+      "toneSet": ["s,", "l,", "d", "r", "m", "s", "l", "d'"]
+    },
+    "context": {
+      "subject": ["love and courtship"],
+      "lyrics": [],
+      "ethnicOrigin": [
+        "united stated",
+        "anglo-american",
+        "appalachia",
+        "kentucky"
+      ],
+      "language": ["english"],
+      "translation": []
+    },
+    "packet source": ["tx state"],
+    "source": [
+      "Ritchie, Jean. Folk Songs of the Southern Appalachians. University Press of Kentucky, Lexington, KY, 1965. 76",
+      "O Love is Teasin' . Elektra 60402-1, 1985. II, A9.",
+      "Johnston, Richard. Folk Songs North America Sings. E.C. Kerby Ltd. Toronto, 1984. Page 100."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [
+        "jean ritchie: https://www.youtube.com/watch?v=kBHdKxPH69k"
+      ],
+      "gameType": ["play-party"],
+      "gameDirections": [
+        [
+          "Formation; Double line, partners facing each other",
+          "Actions:",
+          "Beats 1-8: Head couple sashay to foot of line.",
+          "Beats 9-12: Head couple, right arm swing.",
+          "Beats 13-16: Head couple, left arm swing.",
+          "Beats 17-20: All couples, right arm swing.",
+          "Beats 21-24: All couples left arm swing."
+        ]
+      ],
+      "notes": [
+        ["lyrics: There I saw an alligator swim, he became my buddy."],
+        ["Repeat refrain 2x."],
+        [
+          "When preparing low la, use the last phrase dddd ddl, (Per Phil) and C can use a knee bend on down."
+        ]
+      ]
+    }
+  },
+
+  {
+    "songTitle": "chairs to mend",
+    "grade": [4, 5],
+    "score": ["../../../songImages/chairsToMend.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["ra"] },
+      "melodic": { "presentation": [], "practice": ["f"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "quadruple",
+      "mm": "150",
+      "rhythmSet": ["q", "sd", "Q", "w", "ra"]
+    },
+    "melody": {
+      "tonalCenter": "d",
+      "toneSet": ["s,", "d", "r", "m", "s", "f", "s"]
+    },
+    "context": {
+      "subject": ["street calls"],
+      "lyrics": [],
+      "ethnicOrigin": ["england"],
+      "language": ["english"],
+      "translation": []
+    },
+    "packet source": ["tx state"],
+    "source": [
+      " Bolkovac, Edward. 150 Rounds for Singing and Teaching.  Music Education Press, Stanford, CA, 1992. 8",
+      "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. 302."
+    ],
+    "misc": {
+      "partWork": ["canon"],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "charlotte town",
+    "grade": [4, 5],
+    "score": ["../../../songImages/charlotteTown.png"],
+    "function": {
+      "rhythmic": { "presentation": ["gc", "ar"], "practice": ["gc", "ar"] },
+      "melodic": { "presentation": [], "practice": ["t,"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "duple",
+      "mm": "116",
+      "rhythmSet": ["q", "sd", "Q", "gc", "ra", "ar"]
+    },
+    "melody": {
+      "tonalCenter": "d",
+      "toneSet": ["s,", "t,", "d", "r", "m", "f", "s"]
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": ["united states"],
+      "language": ["english"],
+      "translation": []
+    },
+    "form": [],
+    "packet source": [],
+    "source": [
+      " McIntosh, David. Folksongs and Singing Games of the Illinois Ozarks.  Illinois University Press. Carbondale, 1974",
+      "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. 303.",
+      "My Singing Bird, p. 92."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [
+        "https://matthewhenry.bandcamp.com/track/charlotte-town",
+        "http://bluegrassmessengers.com/Data/Sites/1/mp3/Goodbye%20Liza%20Jane-%20BobWillsHisTexasPlayboys.mp3"
+      ],
+      "gameType": ["circle", "play-party"],
+      "gameDirections": [
+        [
+          "Formation: Single circle of couple with girl on boy’s right.",
+          "Action: On verse 1, circle right, doing a foot-stomping two-step.",
+          "On verse 2, partners face each other, then begin the grand right and left, which continues until partners meet.  After partners meet htis first time, the men begin going around the circle, swinging each lady in turn until he meets his partner again.  This time he swings her twice around, and then all promenade until the end of whatever verse is being sung.  If the song ends before the action, simply begin again and sing until the action is completed."
+        ]
+      ],
+      "notes": [
+        [
+          "(Bluegrass Messengers) In 1731 a fire consumed most of Charleston, South Carolina. Just nine years later, the most serious fire yet experienced in the colonies devastated Charleston again, burning more than three hundred dwellings and numerous shops and warehouses. During the two year Civil War 'Siege of Charleston,' there was an expolsion and fire at Ft. Sumter in 1865.",
+          "Cairo = kay-ro (Illinois)"
+        ]
+      ]
+    }
+  },
+  {
+    "songTitle": "chicka-hanka",
+    "grade": [5],
+    "score": ["../../../songImages/chickaHanka.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["aqa"] },
+      "melodic": { "presentation": [], "practice": ["l,"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "quadruple",
+      "mm": "100",
+      "rhythmSet": ["sd", "w", "xxcc", "ra", "aqa"]
+    },
+    "melody": {
+      "tonalCenter": "l",
+      "toneSet": ["l,", "d", "r", "m"]
+    },
+    "context": {
+      "subject": ["occupations", "railroad"],
+      "lyrics": [],
+      "ethnicOrigin": ["united states", "african-american"],
+      "language": ["english"],
+      "translation": []
+    },
+    "packet source": ["tx state"],
+    "source": [
+      "Locke, Eleanor G. Sail Away155 American Folk Songs to sing, read and play.  Boosey & Hawkes. NY, 1981.56",
+      "My Singing Bird, p. 53."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [
+        [
+          "Change soloists as train numbers are accumulated starting with number one in line, number two in line, etc."
+        ]
+      ],
+      "notes": [
+        [
+          "HNU - The refrain should be sung softly (or almost spoken), with just enough tone to carry the consonants.  It is merely an imitation of the sound of a slow-moving train - probably a heavy “freight” - being side-tracked to make room for “No. 3.”"
+        ],
+        ["SA - Black track laborer’s song"]
+      ]
+    }
+  },
+
+  {
+    "songTitle": "chickalileelo",
+    "grade": [3],
+    "score": ["../../../songImages/chickalileelo.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["sxc"] },
+      "melodic": { "presentation": [], "practice": ["s,"] },
+      "kinder": [],
+      "misc": ["story song"]
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": ["q", "sd", "sxc"]
+    },
+    "melody": {
+      "tonalCenter": "l",
+      "toneSet": ["s,", "l,", "d", "r", "m"]
+    },
+    "context": {
+      "subject": ["love and courtship"],
+      "lyrics": [],
+      "ethnicOrigin": [
+        "appaclachia",
+        "united states",
+        "arkansas",
+        "south",
+        "alabama"
+      ],
+      "language": ["english"],
+      "translation": []
+    },
+    "packet source": ["tx state"],
+    "source": [
+      "Erdei, Peter and Komlos, Katalin. 150 American Folk Songs to Sing, Read and Play Boosey & Hawkes, N.Y. 1974. 29",
+      "Lomax, Alan, ed. American Folk Songs for Children. Atlantic 1350. A6.",
+      "Check Almeda Riddle’s book."
+    ],
+    "misc": {
+      "partWork": ["canon"],
+      "recording": ["a. riddle (FIND THIS ONLINE)"],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "circle round the zero",
+    "grade": [2, 3, 4],
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["Q"] },
+      "melodic": { "presentation": [], "practice": ["d"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": ["test"],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [
+      "Kenney, Maureen. Circle Round the Zero. St. Louis, Mo.: Magna Music-Baton, 1974. 63.",
+      "Chosky, Lois and David Frummit, 120 Singing Games and Dances, Prenteic Hall, Englewood Cliffs, New Jersey. 1996. page 54."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "",
+    "grade": [],
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "csp": "",
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "form": [],
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+  {
+    "songTitle": "",
+    "grade": [],
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "csp": "",
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "form": [],
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+  {
+    "songTitle": "",
+    "grade": [],
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "csp": "",
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "form": [],
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+  {
+    "songTitle": "",
+    "grade": [],
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "csp": "",
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "form": [],
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+  {
+    "songTitle": "",
+    "grade": [],
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "csp": "",
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "form": [],
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+  {
+    "songTitle": "",
+    "grade": [],
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "csp": "",
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "form": [],
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+  {
+    "songTitle": "",
+    "grade": [],
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "csp": "",
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "form": [],
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+  {
+    "songTitle": "",
+    "grade": [],
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "csp": "",
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "form": [],
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+  {
+    "songTitle": "",
+    "grade": [],
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "csp": "",
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "form": [],
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+  {
+    "songTitle": "",
+    "grade": [],
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "csp": "",
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "form": [],
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+  {
+    "songTitle": "",
+    "grade": [],
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "csp": "",
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "form": [],
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+  {
+    "songTitle": "",
+    "grade": [],
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "csp": "",
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "form": [],
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+  {
+    "songTitle": "",
+    "grade": [],
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "csp": "",
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "form": [],
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+  {
+    "songTitle": "",
+    "grade": [],
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "csp": "",
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "form": [],
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+  {
+    "songTitle": "",
+    "grade": [],
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "csp": "",
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "form": [],
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+  {
+    "songTitle": "",
+    "grade": [],
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "csp": "",
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "form": [],
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+  {
+    "songTitle": "",
+    "grade": [],
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "csp": "",
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "form": [],
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+  {
+    "songTitle": "",
+    "grade": [],
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "csp": "",
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "form": [],
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+  {
+    "songTitle": "",
+    "grade": [],
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "csp": "",
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "form": [],
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+  {
+    "songTitle": "",
+    "grade": [],
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "csp": "",
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "form": [],
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+  {
+    "songTitle": "",
+    "grade": [],
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "csp": "",
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "form": [],
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+  {
+    "songTitle": "",
+    "grade": [],
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "csp": "",
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "form": [],
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+  {
+    "songTitle": "",
+    "grade": [],
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "csp": "",
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "form": [],
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  }
+]
