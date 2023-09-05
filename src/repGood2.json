@@ -4089,32 +4089,82 @@
   },
 
   {
-    "songTitle": "",
-    "score": [],
+    "songTitle": "dance josey (chicken on the fencepost)",
+    "score": ["../../../songImages/chickenOnTheFencepost.png"],
     "function": {
-      "rhythmic": { "presentation": [], "practice": [] },
-      "melodic": { "presentation": [], "practice": [] },
+      "rhythmic": { "presentation": [], "practice": ["xxcc"] },
+      "melodic": { "presentation": ["s,"], "practice": ["s,"] },
       "kinder": [],
       "misc": {}
     },
     "rhythm": {
-      "meter": "",
-      "mm": "",
-      "rhythmSet": []
+      "meter": "duple",
+      "mm": "100",
+      "rhythmSet": ["q", "sd", "xxcc"]
     },
     "melody": {
-      "tonalCenter": "",
-      "toneSet": []
+      "tonalCenter": "d",
+      "toneSet": ["s,", "l,", "d", "r", "m", "s", "l"]
     },
     "context": {
-      "subject": [],
+      "subject": ["animals", "chickens"],
       "lyrics": [],
-      "ethnicOrigin": [],
-      "language": [],
+      "ethnicOrigin": ["united states", "anglo-american", "southwest", "texas"],
+      "language": ["english"],
+      "translation": []
+    },
+    "packet source": ["tx state"],
+    "source": [
+      "Owens, William A. Swing and Turn: Texas Playparty Games. Dallas, Tex: Tardy Publications, 1936. 81-81.",
+      "Erdei, Peter (ed.) and Komlos, Katalin.  150 American Folk Songs. Boosey & Hawkes, 1974  (7th printing 1985). p. 51."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": ["play party", "circle"],
+      "gameDirections": [
+        [
+          "Two players are designated as “the farmers.”  The other players make two circles, a small one inside a larger one.  If available, a rubber chicken is placed in the center of the smaller circle.  The “farmers” close their eyes and the teacher appoints to persons next to each other in the small circle and two persons next to each other in the larger circle to be the “gates.”  Then the “farmers” open their eyes.  The singing begins as the two circles walk in opposite directions.  On the last syllable of the song, “o,” the “gates” raise their arms, but all continue walking.  The “farmers” must find their way to the middle of the smaller circle and retrieve the rubber chicken."
+        ],
+        [
+          "Any number of players join hands to form a ring with one in the center. They march around to the right, singing the first stanza. The one in the center chooses one to dance with him, and they swing right and left in the circle. All the players then swing each other right or left as they meet. The tempo is usually increased as the song progresses. The person first in the ring yields his place to the one chosen and the game continues.The use of such words as 'Ford' and 'chewing-gum' illustrates the fact that play-party songs are still in the process of development."
+        ]
+      ],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "daughter will you marry",
+    "score": ["../../../songImages/daughterWillYouMarry.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["xcd"] },
+      "melodic": { "presentation": [], "practice": ["f"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "duple",
+      "mm": "112",
+      "rhythmSet": ["q", "sd", "w", "sxc", "xcd"]
+    },
+    "melody": {
+      "tonalCenter": "d",
+      "toneSet": ["s,", "l,", "t,", "d", "r", "m", "f"]
+    },
+    "context": {
+      "subject": ["love and courtship"],
+      "lyrics": [],
+      "ethnicOrigin": ["united states", "mid-atlantic", "pennsylvania dutch"],
+      "language": ["english"],
       "translation": []
     },
     "packet source": [],
-    "source": [],
+    "source": [
+      "Boyer, Walter E., Albert F. Buffington and Don Yoder. Songs Along the Mahantongo. Lancaster, PA: The Pennsylvania Folklore Center, 1951. 98-102.",
+      "Johnston,Richard. Folk Songs North America Sings. E.C. Kerby Ltd. Toronto, 1984. Page 284.",
+      "Sail Away, 85."
+    ],
     "misc": {
       "partWork": [],
       "recording": [],
@@ -4125,32 +4175,354 @@
   },
 
   {
-    "songTitle": "",
-    "score": [],
+    "songTitle": "deaf woman's courtship",
+    "score": ["../../../songImages/deafWomansCourtship.png"],
     "function": {
-      "rhythmic": { "presentation": [], "practice": [] },
-      "melodic": { "presentation": [], "practice": [] },
+      "rhythmic": { "presentation": [], "practice": ["qsd"] },
+      "melodic": { "presentation": [], "practice": ["f", "d"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "duple",
+      "mm": "120",
+      "rhythmSet": ["qsd"]
+    },
+    "melody": {
+      "tonalCenter": "d",
+      "toneSet": ["d", "r", "m", "f", "s"]
+    },
+    "context": {
+      "subject": ["love and courtship"],
+      "lyrics": [],
+      "ethnicOrigin": ["anglo-american", "appalachia", "north carolina"],
+      "language": ["english"],
+      "translation": []
+    },
+    "packet source": ["tx state"],
+    "source": [
+      "Randolph, Vance, Ozark Folk Songs and Play Party Songs Vol. III University of Missouri Press 1980, 39.",
+      "Sharp, Cecil J. English Folk Songs from the Southern Appalachians. Maud Karpeles, ed. London: Oxford University Press, 1932. Reprint, 1973. II: 252.",
+      "Also in Sharp, Cecil J. Eighty English Folk Songs.",
+      "Johnston,Richard. Folk Songs North America Sings. E.C. Kerby Ltd. Toronto, 1984. Page 45.",
+      "My Singing Bird, p. 83"
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": ["play party"],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "debka hora",
+    "score": ["../../../songImages/debkaHora.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["sxc"] },
+      "melodic": { "presentation": [], "practice": ["t,"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "duple",
+      "mm": "80",
+      "rhythmSet": ["q", "sd", "sxc"]
+    },
+    "melody": {
+      "tonalCenter": "l",
+      "toneSet": ["l,", "t,", "d", "r", "m"]
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": ["israel"],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [
+      "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. 310.",
+      "Rita Klinger, Cleveland, OH."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": ["folk dance"],
+      "gameDirections": [
+        [
+          "All face the center in a single circle and join hands.  Hands held shoulder high. Take one step (or hop) per beat of the music.",
+          "1. Step sideways with left foot.",
+          "2. Step on right foot, placing it behind left foot.",
+          "3. Step on left foot.",
+          "4. Hop on left foot, swinging right leg in front.",
+          "5. Step on right foot.",
+          "6. Hop on right foot, swinging left leg in front."
+        ],
+        ["See glossary of American Methodology"]
+      ],
+      "notes": [["Repeat first two phrases and repeat second phrase."]]
+    }
+  },
+
+  {
+    "songTitle": "deedle deedle dumpling",
+    "score": ["../../../songImages/deedleDeedleDumpling.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["sxc", "xxcc"] },
+      "melodic": { "presentation": [], "practice": ["r"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "duple",
+      "mm": "90",
+      "rhythmSet": ["q", "sd", "xxcc", "sxc"]
+    },
+    "melody": {
+      "tonalCenter": "d",
+      "toneSet": ["d", "r", "m", "f", "s"]
+    },
+    "context": {
+      "subject": ["sleep and waking", "shoes"],
+      "lyrics": [],
+      "ethnicOrigin": ["united states"],
+      "language": ["english"],
+      "translation": []
+    },
+    "packet source": [],
+    "source": ["am, kodaly context", "FIX!"],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": ["circle"],
+      "gameDirections": [
+        [
+          "One child takes off a shoe.  They walk around the room stepping the beat, but stamping harder with the foot wearing the shoe.  At the end of the song, give shoe to the person where they stopped.  That child takes off a shoe and repeats the activity."
+        ],
+        [
+          "All C in a circle remove one shoe.  Pick-up pass around the circle.  If someone makes a mistake, they are “out.”"
+        ]
+      ],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "dem bones gonna rise again",
+    "score": ["../../../songImages/demBones.png"],
+    "function": {
+      "rhythmic": {
+        "presentation": [],
+        "practice": ["aqa", "Aa", "DC al fine"]
+      },
+      "melodic": { "presentation": [], "practice": ["t,"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "duple",
+      "mm": "116",
+      "rhythmSet": ["q", "sd", "w", "xxcc", "aqa", "gc"]
+    },
+    "melody": {
+      "tonalCenter": "s",
+      "toneSet": ["s,", "l,", "t,", "r", "m", "s", "l"]
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": ["united states", "african-american", "south"],
+      "language": ["english"],
+      "translation": []
+    },
+    "packet source": ["tx state"],
+    "source": [
+      "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. 311.",
+      "Lomax, Alan. Folk Songs of North America.  Doubleday. New York. 1960. page 476",
+      "My Singing Bird, p. 28."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": ["look up lamar r"],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [["See My Singing Bird for actions."]]
+    }
+  },
+
+  {
+    "songTitle": "dinah",
+    "score": ["../../../songImages/dinah.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["xxcc"] },
+      "melodic": { "presentation": [], "practice": ["r"] },
       "kinder": [],
       "misc": {}
     },
     "rhythm": {
       "meter": "",
-      "mm": "",
-      "rhythmSet": []
+      "mm": "88",
+      "rhythmSet": ["q", "sd", "Q", "xxcc"]
     },
     "melody": {
-      "tonalCenter": "",
-      "toneSet": []
+      "tonalCenter": "d",
+      "toneSet": ["d", "r", "m", "s"]
     },
     "context": {
-      "subject": [],
+      "subject": ["instruments", "banjo"],
       "lyrics": [],
-      "ethnicOrigin": [],
-      "language": [],
+      "ethnicOrigin": ["united states"],
+      "language": ["english"],
       "translation": []
     },
     "packet source": [],
-    "source": [],
+    "source": ["Chosky - 245", "Msb, p. 7."],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": ["circle"],
+      "gameDirections": [
+        ["Circle with singing and open gate?  Check online."],
+        [
+          "(MSB) Circle of players with one player, “Dinah,” blindfolded in the center.  As the ring sings, “Dinah” goes to anyone in the ring.  At the end of the song, “Dinah” tries to guess the identity of the player without removing the blindfold.  If successful, the person identified becomes the new “Dinah” and the old “Dinah” takes her place in the circle."
+        ]
+      ],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "do do pity my case",
+    "score": ["../../../songImages/doDoPityMyCase.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["xcd", "Aa"] },
+      "melodic": { "presentation": [], "practice": ["r"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "duple",
+      "mm": "90",
+      "rhythmSet": ["q", "sd", "xcd", "Aa"]
+    },
+    "melody": {
+      "tonalCenter": "d",
+      "toneSet": ["d", "r", "m", "s", "l"]
+    },
+    "context": {
+      "subject": ["chores", "garden", "occupations", "housekeeping"],
+      "lyrics": [],
+      "ethnicOrigin": [
+        "united states",
+        "african-american",
+        "south",
+        "louisiana"
+      ],
+      "language": ["english"],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [
+      "Erdei, Peter (ed.) and Komlos, Katalin.  150 American Folk Songs. Boosey & Hawkes, 1974 (7th  printing 1985). P. 20.",
+      "Newell, William Wells. Games and Songs of American Children. 1883. Reprint, New York: Dover Publications, 1963. 87.",
+      "Also in Seeger, Ruth Crawford. American Folk Songs for Children, with suggestions for additional verses.",
+      "Johnston,Richard. Folk Songs North America Sings. E.C. Kerby Ltd. Toronto, 1984. Page 86.",
+      "Chosky, Lois and David Frummit, 120 Singing Games and Dances, Prenteic Hall, Englewood Cliffs, New Jersey. 1996. page 45."
+    ],
+    "misc": {
+      "partWork": [
+        "Pair game with Waltz in Ab (Brahms) – Use the A section for chore movement."
+      ],
+      "recording": [],
+      "gameType": ["pantomiming", "dramatic play", "improvisation"],
+      "gameDirections": [
+        [
+          "Students enjoy improvising many jobs they have to do when they get home."
+        ]
+      ],
+      "notes": [
+        [
+          "HNU: This pretty dance, with its idiomatic English, which comes to us from the extreme South, is obviously not modern.  The chorus refers, not to the place of the labor, but to the locality of the dance: it may have been originally 'in my lady's garden.'"
+        ]
+      ]
+    }
+  },
+
+  {
+    "songTitle": "doggie doggie",
+    "score": ["../../../songImages/doggieDoggie.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["qsd"] },
+      "melodic": { "presentation": [], "practice": ["l"] },
+      "kinder": ["beat v. rhythm", "solo singing"],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "duple",
+      "mm": "80",
+      "rhythmSet": ["q", "sd"]
+    },
+    "melody": {
+      "tonalCenter": "m",
+      "toneSet": ["m", "s", "l"]
+    },
+    "context": {
+      "subject": ["animals", "dogs"],
+      "lyrics": [],
+      "ethnicOrigin": ["united states"],
+      "language": ["english"],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [
+      "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. 312.",
+      "Forrai, Katalin, Music in Preschool. Translated and adapted by Jean Sinor. Budapest: Franklin Printing House, 1988. 143.",
+      "Choksy, Lois.  The Kodály Context. Englewood Cliffs, N.J.: Prentice-Hall, Inc., 1981. p. 213."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": ["circle", "choosing"],
+      "gameDirections": [
+        [
+          "Students sit in a single circle on the floor.  One student chosen (by the teacher) to be “it,” lies down in the middle of the circle and hides his eyes.  The teacher places a “bone” (beanbag) by the student.  While the class sings the first line of the song, the teacher appoints someone sitting in the circle to take the bone.  They then respond with a bark or echo the last phrase with the words I stole the bone.  The student in the center has three chances to guess who has the bone.  If they guess correctly, they get another turn.  If they guess incorrectly, they trade places with the person who has the bone and the game continues."
+        ]
+      ],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "don gato",
+    "score": ["../../../songImages/donGato.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": ["t,"] },
+      "kinder": [],
+      "misc": ["song tale"]
+    },
+    "rhythm": {
+      "meter": "compound",
+      "mm": "48",
+      "rhythmSet": ["ssd", "qa", "a"]
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": ["s,", "t,", "d", "r", "m", "f", "s", "l"]
+    },
+    "context": {
+      "subject": ["animals", "cats"],
+      "lyrics": [],
+      "ethnicOrigin": ["mexico"],
+      "language": ["spanish"],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [
+      "Montoya-Stier, El Patio de mi Casa: 42 Traditional Rhymes, Chants, and Folksongs from Mexico. GIA Publications, 2008. p. 56-57."
+    ],
     "misc": {
       "partWork": [],
       "recording": [],
@@ -4161,541 +4533,321 @@
   },
 
   {
-    "songTitle": "",
-    "score": [],
+    "songTitle": "dona dona dona",
+    "score": ["../../../songImages/donaDonaDona.png"],
     "function": {
-      "rhythmic": { "presentation": [], "practice": [] },
-      "melodic": { "presentation": [], "practice": [] },
+      "rhythmic": { "presentation": [], "practice": ["ra"] },
+      "melodic": { "presentation": [], "practice": ["natural minor"] },
       "kinder": [],
       "misc": {}
     },
     "rhythm": {
-      "meter": "",
-      "mm": "",
-      "rhythmSet": []
+      "meter": "quadruple",
+      "mm": "116",
+      "rhythmSet": ["q", "sd", "w", "ra", "e", "t"]
     },
     "melody": {
-      "tonalCenter": "",
-      "toneSet": []
+      "tonalCenter": "L",
+      "toneSet": ["l,", "t", "d", "r", "m", "f", "s"]
     },
     "context": {
-      "subject": [],
+      "subject": ["animals", "cows", "birds", "holocaust"],
       "lyrics": [],
-      "ethnicOrigin": [],
-      "language": [],
+      "ethnicOrigin": ["yiddish"],
+      "language": ["english"],
       "translation": []
     },
-    "packet source": [],
-    "source": [],
+    "packet source": ["tx state"],
+    "source": [
+      "composed Aaron Zeitlin and Shalom Secunda. 1941  English translation: Arthur Kevess and Teddi  Schwartz 1956"
+    ],
     "misc": {
       "partWork": [],
       "recording": [],
       "gameType": [],
       "gameDirections": [],
+      "notes": [
+        [
+          "explanation - http://www.jewishmag.com/144mag/dona_dona/dona_dona.htm"
+        ],
+        ["Phil - find a piano accompaniment for this."]
+      ]
+    }
+  },
+
+  {
+    "songTitle": "donkey riding",
+    "score": ["../../../songImages/donkeyRiding.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["gc"] },
+      "melodic": { "presentation": [], "practice": ["f"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "duple",
+      "mm": "106",
+      "rhythmSet": ["q", "sd", "sxc", "gc"]
+    },
+    "melody": {
+      "tonalCenter": "d",
+      "toneSet": ["d", "r", "m", "f", "s", "l"]
+    },
+    "context": {
+      "subject": ["saliing", "boats", "transportation"],
+      "lyrics": [],
+      "ethnicOrigin": ["canada", "lancashire"],
+      "language": ["english"],
+      "translation": []
+    },
+    "packet source": ["tx state"],
+    "source": [
+      "Johnston, Richard. Folk Songs North America Sings. Caveat Publishers, Toronto, 1984. 166",
+      "Dallin, Leon and Lynn. Heritage Songster. Wm. C. Brown Co. Dubuque, Iowa, 1966. 158."
+    ],
+    "misc": {
+      "partWork": ["Phil's 4-part arrangement"],
+      "recording": ["https://www.youtube.com/watch?v=yUbmT1TBYB4"],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [
+        [
+          "A “donkey” is not an animal.  It is an engine with less than 1 horse power (therefore slow like a donkey.)  It is used around docks to help haul cargo and load boats with lumber."
+        ],
+        [
+          "HS - Lumbering was and is an important industry in Canada.  This work song was chanted in rhythm by stevedores as they loaded lumber on ships which sailed from Quebec to England.  The “donkey” is a small engine used in the loading."
+        ],
+        ["* Add Phil’s arrangement from level 1."],
+        ["Ostinato: d t, l, s,"]
+      ]
+    }
+  },
+
+  {
+    "songTitle": "down came a lady",
+    "score": ["../../../songImages/downCameALady.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["Q"] },
+      "melodic": { "presentation": [], "practice": ["s,"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "quadruple",
+      "mm": "120",
+      "rhythmSet": ["q", "sd", "Q"]
+    },
+    "melody": {
+      "tonalCenter": "d",
+      "toneSet": ["s,", "l,", "d", "m"]
+    },
+    "context": {
+      "subject": ["colors"],
+      "lyrics": [],
+      "ethnicOrigin": ["united states", "anglo-american", "south", "virginia"],
+      "language": ["english"],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [
+      "Erdei, Peter (ed.) and Komlos, Katalin.  150 American Folk Songs. Boosey & Hawkes, 1974 (7th printing 1985). P. 17.",
+      "Davis, Arthur Kyle, Jr. Traditional Ballads of Virginia. Cambridge: Harvard University Press, 1929. 577",
+      "This is the first verse of 'Lord Daniel's Wife,' a variant of 'Little Musgrave and Lady Barnard'. Child ballad #81. Also in Seeger, Ruth Crawford, American Folk Songs for Children and Erdei, Peter and Katalin Komlos, 150 American Folk Songs for Children.",
+      "Johnston,Richard. Folk Songs North America Sings. E.C. Kerby Ltd. Toronto, 1984. Page 34.",
+      "American Folk Songs for Children, p. 51."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": ["circle", "moving"],
+      "gameDirections": [
+        [
+          "All except one child join hands in a circle. The remaining child stands in the center. All sing, circling around the center child, who at  blue points to one of the other children substituting the color of the chosen  child’s clothing for the word  blue. That child goes outside the circle and, when singing begins again, walks in the opposite direction to the original circle. This continues until all children are in the outside circle. On the last verse, the children in the circle point to the center child and shout the color of his clothing."
+        ],
+        [
+          "Formation: Standing circle of children with hands joined; one player in the center.  Action: All sing, moving clockwise in time to the music.  On the word “blue,” the child then steps out of the circle and walks counter-clockwise around the outside of the circle as the game continues.  The second time around, the center player points to another child and names another color.  The game continues until all players are in the outer circle.  On the final round, they all point toward the center player, naming his color."
+        ]
+      ],
+      "notes": [["use for line up"]]
+    }
+  },
+
+  {
+    "songTitle": "down in the valley two by two",
+    "score": ["../../../songImages/downInTheValley.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["tie"] },
+      "melodic": { "presentation": [], "practice": ["l,"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "mixed",
+      "mm": "126",
+      "rhythmSet": ["q", "sd", "w", "aqqa"]
+    },
+    "melody": {
+      "tonalCenter": "d",
+      "toneSet": ["s,", "l,", "d", "r", "m", "s"]
+    },
+    "context": {
+      "subject": ["motions"],
+      "lyrics": [],
+      "ethnicOrigin": ["united states", "south", "african-american"],
+      "language": ["english"],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [
+      "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. 314.",
+      "Erdei, Ida, Faith Knowles and Denise Bacon. My Singing Bird.  pages 26-27.",
+      "Let’s Slice the Ice, p. 41."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": ["circle"],
+      "gameDirections": [
+        [
+          "Formation: A single circle of players, two persons kneeling (“down in the valley”) in the center.",
+          "Action: Verse 1: players walk around in a circle.  The two in the center rise on the words 'rise, Sally, rise.'",
+          "Verse 2: players stand still, clapping on the off beat and watching as the two in the center improvise a motion.",
+          "Verse 3: same as verse 2 except the two in the center must change to a different motion.",
+          "Verse 4: samd as verse 2 except the two in the center choose new players to come into the center and they swap places.  The new people kneel and the game is ready to begin again.",
+          "For the last time through, at verses 2 and 3, sing “everybody” in place of “Let me see you” and then end the game without singing verse 4."
+        ]
+      ],
       "notes": [[]]
     }
   },
 
   {
-    "songTitle": "",
-    "score": [],
+    "songTitle": "draw me a bucket of water",
+    "score": ["../../../songImages/DrawMeABucketOfWater.png"],
     "function": {
-      "rhythmic": { "presentation": [], "practice": [] },
-      "melodic": { "presentation": [], "practice": [] },
+      "rhythmic": { "presentation": [], "practice": ["aqa"] },
+      "melodic": { "presentation": [], "practice": ["d'", "s,"] },
       "kinder": [],
       "misc": {}
     },
     "rhythm": {
-      "meter": "",
-      "mm": "",
-      "rhythmSet": []
+      "meter": "quadruple",
+      "mm": "127",
+      "rhythmSet": ["q", "sd", "Q", "w", "aqa", "ra"]
     },
     "melody": {
       "tonalCenter": "",
-      "toneSet": []
+      "toneSet": ["s,", "l,", "d", "r", "ri", "s", "l", "d'"]
     },
     "context": {
       "subject": [],
       "lyrics": [],
-      "ethnicOrigin": [],
-      "language": [],
+      "ethnicOrigin": ["united states", "south", "georgia sea islands"],
+      "language": ["english"],
       "translation": []
     },
     "packet source": [],
-    "source": [],
+    "source": [
+      "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. 315.",
+      "Chase, Richard. Singing Games and Play Party Games. Dover Publications.  New York, NY. 1949. page 24.",
+      "Chosky, Lois and David Frummit, 120 Singing Games and Dances, Prenteic Hall, Englewood Cliffs, New Jersey. 1996. page 183."
+    ],
     "misc": {
       "partWork": [],
       "recording": [],
       "gameType": [],
-      "gameDirections": [],
+      "gameDirections": [
+        [
+          "Four players stand in a circle and number off.  Number 1 and 3 hold hands; number 2 and 4 hold their joined hands OVER number 1 and 3.  Singing the song the students move to a gentle twisting motion left and right.  At the words “you go under sister Sally” players 2 and 4 put their arms over the head of player number 1.  Continue each repetition for players 2, 3, and 4.  On the refrain, players put one foot faster and usually fall down before the end of the song."
+        ]
+      ],
       "notes": [[]]
     }
   },
 
   {
-    "songTitle": "",
-    "score": [],
+    "songTitle": "drunken sailor",
+    "score": ["../../../songImages/drunkenSailor.png"],
     "function": {
-      "rhythmic": { "presentation": [], "practice": [] },
-      "melodic": { "presentation": [], "practice": [] },
+      "rhythmic": { "presentation": [], "practice": ["sxc"] },
+      "melodic": { "presentation": ["dorian"], "practice": ["dorian", "f"] },
       "kinder": [],
       "misc": {}
     },
     "rhythm": {
       "meter": "",
-      "mm": "",
+      "mm": "100",
       "rhythmSet": []
     },
     "melody": {
       "tonalCenter": "",
-      "toneSet": []
+      "toneSet": ["r", "m", "f", "s", "l", "t", "d'", "r'"]
     },
     "context": {
-      "subject": [],
+      "subject": ["professions", "sailing"],
       "lyrics": [],
-      "ethnicOrigin": [],
-      "language": [],
+      "ethnicOrigin": ["united states", "new england"],
+      "language": ["english"],
       "translation": []
     },
     "packet source": [],
-    "source": [],
+    "source": [
+      "Doerflinger, William. Songs of the Sailor and Lumberjack. Macmillan Co. New York, NY. 1972 pages 48-49.",
+      "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. 316.",
+      "Dallin, Leon and Lynn. Heritage Songster. Wm. C. Brown Co. Dubuque, Iowa, 1966. ??.",
+      "Johnston,Richard. Folk Songs North America Sings. E.C. Kerby Ltd. Toronto, 1984. Page 228-299."
+    ],
     "misc": {
       "partWork": [],
       "recording": [],
       "gameType": [],
       "gameDirections": [],
-      "notes": [[]]
+      "notes": [["Change “drunken” to 'sleepy'"]]
     }
   },
 
   {
-    "songTitle": "",
-    "score": [],
+    "songTitle": "ducks and geese",
+    "score": ["../../../songImages/ducksAndGeese.png"],
     "function": {
-      "rhythmic": { "presentation": [], "practice": [] },
-      "melodic": { "presentation": [], "practice": [] },
-      "kinder": [],
+      "rhythmic": { "presentation": [], "practice": ["qsd"] },
+      "melodic": { "presentation": [], "practice": ["sol mi"] },
+      "kinder": ["solo singing"],
       "misc": {}
     },
     "rhythm": {
-      "meter": "",
-      "mm": "",
-      "rhythmSet": []
+      "meter": "duple",
+      "mm": "80",
+      "rhythmSet": ["q", "sd"]
     },
     "melody": {
-      "tonalCenter": "",
-      "toneSet": []
+      "tonalCenter": "d",
+      "toneSet": ["d", "r", "m", "f", "s"]
     },
     "context": {
-      "subject": [],
+      "subject": ["animals", "birds", "ducks", "geese", "wolves"],
       "lyrics": [],
-      "ethnicOrigin": [],
-      "language": [],
+      "ethnicOrigin": ["hungary"],
+      "language": ["english"],
       "translation": []
     },
-    "packet source": [],
-    "source": [],
+    "packet source": ["tx state"],
+    "source": [
+      "Trinka, Jill. Folk Songs, Singing Games and Play Parties, Vol I.",
+      "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. 317.",
+      "Adaptation of Hungarian song 'Gyertek haza ludaim.' Szabó, Helga. Elsó Enekeskonyvem. Budapest: Nemzeti Tankonyvkaidó, 1979. 90.",
+      "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. 317."
+    ],
     "misc": {
       "partWork": [],
       "recording": [],
-      "gameType": [],
-      "gameDirections": [],
-      "notes": [[]]
-    }
-  },
-
-  {
-    "songTitle": "",
-    "score": [],
-    "function": {
-      "rhythmic": { "presentation": [], "practice": [] },
-      "melodic": { "presentation": [], "practice": [] },
-      "kinder": [],
-      "misc": {}
-    },
-    "rhythm": {
-      "meter": "",
-      "mm": "",
-      "rhythmSet": []
-    },
-    "melody": {
-      "tonalCenter": "",
-      "toneSet": []
-    },
-    "context": {
-      "subject": [],
-      "lyrics": [],
-      "ethnicOrigin": [],
-      "language": [],
-      "translation": []
-    },
-    "packet source": [],
-    "source": [],
-    "misc": {
-      "partWork": [],
-      "recording": [],
-      "gameType": [],
-      "gameDirections": [],
-      "notes": [[]]
-    }
-  },
-
-  {
-    "songTitle": "",
-    "score": [],
-    "function": {
-      "rhythmic": { "presentation": [], "practice": [] },
-      "melodic": { "presentation": [], "practice": [] },
-      "kinder": [],
-      "misc": {}
-    },
-    "rhythm": {
-      "meter": "",
-      "mm": "",
-      "rhythmSet": []
-    },
-    "melody": {
-      "tonalCenter": "",
-      "toneSet": []
-    },
-    "context": {
-      "subject": [],
-      "lyrics": [],
-      "ethnicOrigin": [],
-      "language": [],
-      "translation": []
-    },
-    "packet source": [],
-    "source": [],
-    "misc": {
-      "partWork": [],
-      "recording": [],
-      "gameType": [],
-      "gameDirections": [],
-      "notes": [[]]
-    }
-  },
-
-  {
-    "songTitle": "",
-    "score": [],
-    "function": {
-      "rhythmic": { "presentation": [], "practice": [] },
-      "melodic": { "presentation": [], "practice": [] },
-      "kinder": [],
-      "misc": {}
-    },
-    "rhythm": {
-      "meter": "",
-      "mm": "",
-      "rhythmSet": []
-    },
-    "melody": {
-      "tonalCenter": "",
-      "toneSet": []
-    },
-    "context": {
-      "subject": [],
-      "lyrics": [],
-      "ethnicOrigin": [],
-      "language": [],
-      "translation": []
-    },
-    "packet source": [],
-    "source": [],
-    "misc": {
-      "partWork": [],
-      "recording": [],
-      "gameType": [],
-      "gameDirections": [],
-      "notes": [[]]
-    }
-  },
-
-  {
-    "songTitle": "",
-    "score": [],
-    "function": {
-      "rhythmic": { "presentation": [], "practice": [] },
-      "melodic": { "presentation": [], "practice": [] },
-      "kinder": [],
-      "misc": {}
-    },
-    "rhythm": {
-      "meter": "",
-      "mm": "",
-      "rhythmSet": []
-    },
-    "melody": {
-      "tonalCenter": "",
-      "toneSet": []
-    },
-    "context": {
-      "subject": [],
-      "lyrics": [],
-      "ethnicOrigin": [],
-      "language": [],
-      "translation": []
-    },
-    "packet source": [],
-    "source": [],
-    "misc": {
-      "partWork": [],
-      "recording": [],
-      "gameType": [],
-      "gameDirections": [],
-      "notes": [[]]
-    }
-  },
-
-  {
-    "songTitle": "",
-    "score": [],
-    "function": {
-      "rhythmic": { "presentation": [], "practice": [] },
-      "melodic": { "presentation": [], "practice": [] },
-      "kinder": [],
-      "misc": {}
-    },
-    "rhythm": {
-      "meter": "",
-      "mm": "",
-      "rhythmSet": []
-    },
-    "melody": {
-      "tonalCenter": "",
-      "toneSet": []
-    },
-    "context": {
-      "subject": [],
-      "lyrics": [],
-      "ethnicOrigin": [],
-      "language": [],
-      "translation": []
-    },
-    "packet source": [],
-    "source": [],
-    "misc": {
-      "partWork": [],
-      "recording": [],
-      "gameType": [],
-      "gameDirections": [],
-      "notes": [[]]
-    }
-  },
-
-  {
-    "songTitle": "",
-    "score": [],
-    "function": {
-      "rhythmic": { "presentation": [], "practice": [] },
-      "melodic": { "presentation": [], "practice": [] },
-      "kinder": [],
-      "misc": {}
-    },
-    "rhythm": {
-      "meter": "",
-      "mm": "",
-      "rhythmSet": []
-    },
-    "melody": {
-      "tonalCenter": "",
-      "toneSet": []
-    },
-    "context": {
-      "subject": [],
-      "lyrics": [],
-      "ethnicOrigin": [],
-      "language": [],
-      "translation": []
-    },
-    "packet source": [],
-    "source": [],
-    "misc": {
-      "partWork": [],
-      "recording": [],
-      "gameType": [],
-      "gameDirections": [],
-      "notes": [[]]
-    }
-  },
-
-  {
-    "songTitle": "",
-    "score": [],
-    "function": {
-      "rhythmic": { "presentation": [], "practice": [] },
-      "melodic": { "presentation": [], "practice": [] },
-      "kinder": [],
-      "misc": {}
-    },
-    "rhythm": {
-      "meter": "",
-      "mm": "",
-      "rhythmSet": []
-    },
-    "melody": {
-      "tonalCenter": "",
-      "toneSet": []
-    },
-    "context": {
-      "subject": [],
-      "lyrics": [],
-      "ethnicOrigin": [],
-      "language": [],
-      "translation": []
-    },
-    "packet source": [],
-    "source": [],
-    "misc": {
-      "partWork": [],
-      "recording": [],
-      "gameType": [],
-      "gameDirections": [],
-      "notes": [[]]
-    }
-  },
-
-  {
-    "songTitle": "",
-    "score": [],
-    "function": {
-      "rhythmic": { "presentation": [], "practice": [] },
-      "melodic": { "presentation": [], "practice": [] },
-      "kinder": [],
-      "misc": {}
-    },
-    "rhythm": {
-      "meter": "",
-      "mm": "",
-      "rhythmSet": []
-    },
-    "melody": {
-      "tonalCenter": "",
-      "toneSet": []
-    },
-    "context": {
-      "subject": [],
-      "lyrics": [],
-      "ethnicOrigin": [],
-      "language": [],
-      "translation": []
-    },
-    "packet source": [],
-    "source": [],
-    "misc": {
-      "partWork": [],
-      "recording": [],
-      "gameType": [],
-      "gameDirections": [],
-      "notes": [[]]
-    }
-  },
-
-  {
-    "songTitle": "",
-    "score": [],
-    "function": {
-      "rhythmic": { "presentation": [], "practice": [] },
-      "melodic": { "presentation": [], "practice": [] },
-      "kinder": [],
-      "misc": {}
-    },
-    "rhythm": {
-      "meter": "",
-      "mm": "",
-      "rhythmSet": []
-    },
-    "melody": {
-      "tonalCenter": "",
-      "toneSet": []
-    },
-    "context": {
-      "subject": [],
-      "lyrics": [],
-      "ethnicOrigin": [],
-      "language": [],
-      "translation": []
-    },
-    "packet source": [],
-    "source": [],
-    "misc": {
-      "partWork": [],
-      "recording": [],
-      "gameType": [],
-      "gameDirections": [],
-      "notes": [[]]
-    }
-  },
-
-  {
-    "songTitle": "",
-    "score": [],
-    "function": {
-      "rhythmic": { "presentation": [], "practice": [] },
-      "melodic": { "presentation": [], "practice": [] },
-      "kinder": [],
-      "misc": {}
-    },
-    "rhythm": {
-      "meter": "",
-      "mm": "",
-      "rhythmSet": []
-    },
-    "melody": {
-      "tonalCenter": "",
-      "toneSet": []
-    },
-    "context": {
-      "subject": [],
-      "lyrics": [],
-      "ethnicOrigin": [],
-      "language": [],
-      "translation": []
-    },
-    "packet source": [],
-    "source": [],
-    "misc": {
-      "partWork": [],
-      "recording": [],
-      "gameType": [],
-      "gameDirections": [],
-      "notes": [[]]
-    }
-  },
-
-  {
-    "songTitle": "",
-    "score": [],
-    "function": {
-      "rhythmic": { "presentation": [], "practice": [] },
-      "melodic": { "presentation": [], "practice": [] },
-      "kinder": [],
-      "misc": {}
-    },
-    "rhythm": {
-      "meter": "",
-      "mm": "",
-      "rhythmSet": []
-    },
-    "melody": {
-      "tonalCenter": "",
-      "toneSet": []
-    },
-    "context": {
-      "subject": [],
-      "lyrics": [],
-      "ethnicOrigin": [],
-      "language": [],
-      "translation": []
-    },
-    "packet source": [],
-    "source": [],
-    "misc": {
-      "partWork": [],
-      "recording": [],
-      "gameType": [],
-      "gameDirections": [],
+      "gameType": ["chase"],
+      "gameDirections": [
+        [
+          "A group of children is designated as ducks and geese., and they line up at one side of the room which is the “meadow”. One child is the wolf and “hides” in the middle of the room. The teacher (or a child who sings well) is the “Old Lady”. At the end of the singing of the complete song, the ducks and geese run to “the Old Lady” and try to get into the “chicken coop” before the wolf can catch them. If anyone is caught, they must freeze and we count how many were caught.",
+          "* Students may also pretend to be trees at the end of the song.  The most quiet and most still tree becomes the next wolf."
+        ]
+      ],
       "notes": [[]]
     }
   },
