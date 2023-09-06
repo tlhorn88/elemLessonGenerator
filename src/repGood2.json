@@ -5275,6 +5275,827 @@
   },
 
   {
+    "songTitle": "en un plato de ensalada",
+    "score": ["../../../songImages/enUnPlatoDeEnsalada.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": ["mexico"],
+      "language": ["spanish"],
+      "translation": [
+        "On a plate of salad",
+        "Everyone eats in reverse",
+        "Churumbe, churumbe,",
+        "Jack [as in cards], horse, and king."
+      ]
+    },
+    "packet source": [],
+    "source": [
+      "Montoya-Stier, El Patio de mi Casa: 42 Traditional Rhymes, Chants, and Folksongs from Mexico. GIA Publications, 2008. p. 14."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [
+        [
+          "Either the teacher or a student can point to students while saying the chant.  The pointing is done to the beat of the chant."
+        ]
+      ],
+      "notes": [["Use this chant before singing games that require choosing."]]
+    }
+  },
+
+  {
+    "songTitle": "engine engine number nine",
+    "score": ["../../../songImages/engineEngineNumberNine.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["qsd"] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": ["steady beat", "beat v. rhythm", "loud soft", "fast slow"],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "duple",
+      "mm": "96",
+      "rhythmSet": ["q", "sd"]
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": ["vehicles", "trains"],
+      "lyrics": [],
+      "ethnicOrigin": ["united states"],
+      "language": ["english"],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [
+      "Wyzga, Helen L. Simple Gifts, Resource Book I. Copyright 1976. p.6.",
+      "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. 278.",
+      "Chosky, Lois and David Frummit, 120 Singing Games and Dances, Prenteic Hall, Englewood Cliffs, New Jersey. 1996. page 18."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [
+        [
+          "Choose student who is the “locomotive”, he shuffles forward with the beat as the song is sung. At the end of the song, the student chooses one or more students to join the train. They “hook up” like a train on shoulders and move in a shuffling motion with the beat as they sing the song. Repeat until all students have joined the train.",
+          "120 - Invent different ways of moving to represent a train, such as moving arms rhythmically at side, joining with other children to form a train, shuffling feet, bending low to go through tunnels, or slowing down to go up mountains."
+        ]
+      ],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "eerie canal",
+    "score": ["../../../songImages/erieCanal.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["gc"] },
+      "melodic": { "presentation": [], "practice": ["t,"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "quadruple",
+      "mm": "80",
+      "rhythmSet": ["q", "sd", "w", "gc", "ar"]
+    },
+    "melody": {
+      "tonalCenter": "l",
+      "toneSet": ["l,", "t,", "d", "r", "m", "f", "fi", "s"]
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": ["united states", "minstrel song"],
+      "language": ["english"],
+      "translation": []
+    },
+    "packet source": ["tx state"],
+    "source": [
+      "Dallin, Leon and Lynn. Heritage Songster. Wm. C. Brown Co. Dubuque, Iowa, 1966. 252."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": ["https://youtu.be/9KpheIh32cQ"],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [
+        [
+          "HS - The Erie Canal, authorized in 1817 and completed in 1825, was of immense significance in the development of the United States.  Connecting Lake Erie (Buffalo) and the Hudson River (Albany), the 363-mile waterway linked the east to the west.  It was by far the most spectacular transportation development of hte period.  The cheap, all-water route carried agricultural produce from the west to the east and manufactured goods from the east to the west.  Cities sprang up along the route.  With transportation no longer a problem, pioneers by tens of thousands settled vacant western lands.  The canal teemed with boats and barges.  Songs of the mule skinners who drove the mules along the tow paths as they hauled the flat-bottom carriers echoed across the country day and night.  Low bridges were built across the canal at frequent intervals.  The skinners shouted a warning to the passengers on the boards when approaching a bridge.  The call “low bridge ahead” was a signal for everyone on board to drop flat on the deck until the bridge was cleared.  This song made its debut as a minstrel song, but it made its home in the folk tradition."
+        ]
+      ]
+    }
+  },
+
+  {
+    "songTitle": "este nino lindo",
+    "score": ["../../../songImages/esteNinoLindo.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["gc"] },
+      "melodic": { "presentation": [], "practice": ["f"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "quadruple",
+      "mm": "80",
+      "rhythmSet": ["q", "sd", "gc"]
+    },
+    "melody": {
+      "tonalCenter": "s",
+      "toneSet": ["do", "re", "mi", "fa", "sol"]
+    },
+    "context": {
+      "subject": ["sleep and waking", "lullaby"],
+      "lyrics": [],
+      "ethnicOrigin": ["mexico"],
+      "language": ["spanish"],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [
+      "Montoya-Stier, El Patio de mi Casa: 42 Traditional Rhymes, Chants, and Folksongs from Mexico. GIA Publications, 2008. p. 65."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "este se robo un huevito",
+    "score": ["../../../songImages/esteSeRoboUnHuevito.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": ["mexico"],
+      "language": ["spanish"],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [
+      "Montoya-Stier, El Patio de mi Casa: 42 Traditional Rhymes, Chants, and Folksongs from Mexico. GIA Publications, 2008. p. 4."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [
+        [
+          "The palm faces up.  Start with the pinky, and fold one finger in as each line of the rhyme is said."
+        ]
+      ],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "fed my horse",
+    "score": ["../../../songImages/fedMyHorse.png"],
+    "function": {
+      "rhythmic": { "presentation": ["sxc"], "practice": ["sxc"] },
+      "melodic": { "presentation": [], "practice": ["r"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "quadruple",
+      "mm": "100",
+      "rhythmSet": ["q", "sd", "sxc", "gc", "Aa"]
+    },
+    "melody": {
+      "tonalCenter": "d",
+      "toneSet": ["d", "r", "m", "s", "l"]
+    },
+    "context": {
+      "subject": ["animals", "horses"],
+      "lyrics": [],
+      "ethnicOrigin": [
+        "united states",
+        "south",
+        "appalachia",
+        "north carolina"
+      ],
+      "language": ["english"],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [
+      "Sharp, Cecil. English Folk Songs from the Southern Appalachians. London: Oxford University Press, 1932 (reprinted 1952, 1960), p.311, # 219."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": ["play party"],
+      "gameDirections": [["Double-circle play party"]],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "fire on the mountain",
+    "score": ["../../../songImages/fireOnTheMountain.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": ["english"],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [
+      "American Methodology, p. 321.",
+      "Tune number 04 on JH-050-01 A in the John Harrod Collection in the Berea College Southern Appalachian Archives."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [
+        [
+          "Half of the class is seated in a circle either on the floor or in chairs and spread apart so that there is room to pass in between.  Each student in the other half of the class stands behind a seated person.  There is one student seated in the middle of the circle.  During the singing of the song the student in the middle of the circle plays the beat on a drum as the standing circle walks around outside the circle stepping the beat.  The seated students may pat the beat on their legs.  When the middle student sees a chance to reach a spot behind a “sitter,” he stops playing the drum and runs to that place while everyone else who is standing tries to get behind a “sitter.”  Whoever is left over goes to the middle.  (Like musical chairs but with the “sitters” as place markers instead of chairs.)  The game begins again with the new player in the middle.  After a few repetitions, the “sitters” and “walkers” change positions and the game continues."
+        ]
+      ],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "firefly",
+    "score": ["../../../songImages/firefly.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["qsd", "4$"] },
+      "melodic": { "presentation": [], "practice": ["r"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "quadruple",
+      "mm": "85",
+      "rhythmSet": ["q", "sd", "Q"]
+    },
+    "melody": {
+      "tonalCenter": "d",
+      "toneSet": ["d", "r", "m", "s", "l"]
+    },
+    "context": {
+      "subject": ["animals", "bugs", "fireflies"],
+      "lyrics": [],
+      "ethnicOrigin": ["japan"],
+      "language": ["english", "japanese"],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [
+      "Trinka, Jill.  Folk Songs, Singing Games and Play Parties, Book 2"
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": ["scarf movements"],
+      "gameDirections": [["see original file for scarf movements"]],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "frog in the meadow",
+    "score": ["../../../songImages/frogInTheMeadow.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["qsd"] },
+      "melodic": { "presentation": [], "practice": ["r"] },
+      "kinder": ["beat v. rhythm"],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "duple",
+      "mm": "138",
+      "rhythmSet": ["q", "sd", "Q"]
+    },
+    "melody": {
+      "tonalCenter": "d",
+      "toneSet": ["d", "r", "m"]
+    },
+    "context": {
+      "subject": ["animals", "frogs"],
+      "lyrics": [],
+      "ethnicOrigin": ["united states", "south", "north carolina"],
+      "language": ["english"],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [
+      "Locke, Eleanor G.  Sail Away: 155 American Folk Songs. Boosey & Hawkes, 1988. p.7.",
+      "Schinhan, Jan P. Frank C. Brown Collection of North Carolina Folklore, Vol V. Durham, N.C.: Duke University Press,1962. 534."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": ["action song"],
+      "gameDirections": [
+        [
+          "Players form a circle with one chosen to be the “frog” crouched in the center.  Children perform the following actions: The players sing and circle around the frog pointing menacingly with index fingers. Players in circle close their eyes and sing the song once through “inside their heads.” While circle has their eyes closed, the “frog” runs away and hides. As silent singing ends, all hunt the “frog.”  The finder becomes the next frog."
+        ],
+        [
+          "Leap frog. Requires groups of 5 players (4 frogs & 1 person to “stir” the end frog.)  The 4 “frogs” crouch down as small as possible, one behind the other. On the words “take a little stick” the person chosen to “stir” pretends to stir the “frog” at the back of the line. On the last line (“leap…down”) that “frog” then leaps over the 3 frogs in front of him and the crouches down at the head of the line. The song is sung, and this process is repeated 3 more times so that all “frogs” will have a turn to leap.",
+          ["Blindfold “frog” and spin them.  They try to catch flies."]
+        ]
+      ],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "frosty weather",
+    "score": ["../../../songImages/frostyWeather.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["ra", "4$"] },
+      "melodic": { "presentation": [], "practice": ["r"] },
+      "kinder": ["fast slow"],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "quadruple",
+      "mm": "115",
+      "rhythmSet": ["q", "sd", "ra"]
+    },
+    "melody": {
+      "tonalCenter": "d",
+      "toneSet": ["d", "r", "m", "s", "l"]
+    },
+    "context": {
+      "subject": ["nature", "weather", "winter"],
+      "lyrics": [],
+      "ethnicOrigin": ["ireland", "british isles"],
+      "language": ["english"],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [
+      "So Early in the Morning: Irish Children's Traditional Songs, Rhymes and Games. Tradition Records TLP 1034. A2. Collected by Diane Hamilton."
+    ],
+    "misc": {
+      "partWork": ["canon"],
+      "recording": [],
+      "gameType": ["circle"],
+      "gameDirections": [
+        [
+          "Hold hands in a circle and walk four steps to the left, then four steps to the right while singing.  On the next eight beats everyone walks to the center and squeeze together.  Some people add the text, “Three steps back and one, two, three,” while stepping back to form the circle again."
+        ]
+      ],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "fudge fudge",
+    "score": ["../../../songImages/fudgeFudge.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["xxcc"] },
+      "melodic": { "presentation": [], "practice": ["l"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "duple",
+      "mm": "132",
+      "rhythmSet": ["q", "sd", "Q", "xxcc"]
+    },
+    "melody": {
+      "tonalCenter": "s",
+      "toneSet": ["m", "s", "l"]
+    },
+    "context": {
+      "subject": ["nonsense and play"],
+      "lyrics": [],
+      "ethnicOrigin": ["united states", "african american"],
+      "language": ["english"],
+      "translation": []
+    },
+    "packet source": [],
+    "source": ["Let’s Slice the Ice, p. 48-49."],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": ["jump rope"],
+      "gameDirections": [
+        [
+          "This jump rope chant moves at a steady pace until the end on the word “HOT” at which point, turn the rope very fast. This fast movement is called ‘hot pepper.'"
+        ],
+        [
+          "Let’s Slice the Ice - Children stand in a circle and begin to clap hands in the following pattern: Left palm face up and right palm face down.  Each child strikes the palms of persons on each side.  Their palms are such as to meet in the clap. Repeat once reversing the position of palms; then each child claps his own three times. Repeat this pattern several times and then sing the song against it."
+        ]
+      ],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "golden ring",
+    "score": ["../../../songImages/goldenRing.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["sxc", "DC al fine"] },
+      "melodic": { "presentation": [], "practice": ["t,"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "quadruple",
+      "mm": "96",
+      "rhythmSet": ["q", "sd", "xxcc", "sxc"]
+    },
+    "melody": {
+      "tonalCenter": "s",
+      "toneSet": ["r", "m", "f", "s", "l", "t", "r'", "m'"]
+    },
+    "context": {
+      "subject": ["love and courtship", "rings"],
+      "lyrics": [],
+      "ethnicOrigin": [
+        "united states",
+        "anglo-american",
+        "appalachia",
+        "virginia"
+      ],
+      "language": ["english"],
+      "translation": []
+    },
+    "packet source": ["tx state"],
+    "source": [
+      "David and Choksy, Lois, 120 Singing Games and Dances. Prentice Hall. 103",
+      "Childhood Songs. Greenhays Recordings, GR90723, 1991."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": ["play party"],
+      "gameDirections": [
+        [
+          "Single circle, alternating boys and girls.",
+          "Refrain-Circle left sixteen steps",
+          "VERSE 1. On “Round and around” circle right sixteen steps",
+          "VERSE 2. On Take a little girl, swing the partner eight steps, then swing the corner eight steps.",
+          "VERSE 3. On Promenade home, promenade counterclockwise with partner.",
+          "At the end of the last refrain, ladies move one place to the right so that the corner becomes the new partner, and the dance continues."
+        ],
+        [
+          "Outside partners go around the center couple singing the first verse, using a square-dance 'shuffle' which is a quick rhythmical walk, or a skipping step may be used if this is easier.",
+          "At, 'Take a little girl and give her a whirl,' the center couple does a two-hand swing while the others stand and clap their hands.",
+          "At the chorus, 'Round and round...' they continue their swing while the ring skips around them, going in the opposite direction to the swingers.",
+          "At, 'Do-si-do right...' all partners pass right shoulders, and without turning the body, pass completely  around each other until they are again facing each other.",
+          "At, 'Do-si-do left...' this action is repeated, passing left shoulders.",
+          "At the second chorus, the center couple swing briefly, then join in the ring, keeping each other as partners.",
+          "The verses, 'Hand over hand...' and 'Get a little faster...' are used for a grand right and left around the ring (partners face and give right hands, then five left hands to the one s/he meets, thus progressing around the circle).",
+          "At the end of the 'Get a little faster...' verse, everyone should have a new partner.",
+          "At, 'Round and round...' the third chorus, the new partners all swing.",
+          "On, 'take 'im on home...' all partners promenade to the left around the circle until the end of the verse.",
+          "During the last chorus, all stand and clap."
+        ]
+      ],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "good night sleep tight",
+    "score": ["../../../songImages/goodNightSleepTight.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["qsd"] },
+      "melodic": { "presentation": [], "practice": ["l"] },
+      "kinder": [],
+      "misc": ["lullaby"]
+    },
+    "rhythm": {
+      "meter": "duple",
+      "mm": "80",
+      "rhythmSet": ["q", "sd"]
+    },
+    "melody": {
+      "tonalCenter": "m",
+      "toneSet": ["m", "s", "l"]
+    },
+    "context": {
+      "subject": ["sleep and waking"],
+      "lyrics": [],
+      "ethnicOrigin": ["united states"],
+      "language": ["english"],
+      "translation": []
+    },
+    "packet source": ["tx state"],
+    "source": [
+      "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. 325.",
+      "Choksy, Lois.  The Kodály Context. Englewood Cliffs, N.J.: Prentice-Hall, Inc., 1981. p. 214."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "grandma grunts",
+    "score": ["../../../songImages/grandmaGrunts.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["w"] },
+      "melodic": { "presentation": [], "practice": ["r"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "duple",
+      "mm": "152",
+      "rhythmSet": ["q", "sd", "w"]
+    },
+    "melody": {
+      "tonalCenter": "d",
+      "toneSet": ["d", "r", "m", "s"]
+    },
+    "context": {
+      "subject": ["family", "grandma", "love and courtship"],
+      "lyrics": [],
+      "ethnicOrigin": ["united states", "south", "north carolina"],
+      "language": ["english"],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [
+      "Erdei, Peter (ed.) and Komlos, Katalin.  150 American Folk Songs. Boosey & Hawkes, 1974 (7th printing 1985). p. 7.",
+      "Shinhan, Jan P., ed. The Frank C. Brown Collection of North Carolina Folklore, Vol. V. Durham, N.C.: Duke University Press, 1962. 112-113. Verses, Vol. III, 194-195."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "great big house",
+    "score": ["../../../songImages/greatBigHouseInNewOrleans.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["w"] },
+      "melodic": { "presentation": [], "practice": ["r"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "duple",
+      "mm": "100",
+      "rhythmSet": ["q", "sd", "w"]
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": ["d", "r", "m", "s", "l"]
+    },
+    "context": {
+      "subject": ["food", "pumpkin pie"],
+      "lyrics": [],
+      "ethnicOrigin": ["united states", "anglo-american", "midwest", "ohio"],
+      "language": ["english"],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [
+      "Locke, Eleanor G.  Sail Away 155 American Folk Songs to sing read and play, p. 17.  Boosey & Hawkes.",
+      "Pete Seeger, Mika Seeger and Rev. Larry Eisenberg, American Play Parties. Smithsonian Folkways FC 7604, 1959. B6. Provided courtesy of Folkways Recordings. ©1959. Used by Permission.",
+      "Chosky, Lois and David Frummit, 120 Singing Games and Dances, Prenteic Hall, Englewood Cliffs, New Jersey. 1996. page 186-187."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": ["play party"],
+      "gameDirections": [
+        [
+          "Players stand in a circle and number off by 1’s and 1’s.",
+          "On verse one, they circle left.",
+          "Verse two: First phrase, the 1’s take 4 tiny steps in and hold hands.",
+          "Second phrase: the 2’s walk in putting their hand in between the 1’s and hold hands.",
+          "Third phrase: the 2’s put their arms around the back of the 1’s and keep holding hands.",
+          "Fourth phrase: the 1’s put their arms around the back of the 2’s and keep holding hands.",
+          "Verse three:  All players do a “step together” step going to their left.  On the last phrase they may step back to begin the singing again."
+        ]
+      ],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "hambone",
+    "score": ["../../../songImages/hambone.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["aqa"] },
+      "melodic": { "presentation": [], "practice": ["l,"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "quadruple",
+      "mm": "140",
+      "rhythmSet": ["q", "sd", "Q", "w", "aqa"]
+    },
+    "melody": {
+      "tonalCenter": "d",
+      "toneSet": ["l,", "d", "r", "m"]
+    },
+    "context": {
+      "subject": ["rings"],
+      "lyrics": [],
+      "ethnicOrigin": ["united states", "appalachia"],
+      "language": ["english"],
+      "translation": []
+    },
+    "packet source": ["tx state"],
+    "source": [
+      "Jones, Bessie and Lomax Bess. Step it Down",
+      "Wyzga, Helen. Simple Gifts Book 3",
+      "Slice the Ice, p. 44-45."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": ["YouTube"],
+      "gameType": [],
+      "gameDirections": ["body-percussion improvisation"],
+      "notes": [
+        ["YouTube video of man “hamboning.”"],
+        [
+          "Let’s Slice the Ice - The “Hambone,” a complex hand pattern is usually performed by men.  Improvisational in nature, it incorporates rhythmic response done on the thigh and chest."
+        ]
+      ]
+    }
+  },
+
+  {
+    "songTitle": "hava nashira",
+    "score": ["../../../songImages/havaNashira.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["w"] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "quadruple",
+      "mm": "80",
+      "rhythmSet": ["q", "sd", "w"]
+    },
+    "melody": {
+      "tonalCenter": "d",
+      "toneSet": ["d", "r", "m", "f", "s", "l", "t", "d'", "r'", "m'"]
+    },
+    "context": {
+      "subject": ["praise and worship"],
+      "lyrics": [],
+      "ethnicOrigin": ["israel"],
+      "language": ["hebrew"],
+      "translation": []
+    },
+    "packet source": [],
+    "source": ["CMP - great choral treasure hunt (find a better source)",
+      "How Can I Keep From Singing, p. 70.",
+      "150 rounds for singing and teaching (bolkovac/johnson)"],
+    "misc": {
+      "partWork": ["canon"],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "head and shoulders",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["gc"] },
+      "melodic": { "presentation": [], "practice": ["s,"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": ["Chosky, Lois and David Frummit, 120 Singing Games and Dances, Prenteic Hall, Englewood Cliffs, New Jersey. 1996. page 175.",
+      "Locke, Eleanor G., ed. American Folk Songs for Teaching (unpublished edition). Oakland, Calif.: Holy Names College, 1978.",
+      "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. 330."],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
     "songTitle": "",
     "score": [],
     "function": {
