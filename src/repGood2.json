@@ -6009,9 +6009,11 @@
       "translation": []
     },
     "packet source": [],
-    "source": ["CMP - great choral treasure hunt (find a better source)",
+    "source": [
+      "CMP - great choral treasure hunt (find a better source)",
       "How Can I Keep From Singing, p. 70.",
-      "150 rounds for singing and teaching (bolkovac/johnson)"],
+      "150 rounds for singing and teaching (bolkovac/johnson)"
+    ],
     "misc": {
       "partWork": ["canon"],
       "recording": [],
@@ -6023,7 +6025,7 @@
 
   {
     "songTitle": "head and shoulders",
-    "score": [],
+    "score": ["../../../songImages/headAndShoulders.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["gc"] },
       "melodic": { "presentation": [], "practice": ["s,"] },
@@ -6031,28 +6033,119 @@
       "misc": {}
     },
     "rhythm": {
-      "meter": "",
-      "mm": "",
+      "meter": "mixed",
+      "mm": "150",
       "rhythmSet": []
     },
     "melody": {
-      "tonalCenter": "",
-      "toneSet": []
+      "tonalCenter": "d",
+      "toneSet": ["s,", "l,", "d", "r", "m"]
     },
     "context": {
       "subject": [],
       "lyrics": [],
-      "ethnicOrigin": [],
-      "language": [],
+      "ethnicOrigin": ["south", "united states", "african-american", "georgia"],
+      "language": ["english"],
       "translation": []
     },
-    "packet source": [],
-    "source": ["Chosky, Lois and David Frummit, 120 Singing Games and Dances, Prenteic Hall, Englewood Cliffs, New Jersey. 1996. page 175.",
+    "packet source": ["tx state"],
+    "source": [
+      "Chosky, Lois and David Frummit, 120 Singing Games and Dances, Prenteic Hall, Englewood Cliffs, New Jersey. 1996. page 175.",
       "Locke, Eleanor G., ed. American Folk Songs for Teaching (unpublished edition). Oakland, Calif.: Holy Names College, 1978.",
-      "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. 330."],
+      "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. 330."
+    ],
     "misc": {
       "partWork": [],
       "recording": [],
+      "gameType": ["hand clapping", "action song", "double line", "partner"],
+      "gameDirections": [["check original file for game instructions"]],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "here comes a bluebird",
+    "score": ["../../../songImages/hereComesABluebird.png"],
+    "function": {
+      "rhythmic": { "presentation": ["w"], "practice": ["w"] },
+      "melodic": { "presentation": [], "practice": ["re"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "quadruple",
+      "mm": "126",
+      "rhythmSet": ["q", "sd", "Q", "w"]
+    },
+    "melody": {
+      "tonalCenter": "d",
+      "toneSet": ["d", "r", "m", "s", "l"]
+    },
+    "context": {
+      "subject": ["animals", "birds"],
+      "lyrics": [],
+      "ethnicOrigin": ["united states", "midwest", "illinois"],
+      "language": ["english"],
+      "translation": []
+    },
+    "packet source": ["tx state"],
+    "source": [
+      "Erdei, Peter (ed.) and Komlos, Katalin. 150 Americaqn Folk Songs. Boosey & Hawkes, 1974  (7th printing 1985). p. 18.",
+      "Brown, Florence W. and Neva L. Boyd. Old English and American Games for School and Playground. Chicago: Saul Brothers, 1915. 47.",
+      "Chosky, Lois and David Frummit, 120 Singing Games and Dances, Prenteic Hall, Englewood Cliffs, New Jersey. 1996. page 66.",
+      "Choksy, Lois.  The Kodály Context. Englewood Cliffs, N.J.: Prentice-Hall, Inc., 1981. p. 214-215."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": ["circle"],
+      "gameDirections": [
+        [
+          "The children stand, with hands joined in a ring. One child walks in and out of the arches. On  take a little partner this child takes a partner and with 2 hands joined they face each other and gallop out through the opening where the child was taken from the ring, and back again – or dance the same around inside the ring. The first child joins the ring, the partner becomes the new “bluebird”."
+        ]
+      ],
+      "notes": [
+        [
+          "HNU: Newell [Games and Songs of American Children, 1883] says the color of the bird is determined by the color of the child's dress and the song is changed to 'Here comes a red bird,' etc., but it is popularly sung 'blue bird,' without regard to the child's dress. This game probably originated in America"
+        ]
+      ]
+    }
+  },
+
+  {
+    "songTitle": "hey ho nobody home",
+    "score": ["../../../songImages/heyHoNobodyHome.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["ra"] },
+      "melodic": { "presentation": [], "practice": ["f"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "quadruple",
+      "mm": "116",
+      "rhythmSet": ["q", "sd", "w", "ra"]
+    },
+    "melody": {
+      "tonalCenter": "l",
+      "toneSet": ["l,", "d", "r", "m", "f", "s", "l"]
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": ["england"],
+      "language": ["english"],
+      "translation": []
+    },
+    "packet source": ["tx state"],
+    "source": [
+      "Dallin, Leon and Lynn. Heritage Songster. Wm C. Brown Co. Dubuque, Iowa, 1966.186."
+    ],
+    "misc": {
+      "partWork": ["canon", "Pair with Ah, Poor Bird."],
+      "recording": [
+        "https://www.youtube.com/watch?time_continue=123&v=6BNQSqq0ICI"
+      ],
       "gameType": [],
       "gameDirections": [],
       "notes": [[]]
@@ -6060,326 +6153,303 @@
   },
 
   {
-    "songTitle": "",
-    "score": [],
+    "songTitle": "hi! ho! The rattlin' bog",
+    "score": ["../../../songImages/hiHoTheRattlinBog.png"],
     "function": {
-      "rhythmic": { "presentation": [], "practice": [] },
-      "melodic": { "presentation": [], "practice": [] },
+      "rhythmic": { "presentation": [], "practice": ["gc"] },
+      "melodic": { "presentation": [], "practice": ["s,"] },
+      "kinder": [],
+      "misc": ["cumulative singing"]
+    },
+    "rhythm": {
+      "meter": "duple",
+      "mm": "100",
+      "rhythmSet": ["q", "sd", "sxc", "gc"]
+    },
+    "melody": {
+      "tonalCenter": "d",
+      "toneSet": ["s,", "l,", "d", "r", "m", "s"]
+    },
+    "context": {
+      "subject": ["nature", "trees", "birds"],
+      "lyrics": [],
+      "ethnicOrigin": ["ireland"],
+      "language": ["english"],
+      "translation": []
+    },
+    "packet source": ["tx state"],
+    "source": [
+      "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. 331.",
+      "Langstaff, John. Hi! Ho! The Rattlin’ Bog and Other Folk Songs for Group Singing. Harcourt Crace and World. 1969. pages 11-13."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": ["https://www.youtube.com/watch?v=1oFQ76ctfS0"],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [["Per Phil, have small arm motions for each noun."]]
+    }
+  },
+
+  {
+    "songTitle": "hill and gully rider",
+    "score": ["../../../songImages/hillAndGullyRider.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["aqa"] },
+      "melodic": { "presentation": [], "practice": ["s,"] },
       "kinder": [],
       "misc": {}
     },
     "rhythm": {
-      "meter": "",
-      "mm": "",
-      "rhythmSet": []
+      "meter": "duple",
+      "mm": "120",
+      "rhythmSet": ["q", "sd", "Q", "aqa"]
     },
     "melody": {
-      "tonalCenter": "",
-      "toneSet": []
+      "tonalCenter": "d",
+      "toneSet": ["s,", "l,", "d", "r", "m", "s", "l"]
     },
     "context": {
       "subject": [],
       "lyrics": [],
-      "ethnicOrigin": [],
-      "language": [],
+      "ethnicOrigin": ["african-american", "caribbean", "jamaica"],
+      "language": ["english"],
       "translation": []
     },
     "packet source": [],
-    "source": [],
+    "source": [
+      "Locke, Eleanor G. Sail Away 155 American Folk Songs to Sing Read and Play Boosey & Hawkes, NY, 1981. 30",
+      "Murray, Tom. Folk Songs of Jamaica. London: Oxford Univeristy Press, 1952. 9."
+    ],
     "misc": {
       "partWork": [],
-      "recording": [],
-      "gameType": [],
-      "gameDirections": [],
+      "recording": ["https://www.youtube.com/watch?v=r4ZPScpox9o"],
+      "gameType": ["line"],
+      "gameDirections": [
+        [
+          "Players form a curved line holding hands.  As they keep time to the song, one and then another player leaps over and passes under the joined hands without breaking the line.  (Martha Beckwith, Folk Games of Jamaica)"
+        ],
+        [
+          "Add Gaby’s folk dance with Phil’s suggestion of a zombie motion on the turn."
+        ]
+      ],
       "notes": [[]]
     }
   },
 
   {
-    "songTitle": "",
-    "score": [],
+    "songTitle": "hills of arirang",
+    "score": ["../../../songImages/hillsOfArirang.png"],
     "function": {
-      "rhythmic": { "presentation": [], "practice": [] },
-      "melodic": { "presentation": [], "practice": [] },
+      "rhythmic": { "presentation": [], "practice": ["ra", "DC al fine"] },
+      "melodic": { "presentation": [], "practice": ["s,"] },
       "kinder": [],
       "misc": {}
     },
     "rhythm": {
-      "meter": "",
-      "mm": "",
-      "rhythmSet": []
+      "meter": "triple",
+      "mm": "100",
+      "rhythmSet": ["q", "sd", "w", "t", "ra"]
     },
     "melody": {
-      "tonalCenter": "",
-      "toneSet": []
+      "tonalCenter": "d",
+      "toneSet": ["s,", "l,", "d", "r", "m", "s"]
     },
     "context": {
-      "subject": [],
+      "subject": ["nature", "hills", "nostalgia"],
       "lyrics": [],
-      "ethnicOrigin": [],
+      "ethnicOrigin": ["korea"],
       "language": [],
       "translation": []
     },
-    "packet source": [],
-    "source": [],
+    "packet source": ["tx state"],
+    "source": [
+      "Youngberg, Harold C. Making Music Your Own – 6. Silver-Burdett Company.  Morristown, N.J, 1965. 121",
+      "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. 333.",
+      "Just Five"
+    ],
     "misc": {
       "partWork": [],
       "recording": [],
       "gameType": [],
       "gameDirections": [],
+      "notes": [
+        [
+          "“Crossing the hills of Arirang” has come to mean carrying life’s burdens to a far-off place where trouble does not exist. Quote from Making Music Your Own, teacher’s edition."
+        ]
+      ]
+    }
+  },
+
+  {
+    "songTitle": "hogs in the cornfield",
+    "score": ["../../../songImages/hogsInTheCornfield.png"],
+    "function": {
+      "rhythmic": { "presentation": ["xcd"], "practice": ["xcd"] },
+      "melodic": { "presentation": ["d'"], "practice": ["d'"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "duple",
+      "mm": "60",
+      "rhythmSet": ["sd", "sxc", "xcd"]
+    },
+    "melody": {
+      "tonalCenter": "d",
+      "toneSet": ["d", "r", "m", "s", "l", "d'"]
+    },
+    "context": {
+      "subject": ["animals", "hogs", "cows"],
+      "lyrics": [],
+      "ethnicOrigin": ["united states", "south"],
+      "language": ["english"],
+      "translation": []
+    },
+    "packet source": ["tx state"],
+    "source": [
+      "Botkin, Benjamin Albert. The American Play-Party Song. Lincoln, Nebraska, 1937. 209",
+      "Heath, Carol. The Song Garden, Book 3. Kodaly Musical Training Institute.  West Hartford, CT. 1985. page 28.",
+      "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. 333."
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": ["chase", "pulling"],
+      "gameDirections": [
+        [
+          "Each student chooses a partner.  The pair decides who is number 1 and number 2.  One or more pairs come to a line marked on the floor.  They grasp each others’ right hands and put their toes against the line while the class sings the song once.  When the song is over, each tries to pull his/her partner across the line.  Whoever wins takes the loser over to their team.  When everyone has had a turn, each team is counted, including the losers who have come from the other team.  The team with the most people wins."
+        ]
+      ],
       "notes": [[]]
     }
   },
 
   {
-    "songTitle": "",
-    "score": [],
+    "songTitle": "hold my mule (dance josey)",
+    "score": ["../../../songImages/holdMyMule.png"],
     "function": {
-      "rhythmic": { "presentation": [], "practice": [] },
-      "melodic": { "presentation": [], "practice": [] },
+      "rhythmic": { "presentation": [], "practice": ["w"] },
+      "melodic": { "presentation": [], "practice": ["s,"] },
       "kinder": [],
       "misc": {}
     },
     "rhythm": {
-      "meter": "",
-      "mm": "",
-      "rhythmSet": []
+      "meter": "duple",
+      "mm": "92",
+      "rhythmSet": ["sd", "w"]
     },
     "melody": {
-      "tonalCenter": "",
-      "toneSet": []
+      "tonalCenter": "d",
+      "toneSet": ["s,", "l,", "d", "r", "m", "s", "l"]
     },
     "context": {
-      "subject": [],
+      "subject": ["love and courtship"],
       "lyrics": [],
-      "ethnicOrigin": [],
-      "language": [],
+      "ethnicOrigin": ["african-american", "south", "united states"],
+      "language": ["english"],
       "translation": []
     },
-    "packet source": [],
-    "source": [],
+    "packet source": ["tx state"],
+    "source": [
+      "Scarborough, Dorothy, with Ola Lee Gulledge. On The Trail of Negro Folk-Song. Cambridge, Mass.:Harvard University Press, 1925. 105",
+      "Erdei, Peter (ed.) and Komlos, Katalin.  150 American Folk Songs. Boosey & Hawkes, 1974  (7th printing 1985). p. 52."
+    ],
     "misc": {
       "partWork": [],
       "recording": [],
-      "gameType": [],
-      "gameDirections": [],
+      "gameType": ["double line"],
+      "gameDirections": [["This is danced like a Virginia Reel."]],
       "notes": [[]]
     }
   },
 
   {
-    "songTitle": "",
-    "score": [],
+    "songTitle": "hop old squirrel",
+    "score": ["../../../songImages/hopOldSquirrel.png"],
     "function": {
-      "rhythmic": { "presentation": [], "practice": [] },
-      "melodic": { "presentation": [], "practice": [] },
-      "kinder": [],
+      "rhythmic": { "presentation": [], "practice": ["xcd"] },
+      "melodic": { "presentation": [], "practice": ["r"] },
+      "kinder": ["fast slow"],
       "misc": {}
     },
     "rhythm": {
-      "meter": "",
-      "mm": "",
-      "rhythmSet": []
+      "meter": "duple",
+      "mm": "108",
+      "rhythmSet": ["q", "sd", "xcd"]
     },
     "melody": {
-      "tonalCenter": "",
-      "toneSet": []
+      "tonalCenter": "d",
+      "toneSet": ["d", "r", "m"]
     },
     "context": {
-      "subject": [],
+      "subject": ["animals", "squirrels"],
       "lyrics": [],
-      "ethnicOrigin": [],
-      "language": [],
+      "ethnicOrigin": [
+        "african-american",
+        "south",
+        "virginia",
+        "united states"
+      ],
+      "language": ["english"],
       "translation": []
     },
-    "packet source": [],
-    "source": [],
+    "packet source": ["tx state"],
+    "source": [
+      "Erdei, Peter (ed.) and Komlos, Katalin.  150 American Folk Songs. Boosey & Hawkes, 1974  (7th printing 1985). p. 6.",
+      "Scarborough, Dorothy with Ola Lee Gulledge. On the Trail of Negro Folk-Songs. Cambridge, Mass: Harvard Univ. Press, 1925. 134. Collected by John Stone.",
+      "Johnston,Richard. Folk Songs North America Sings. E.C. Kerby Ltd. Toronto, 1984. Page 10.",
+      "AFSC, p. 109",
+      "Chosky, Lois and David Frummit, 120 Singing Games and Dances, Prenteic Hall, Englewood Cliffs, New Jersey. 1996. page 22."
+    ],
     "misc": {
       "partWork": [],
       "recording": [],
-      "gameType": [],
-      "gameDirections": [],
+      "gameType": ["action song", "play party"],
+      "gameDirections": [
+        ["improvise other actions (run, jump, etc.) using children’s ideas."]
+      ],
       "notes": [[]]
     }
   },
 
   {
-    "songTitle": "",
-    "score": [],
+    "songTitle": "hot cross buns",
+    "score": ["../../../songImages/hotCrossBuns.png"],
     "function": {
-      "rhythmic": { "presentation": [], "practice": [] },
-      "melodic": { "presentation": [], "practice": [] },
-      "kinder": [],
+      "rhythmic": { "presentation": [], "practice": ["Q"] },
+      "melodic": { "presentation": ["r"], "practice": ["r"] },
+      "kinder": ["beat v. rhythm"],
       "misc": {}
     },
     "rhythm": {
-      "meter": "",
-      "mm": "",
-      "rhythmSet": []
+      "meter": "quadruple",
+      "mm": "112",
+      "rhythmSet": ["q", "sd", "Q"]
     },
     "melody": {
-      "tonalCenter": "",
-      "toneSet": []
+      "tonalCenter": "d",
+      "toneSet": ["d", "r", "m"]
     },
     "context": {
-      "subject": [],
+      "subject": ["food", "hot cross buns", "street cries"],
       "lyrics": [],
-      "ethnicOrigin": [],
+      "ethnicOrigin": ["united states", "new england"],
       "language": [],
       "translation": []
     },
-    "packet source": [],
-    "source": [],
+    "packet source": ["tx state"],
+    "source": ["Erdei, Peter (ed.) and Komlos, Katalin.  150 American Folk Songs. Boosey & Hawkes, 1974 (7th printing 1985). p. 1.",
+      "Dallin, Leon and Lynn. Heritage Songster. Dubuque, Iowa: W.C. Brown Company, 1966. 89.",
+      "Johnston,Richard. Folk Songs North America Sings. E.C. Kerby Ltd. Toronto, 1984. Page 46."],
     "misc": {
       "partWork": [],
       "recording": [],
-      "gameType": [],
+      "gameType": ["hand clapping"],
       "gameDirections": [],
-      "notes": [[]]
-    }
-  },
-
-  {
-    "songTitle": "",
-    "score": [],
-    "function": {
-      "rhythmic": { "presentation": [], "practice": [] },
-      "melodic": { "presentation": [], "practice": [] },
-      "kinder": [],
-      "misc": {}
-    },
-    "rhythm": {
-      "meter": "",
-      "mm": "",
-      "rhythmSet": []
-    },
-    "melody": {
-      "tonalCenter": "",
-      "toneSet": []
-    },
-    "context": {
-      "subject": [],
-      "lyrics": [],
-      "ethnicOrigin": [],
-      "language": [],
-      "translation": []
-    },
-    "packet source": [],
-    "source": [],
-    "misc": {
-      "partWork": [],
-      "recording": [],
-      "gameType": [],
-      "gameDirections": [],
-      "notes": [[]]
-    }
-  },
-
-  {
-    "songTitle": "",
-    "score": [],
-    "function": {
-      "rhythmic": { "presentation": [], "practice": [] },
-      "melodic": { "presentation": [], "practice": [] },
-      "kinder": [],
-      "misc": {}
-    },
-    "rhythm": {
-      "meter": "",
-      "mm": "",
-      "rhythmSet": []
-    },
-    "melody": {
-      "tonalCenter": "",
-      "toneSet": []
-    },
-    "context": {
-      "subject": [],
-      "lyrics": [],
-      "ethnicOrigin": [],
-      "language": [],
-      "translation": []
-    },
-    "packet source": [],
-    "source": [],
-    "misc": {
-      "partWork": [],
-      "recording": [],
-      "gameType": [],
-      "gameDirections": [],
-      "notes": [[]]
-    }
-  },
-
-  {
-    "songTitle": "",
-    "score": [],
-    "function": {
-      "rhythmic": { "presentation": [], "practice": [] },
-      "melodic": { "presentation": [], "practice": [] },
-      "kinder": [],
-      "misc": {}
-    },
-    "rhythm": {
-      "meter": "",
-      "mm": "",
-      "rhythmSet": []
-    },
-    "melody": {
-      "tonalCenter": "",
-      "toneSet": []
-    },
-    "context": {
-      "subject": [],
-      "lyrics": [],
-      "ethnicOrigin": [],
-      "language": [],
-      "translation": []
-    },
-    "packet source": [],
-    "source": [],
-    "misc": {
-      "partWork": [],
-      "recording": [],
-      "gameType": [],
-      "gameDirections": [],
-      "notes": [[]]
-    }
-  },
-
-  {
-    "songTitle": "",
-    "score": [],
-    "function": {
-      "rhythmic": { "presentation": [], "practice": [] },
-      "melodic": { "presentation": [], "practice": [] },
-      "kinder": [],
-      "misc": {}
-    },
-    "rhythm": {
-      "meter": "",
-      "mm": "",
-      "rhythmSet": []
-    },
-    "melody": {
-      "tonalCenter": "",
-      "toneSet": []
-    },
-    "context": {
-      "subject": [],
-      "lyrics": [],
-      "ethnicOrigin": [],
-      "language": [],
-      "translation": []
-    },
-    "packet source": [],
-    "source": [],
-    "misc": {
-      "partWork": [],
-      "recording": [],
-      "gameType": [],
-      "gameDirections": [],
-      "notes": [[]]
+      "notes": [[
+        "HS - In olden times, English streets resounded to the cries of hawkers advertising their wares.  The words of “Hot Cross Buns” are sung to an old English folk melody.  Usually played as a clapping game."
+      ]]
     }
   },
 
