@@ -1,6 +1,7 @@
 import React from 'react';
 import './Home.css';
-import repDir from '../../repGood.json';
+// import repDir from '../../repGood.json';
+import repDir from '../../repGood2.json';
 import { useState } from 'react';
 import { NavLink } from 'react-router-dom';
 import headphones from '../../images/headphones.png';
@@ -13,46 +14,15 @@ function Home() {
   const searchCriteria = [
     'language',
     'scale',
-    'focusSong',
     'subject',
     'tonalCenter',
     'ethnicOrigin',
     'range',
   ];
 
-
-  const toneSetOptions = [
-    'sol,',
-    'la,',
-    'ti,',
-    'do',
-    're',
-    'mi',
-    'fa',
-    'sol',
-    'la',
-    'ti',
-    "do'",
-  ];
-
-  const rhythmSetOptions = [
-    'q',
-    'sd',
-    'Q',
-    'w',
-    'xxcc',
-    'sxc',
-    'xcd',
-    'aqa',
-    'ra',
-    'gc',
-    'ar',
-  ];
-
   // STATE VARIABLES
 
   const [filters, setFilters] = useState({});
-  const [gradeFilter, setGradeFilter] = useState([]);
   const [toneSetFilter, setToneSetFilter] = useState([]);
   const [rhythmSetFilter, setRhythmicSetFilter] = useState([]);
 
@@ -62,17 +32,15 @@ function Home() {
       Object.keys(filters).every((criteria) =>
         filters[criteria] ? song[criteria] === filters[criteria] : true
       ) &&
-      (gradeFilter.length === 0 ||
-        (song.grade &&
-          song.grade.some((grade) => gradeFilter.includes(grade)))) &&
       (toneSetFilter.length === 0 ||
         (song.toneSet &&
           song.toneSet.length === toneSetFilter.length &&
-          toneSetFilter.every((tone) => song.toneSet.includes(tone)))) &&
-      (rhythmSetFilter.length === 0 ||
-        (song.rhythmicElements &&
-          song.rhythmicElements.length === rhythmSetFilter.length &&
-          rhythmSetFilter.every((figure) => song.rhythmicElements.includes(figure))))
+          toneSetFilter.every((tone) => song.toneSet.includes(tone))))
+    // &&
+    // (rhythmSetFilter.length === 0 ||
+    //   (song.rhythmSet &&
+    //     song.rhythmSet.length === rhythmSetFilter.length &&
+    //     rhythmSetFilter.every((figure) => song.rhythmSet.includes(figure))))
   );
 
   // EVENT HANDLERS
@@ -83,54 +51,17 @@ function Home() {
     }));
   };
 
-  const handleGradeChange = (value) => {
-    if (value === 'all') {
-      setGradeFilter([]);
-    } else {
-      if (gradeFilter.includes(value)) {
-        setGradeFilter((prevFilter) =>
-          prevFilter.filter((grade) => grade !== value)
-        );
-      } else {
-        setGradeFilter((prevFilter) => [...prevFilter, value]);
-      }
-    }
-  };
-
-  const handleToneSetChange = (tone) => {
-    if (toneSetFilter.includes(tone)) {
-      setToneSetFilter((prevFilter) => prevFilter.filter((t) => t !== tone));
-    } else {
-      setToneSetFilter((prevFilter) => [...prevFilter, tone]);
-    }
-  };
-
-  const handleRhythmSetChange = (figure) => {
-    if (rhythmSetFilter.includes(figure)) {
-      setRhythmicSetFilter((prevFilter) => prevFilter.filter((f) => f !== figure));
-    } else {
-      setRhythmicSetFilter((prevFilter) => [...prevFilter, figure]);
-    }
-  }
-
-  // const handleFilterToggle = (criteria, element) => {
-  //   if (filters[criteria] && filters[criteria].includes(element)) {
-  //     setFilters((prevFilters) => ({
-  //       ...prevFilters,
-  //       [criteria]: prevFilters[criteria].filter((el) => el !== element),
-  //     }));
+  // const handleRhythmSetChange = (figure) => {
+  //   if (rhythmSetFilter.includes(figure)) {
+  //     setRhythmicSetFilter((prevFilter) => prevFilter.filter((f) => f !== figure));
   //   } else {
-  //     setFilters((prevFilters) => ({
-  //       ...prevFilters,
-  //       [criteria]: [...(prevFilters[criteria] || []), element],
-  //     }));
+  //     setRhythmicSetFilter((prevFilter) => [...prevFilter, figure]);
   //   }
-  // };
+  // }
 
   const handleResetClick = () => {
     setFilters({});
-    setGradeFilter([]);
-    setToneSetFilter([]);
+    // setToneSetFilter([]);
   };
 
   const handleAddToHoldingClick = (songTitle) => {
@@ -150,55 +81,6 @@ function Home() {
         <div className="div2">
           <h3>refine search</h3>
           <button onClick={handleResetClick}>reset</button>
-
-          <p>grade</p>
-          <label>
-            <input
-              type="checkbox"
-              value="all"
-              checked={!gradeFilter.length}
-              onChange={() => setGradeFilter([])}
-            />
-            All
-          </label>
-
-          {Array.from({ length: 6 }, (_, index) => index).map((grade) => (
-            <label key={grade}>
-              <input
-                type="checkbox"
-                value={grade}
-                checked={gradeFilter.includes(grade)}
-                onChange={() => handleGradeChange(grade)}
-              />
-              {grade}
-            </label>
-          ))}
-
-          <p>tone set</p>
-          {toneSetOptions.map((tone) => (
-            <label key={tone}>
-              <input
-                type="checkbox"
-                value={tone}
-                checked={toneSetFilter.includes(tone)}
-                onChange={() => handleToneSetChange(tone)}
-              />
-              {tone}
-            </label>
-          ))}
-
-          <p>rhythm set</p>
-          {rhythmSetOptions.map((figure) => (
-            <label key={figure}>
-              <input
-                type="checkbox"
-                value={figure}
-                checked={rhythmSetFilter.includes(figure)}
-                onChange={() => handleRhythmSetChange(figure)}
-                />
-                {figure}
-            </label>
-          ))}
 
           {/* Maps through other fields in json (range, language, etc.) */}
           {searchCriteria.map((criteria) => (
@@ -228,9 +110,7 @@ function Home() {
               <thead>
                 <tr>
                   <th>Title</th>
-                  <th>Recording</th>
-                  <th>Game</th>
-                  <th>Add to holding</th>
+                  <th>Add to Known Songs</th>
                 </tr>
               </thead>
               <tbody>
@@ -246,12 +126,6 @@ function Home() {
                         {song.songTitle}
                       </NavLink>
                     </td>
-                    <td>
-                      {song.recording ? (
-                        <img className="headphonesGame" src={headphones} />
-                      ) : null}
-                    </td>
-                    <td>{song.game ? 'x' : null}</td>
                     <td>
                       <button
                         onClick={() => handleAddToHoldingClick(song.songTitle)}

@@ -13,7 +13,7 @@ function HoldingDrawer() {
 
   return (
     <div className={`holdingDrawer ${selectedSongs.length > 0 ? 'open' : ''}`}>
-      <h2>Selected Elements</h2>
+      <h2>Known Songs</h2>
       <ul>
         {selectedSongs.map((songTitle, index) => (
           <div key={index}>
@@ -22,7 +22,7 @@ function HoldingDrawer() {
           </div>
         ))}
       </ul>
-      <button>View Song Packet</button>
+      {/* <button>View Song Packet</button> */}
     </div>
   );
 }

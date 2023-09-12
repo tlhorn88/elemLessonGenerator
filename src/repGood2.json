@@ -1,7 +1,6 @@
 [
   {
     "songTitle": "a el burro se va",
-    "grade": [0],
     "score": ["../../../songImages/aElBurroSeVa.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
@@ -50,7 +49,6 @@
 
   {
     "songTitle": "a la claire fontaine",
-    "grade": [5],
     "score": ["../../../songImages/aLaClaireFontaine.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["sxc"] },
@@ -93,7 +91,6 @@
 
   {
     "songTitle": "a la ese",
-    "grade": [],
     "score": ["../../../songImages/aLaEse.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["qsd"] },
@@ -135,7 +132,6 @@
 
   {
     "songTitle": "a la puerta del cielo (at the gate of heaven)",
-    "grade": [],
     "score": ["../../../songImages/aLaPuertaDelCielo.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["w"] },
@@ -187,7 +183,6 @@
 
   {
     "songTitle": "a la ronda",
-    "grade": [],
     "score": ["../../../songImages/aLaRonda.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["qsd"] },
@@ -229,7 +224,6 @@
 
   {
     "songTitle": "a la rueda de san miguel",
-    "grade": [0],
     "score": ["../../../songImages/aLaRuedaDeSanMiguel.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["sxc", "Aa"] },
@@ -281,7 +275,6 @@
 
   {
     "songTitle": "a madru senores",
-    "grade": [2],
     "score": ["../../../songImages/aMadruSenores.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["qsd", "Aa"] },
@@ -347,7 +340,6 @@
 
   {
     "songTitle": "a mi burro",
-    "grade": [],
     "score": ["../../../songImages/aMiBurro.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
@@ -388,7 +380,6 @@
 
   {
     "songTitle": "agua de limones",
-    "grade": [],
     "score": ["../../../songImages/aguaDeLimones.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["Q"] },
@@ -429,7 +420,6 @@
 
   {
     "songTitle": "aguacero e' mayo",
-    "grade": [],
     "score": ["../../../songImages/aguaceroEMayo.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
@@ -473,7 +463,6 @@
 
   {
     "songTitle": "al pasar la barca",
-    "grade": [],
     "score": ["../../../songImages/alPasarLaBarca.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
@@ -516,7 +505,6 @@
 
   {
     "songTitle": "al paso al trote",
-    "grade": [0],
     "score": ["../../../songImages/alPasoAlTrote.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
@@ -557,7 +545,6 @@
 
   {
     "songTitle": "al pin al pon",
-    "grade": [],
     "score": ["../../../songImages/alPinAlPon.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
@@ -598,7 +585,6 @@
 
   {
     "songTitle": "ama uacashpa tiajungui",
-    "grade": [],
     "score": ["../../../songImages/amaUacashpaTiajungui"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["minor pentatonic"] },
@@ -641,7 +627,6 @@
 
   {
     "songTitle": "anton pirulero",
-    "grade": [],
     "score": ["../../../songImages/antonPirulero"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
@@ -684,7 +669,6 @@
 
   {
     "songTitle": "arruruu",
-    "grade": [],
     "score": ["../../../songImages/arrurru"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["w"] },
@@ -727,7 +711,6 @@
 
   {
     "songTitle": "ay dios que mujer",
-    "grade": [],
     "score": ["../../../songImages/ayDiosQueMujer"],
     "function": {
       "rhythmic": { "presentation": ["6*"], "practice": ["6*"] },
@@ -768,7 +751,6 @@
 
   {
     "songTitle": "a tisket a tasket",
-    "grade": [0, 1, 2],
     "score": ["../../../songImages/aTisketATasket.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["Aa"] },
@@ -817,49 +799,7 @@
   },
 
   {
-    "songTitle": "above the plain",
-    "grade": [],
-    "score": [],
-    "function": {
-      "rhythmic": { "presentation": [], "practice": [] },
-      "melodic": { "presentation": [], "practice": [] },
-      "kinder": [],
-      "misc": {}
-    },
-    "rhythm": {
-      "meter": "",
-      "mm": "",
-      "rhythmSet": []
-    },
-    "melody": {
-      "csp": "",
-      "tonalCenter": "",
-      "toneSet": [],
-      "range": null,
-      "scale": null
-    },
-    "context": {
-      "subject": [],
-      "lyrics": [],
-      "ethnicOrigin": [],
-      "language": [],
-      "translation": []
-    },
-    "form": [],
-    "packet source": ["tx state"],
-    "source": [],
-    "misc": {
-      "partWork": [],
-      "recording": [],
-      "gameType": "",
-      "gameDirections": [],
-      "notes": [[]]
-    }
-  },
-
-  {
     "songTitle": "ah poor bird",
-    "grade": [4],
     "score": ["../../../songImages/ahPoorBird.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["w"] },
@@ -906,7 +846,6 @@
 
   {
     "songTitle": "ah! vous dirai-je, mamam (oh dear mother shall i say?)",
-    "grade": [4],
     "score": ["../../../songImages/ahVous.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["qsd"] },
@@ -954,7 +893,6 @@
 
   {
     "songTitle": "alabama gal",
-    "grade": [4],
     "score": ["../../../songImages/alabamaGal.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["aqa", "Aa"] },
@@ -997,7 +935,6 @@
 
   {
     "songTitle": "alabama mississippi",
-    "grade": [4, 5],
     "score": ["../../../songImages/alabamaMississippi.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["tie", "aqa"] },
@@ -1043,7 +980,6 @@
 
   {
     "songTitle": "alcitron",
-    "grade": [2, 3],
     "score": ["../../../songImages/alCitron.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["ra", "Aa"] },
@@ -1092,7 +1028,6 @@
 
   {
     "songTitle": "alfonso doce",
-    "grade": [3],
     "score": ["../../../songImages/alfonsoDoce.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
@@ -1135,7 +1070,6 @@
 
   {
     "songTitle": "all around the buttercup",
-    "grade": [1],
     "score": ["../../../songImages/allAroundTheButtercup.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["Q"] },
@@ -1182,7 +1116,6 @@
 
   {
     "songTitle": "above the plain",
-    "grade": [3, 4],
     "score": ["../../../songImages/aboveThePlain.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["ra", "Aa"] },
@@ -1223,7 +1156,6 @@
 
   {
     "songTitle": "alleluia major",
-    "grade": [4],
     "score": ["../../../songImages/alleluiaMajor.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["qsd"] },
@@ -1271,7 +1203,6 @@
 
   {
     "songTitle": "alleluia major",
-    "grade": [4],
     "score": ["../../../songImages/alleluiaMajor.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["qsd"] },
@@ -1319,7 +1250,6 @@
 
   {
     "songTitle": "all god's children",
-    "grade": [4],
     "score": ["../../../songImages/allGodsChildren.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["aqa", "tie"] },
@@ -1364,7 +1294,6 @@
 
   {
     "songTitle": "all night all day",
-    "grade": [4, 5],
     "score": ["../../../songImages/allNightAllDay.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["Aa", "DC al fine"] },
@@ -1414,7 +1343,6 @@
 
   {
     "songTitle": "all round the brickyard",
-    "grade": [1, 2, 3, 5],
     "score": ["../../../songImages/allRoundTheBrickyard.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["aqa"] },
@@ -1473,7 +1401,6 @@
 
   {
     "songTitle": "alphabet song",
-    "grade": [5],
     "score": ["../../../songImages/alphabetSong.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["t"] },
@@ -1514,7 +1441,6 @@
 
   {
     "songTitle": "alphabet song (2)",
-    "grade": [],
     "score": ["../../../songImages/alphabetSongMelody.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["t"] },
@@ -1555,7 +1481,6 @@
 
   {
     "songTitle": "amasee",
-    "grade": [2, 5],
     "score": ["../../../songImages/amasee.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
@@ -1621,7 +1546,6 @@
 
   {
     "songTitle": "apple peach pear plum",
-    "grade": [0, 1],
     "score": ["../../../songImages/applePeachPearPlum.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
@@ -1662,7 +1586,6 @@
 
   {
     "songTitle": "apple tree",
-    "grade": [1],
     "score": ["../../../songImages/appleTree.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["qsd"] },
@@ -1707,7 +1630,6 @@
 
   {
     "songTitle": "aquaqua del a omar",
-    "grade": [5],
     "score": ["../../../songImages/aquaquaDelaOmar.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["ra"] },
@@ -1756,7 +1678,6 @@
 
   {
     "songTitle": "are you sleeping? (brother john)",
-    "grade": [2, 4],
     "score": ["../../../songImages/areYouSleeping.png"],
     "function": {
       "rhythmic": { "presentation": ["4$"], "practice": ["w", "4$"] },
@@ -1807,7 +1728,6 @@
 
   {
     "songTitle": "aserrin aserran",
-    "grade": [0],
     "score": ["../../../songImages/aserrinAserran.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["Aa", "qsd"] },
@@ -1862,7 +1782,6 @@
 
   {
     "songTitle": "au clair de la lune",
-    "grade": [5],
     "score": ["../../../songImages/auClairDeLaLune.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["t"] },
@@ -1910,7 +1829,6 @@
 
   {
     "songTitle": "aunt rhody/nancy",
-    "grade": [1, 4, 5],
     "score": ["../../../songImages/auntRhody.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["w", "Aa"] },
@@ -1963,7 +1881,6 @@
 
   {
     "songTitle": "aviso al publico",
-    "grade": [5],
     "score": ["../../../songImages/avisoElPublico.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["xxcc", "Aa"] },
@@ -2002,7 +1919,6 @@
 
   {
     "songTitle": "ay guarenita",
-    "grade": [],
     "score": ["../../../songImages/ayGuarenita.png"],
     "function": {
       "rhythmic": { "presentation": ["w"], "practice": ["w"] },
@@ -2046,7 +1962,6 @@
 
   {
     "songTitle": "bee bee bumble bee",
-    "grade": [0, 1],
     "score": ["../../../songImages/beeBeeBumbleBee.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["qsd"] },
@@ -2099,7 +2014,6 @@
 
   {
     "songTitle": "biddy biddy hold fast",
-    "grade": [],
     "score": ["../../../songImages/biddyBiddyHoldFast.png"],
     "function": {
       "rhythmic": { "presentation": ["xxcc"], "practice": ["xxcc"] },
@@ -2145,7 +2059,6 @@
 
   {
     "songTitle": "big fat biscuit",
-    "grade": [3],
     "score": ["../../../songImages/bigFatBiscuit.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["ra", "Aa"] },
@@ -2190,86 +2103,7 @@
   },
 
   {
-    "songTitle": "",
-    "grade": [],
-    "score": [],
-    "function": {
-      "rhythmic": { "presentation": [], "practice": [] },
-      "melodic": { "presentation": [], "practice": [] },
-      "kinder": [],
-      "misc": {}
-    },
-    "rhythm": {
-      "meter": "",
-      "mm": "",
-      "rhythmSet": []
-    },
-    "melody": {
-      "csp": "",
-      "tonalCenter": "",
-      "toneSet": []
-    },
-    "context": {
-      "subject": [],
-      "lyrics": [],
-      "ethnicOrigin": [],
-      "language": [],
-      "translation": []
-    },
-    "form": [],
-    "packet source": [],
-    "source": [],
-    "misc": {
-      "partWork": [],
-      "recording": [],
-      "gameType": [],
-      "gameDirections": [],
-      "notes": [[]]
-    }
-  },
-
-  {
-    "songTitle": "",
-    "grade": [],
-    "score": [],
-    "function": {
-      "rhythmic": { "presentation": [], "practice": [] },
-      "melodic": { "presentation": [], "practice": [] },
-      "kinder": [],
-      "misc": {}
-    },
-    "rhythm": {
-      "meter": "",
-      "mm": "",
-      "rhythmSet": []
-    },
-    "melody": {
-      "csp": "",
-      "tonalCenter": "",
-      "toneSet": []
-    },
-    "context": {
-      "subject": [],
-      "lyrics": [],
-      "ethnicOrigin": [],
-      "language": [],
-      "translation": []
-    },
-    "form": [],
-    "packet source": [],
-    "source": [],
-    "misc": {
-      "partWork": [],
-      "recording": [],
-      "gameType": [],
-      "gameDirections": [],
-      "notes": [[]]
-    }
-  },
-
-  {
     "songTitle": "bile dem cabbage down",
-    "grade": [5],
     "score": ["../../../songImages/bileDemCabbageDown.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["xsc"] },
@@ -2311,7 +2145,6 @@
 
   {
     "songTitle": "billy boy",
-    "grade": [3, 4],
     "score": ["../../../songImages/billyBoy.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["ar", "tie"] },
@@ -2358,7 +2191,6 @@
 
   {
     "songTitle": "birch tree",
-    "grade": [4],
     "score": ["../../../songImages/birchTree.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["ra"] },
@@ -2404,7 +2236,6 @@
   },
   {
     "songTitle": "bird's courting song, the",
-    "grade": [4],
     "score": ["../../../songImages/birdsCourtingSong.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["ra", "Aa"] },
@@ -2446,7 +2277,6 @@
   },
   {
     "songTitle": "blow ye winds",
-    "grade": [3, 5],
     "score": ["../../../songImages/blowYeWinds.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["ar", "Aa"] },
@@ -2491,7 +2321,6 @@
   },
   {
     "songTitle": "blue",
-    "grade": [2, 3],
     "score": ["../../../songImages/blue.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["w", "4$"] },
@@ -2537,7 +2366,6 @@
   },
   {
     "songTitle": "boatman, the",
-    "grade": [2],
     "score": ["../../../songImages/boatman.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["ra"] },
@@ -2578,7 +2406,6 @@
   },
   {
     "songTitle": "bobby shaftoe",
-    "grade": [0, 1, 2],
     "score": ["../../../songImages/bobbyShaftoe.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["qsd"] },
@@ -2632,7 +2459,6 @@
   },
   {
     "songTitle": "boots of shining leather",
-    "grade": [5],
     "score": [],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["w"] },
@@ -2676,7 +2502,6 @@
   },
   {
     "songTitle": "boston beans",
-    "grade": [5],
     "score": ["../../../songImages/bostonBeans.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["gc"] },
@@ -2717,7 +2542,6 @@
   },
   {
     "songTitle": "bought me a cat",
-    "grade": [0, 3],
     "score": ["../../../songImages/boughtMeACat.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["sxc"] },
@@ -2768,7 +2592,6 @@
 
   {
     "songTitle": "bounce high bounce low",
-    "grade": [0, 1, 2],
     "score": ["../../../songImages/bounceHighBounceLow.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["qsd"] },
@@ -2812,7 +2635,6 @@
 
   {
     "songTitle": "bow belinda",
-    "grade": [5],
     "score": ["../../../songImages/bowBelinda.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["qsd"] },
@@ -2878,7 +2700,6 @@
 
   {
     "songTitle": "bow wow wow",
-    "grade": [1, 2, 3],
     "score": ["../../../songImages/bowWowWow.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["Q"] },
@@ -2926,7 +2747,6 @@
 
   {
     "songTitle": "bump up tomato",
-    "grade": [5],
     "score": ["../../../songImages/bumpUpTomato.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["aqa"] },
@@ -2968,7 +2788,6 @@
 
   {
     "songTitle": "button you must wander",
-    "grade": [1, 2],
     "score": ["../../../songImages/buttonYouMustWander.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["qsd"] },
@@ -3010,7 +2829,6 @@
 
   {
     "songTitle": "bye baby bunting",
-    "grade": [0, 1, 2],
     "score": ["../../../songImages/byeBabyBunting.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["qsd"] },
@@ -3057,7 +2875,6 @@
 
   {
     "songTitle": "bye bye baby",
-    "grade": [0, 2],
     "score": [],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["w"] },
@@ -3103,7 +2920,6 @@
 
   {
     "songTitle": "canoe round",
-    "grade": [3, 4],
     "score": ["../../../songImages/canoeRound.png"],
     "function": {
       "rhythmic": { "presentation": ["aqa"], "practice": ["aqa"] },
@@ -3158,7 +2974,6 @@
 
   {
     "songTitle": "cape cod girls",
-    "grade": [3, 4],
     "score": ["../../../songImages/capeCodGirls.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
@@ -3206,7 +3021,6 @@
 
   {
     "songTitle": "car song, the",
-    "grade": [],
     "score": ["../../../songImages/carSong.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
@@ -3245,7 +3059,6 @@
 
   {
     "songTitle": "cedar swamp",
-    "grade": [3, 4],
     "score": ["../../../songImages/cedarSwamp.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["xcd"] },
@@ -3309,7 +3122,6 @@
 
   {
     "songTitle": "chairs to mend",
-    "grade": [4, 5],
     "score": ["../../../songImages/chairsToMend.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["ra"] },
@@ -3349,7 +3161,6 @@
 
   {
     "songTitle": "charlotte town",
-    "grade": [4, 5],
     "score": ["../../../songImages/charlotteTown.png"],
     "function": {
       "rhythmic": { "presentation": ["gc", "ar"], "practice": ["gc", "ar"] },
@@ -3404,7 +3215,6 @@
   },
   {
     "songTitle": "chicka-hanka",
-    "grade": [5],
     "score": ["../../../songImages/chickaHanka.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["aqa"] },
@@ -3453,7 +3263,6 @@
 
   {
     "songTitle": "chickalileelo",
-    "grade": [3],
     "score": ["../../../songImages/chickalileelo.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["sxc"] },
@@ -3500,7 +3309,6 @@
 
   {
     "songTitle": "circle round the zero",
-    "grade": [2, 3, 4],
     "score": ["../../../songImages/circleRoundTheZero.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["Q"] },
@@ -3555,7 +3363,6 @@
 
   {
     "songTitle": "closet key, the",
-    "grade": [2],
     "score": ["../../../songImages/closetKey.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["qsd"] },
@@ -3616,7 +3423,6 @@
 
   {
     "songTitle": "cobbler cobbler (hunt the slipper)",
-    "grade": [0, 1],
     "score": ["../../../songImages/cobblerCobbler.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["qsd"] },
@@ -3667,7 +3473,6 @@
 
   {
     "songTitle": "cock robin",
-    "grade": [2, 3, 4],
     "score": ["../../../songImages/cockRobin.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["w"] },
@@ -3722,7 +3527,6 @@
 
   {
     "songTitle": "cocky robin",
-    "grade": [2],
     "score": ["../../../songImages/cockyRobin.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["qsd"] },
@@ -3759,7 +3563,6 @@
 
   {
     "songTitle": "coffee canon",
-    "grade": [4, 5],
     "score": ["../../../songImages/coffeeCanon.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["qsd"] },
@@ -3800,7 +3603,6 @@
 
   {
     "songTitle": "come thru 'na hurry (alabama gal)",
-    "grade": [4],
     "score": ["../../../songImages/comeThruNaHurry.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["aqa"] },
@@ -12276,7 +12078,7 @@
       "gameType": ["circle"],
       "gameDirections": [
         [
-          "from Jill Trinka) Seated circle.  Assign snake, frog, and lizard.  Snake and frog sit inside the circle.  Lizard lurks in the weeds outside the circle.  Players act out the text: mixing the hoecake, setting it out for the frog to watch it.  Lizard comes into the circle, takes the hoecake and runs.  After the last phrase of the song, Snake and Frog chase the Lizard."
+          "(from Jill Trinka) Seated circle.  Assign snake, frog, and lizard.  Snake and frog sit inside the circle.  Lizard lurks in the weeds outside the circle.  Players act out the text: mixing the hoecake, setting it out for the frog to watch it.  Lizard comes into the circle, takes the hoecake and runs.  After the last phrase of the song, Snake and Frog chase the Lizard."
         ]
       ],
       "notes": [

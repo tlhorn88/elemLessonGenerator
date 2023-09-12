@@ -1,1 +1,40 @@
+[
+  
+ 
+  {
+    "songTitle": "scarborough fair (la)",
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": {},
+      "misc": {}
+    },
+    "focusSong": null,
+    "grade": [5],
+    "source": [
+      "Locke, Eleanor G. Sail Away 155 American Folk Songs to sing read and play Boosey & Hawkes, NY, 1981. 135.",
+      "Dallin, Leon and Lynn. Heritage Songster. Wm. C. Brown Co. Dubuque, Iowa, 1966. 109."
+    ],
+    "subject": ["love and courtship"],
+    "score": "../../../songImages/scarboroughFair.png",
+    "tonalCenter": "la",
+    "ethnicOrigin": ["england", "united states"],
+    "mm": 72,
+    "csp": "D",
+    "toneSet": [ "s", "l,", "ti,", "d", "r", "m", "fi", "sol", "la"],
+    "scale": "la dorian",
+    "form": ["ABCD"],
+    "rhythmicElements": null,
+    "otherKConcepts": ["internal anacrusis"],
 
+    "game": null,
+    "meter": "compound",
+    "range": "9M",
+    "language": "english",
+    "notes": [
+      [
+        "HS - Both the words and melody of this old English song exist in many versions.  Features they all have in common are a list of impossible tasks for the lovers to perform and the four seasonings--parsley, sage, rosemary, and thyme."
+      ]
+    ]
+  }
+]
