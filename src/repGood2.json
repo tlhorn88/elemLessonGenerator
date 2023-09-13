@@ -2011,18 +2011,58 @@
       "rhythmSet": ["q", "sd", "Aa", "sxc", "Axc", "gc"]
     },
     "melody": {
-      "tonalCenter": "",
+      "tonalCenter": "l",
       "toneSet": ["m,", "l,", "t,", "d", "r", "m", "f"]
     },
     "context": {
       "subject": [],
       "lyrics": [],
-      "ethnicOrigin": [],
-      "language": [],
+      "ethnicOrigin": ["Montebello"],
+      "language": ["spanish"],
       "translation": []
     },
-    "packet source": [],
-    "source": [],
+    "packet source": ["antologia kodaly columbiana"],
+    "source": [
+      "BEUTLER, Gisela, Estudios sobre el Romancero Español en Colombia. Bogotá:  Instituto caro y Cuervo, 1977 p. 576. Texto: HERNÀNDEZ, Carlos Nicolás. Poemas y Canciones de Cuna, Bogotá: Editorial Panamericana 2002"
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "bartolo",
+    "score": ["../../../songImages/bartolo.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["xsc"] },
+      "melodic": { "presentation": [], "practice": ["t,"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "compound",
+      "mm": "110",
+      "rhythmSet": ["aqa", "sd", "xsc"]
+    },
+    "melody": {
+      "tonalCenter": "d",
+      "toneSet": ["s,", "l,", "t,", "d", "r"]
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": ["puerto rico", "columbia"],
+      "language": ["spanish"],
+      "translation": []
+    },
+    "packet source": ["antologia kodaly columbiana"],
+    "source": [
+      "VELEZ ADORNO, Calixta Juegos Infantiles de Puerto Rico Rio Piedras Puerto Rico, Editorial Universidad de Puerto Rico, 1991 p.72"
+    ],
     "misc": {
       "partWork": [],
       "recording": [],
@@ -2080,6 +2120,44 @@
           "One student walks the circle tapping the heads of seated children. The student tapped on the word  out becomes the new “bee” and the game continues."
         ]
       ],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "belinda",
+    "score": ["../../../songImages/belinda.png"],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": ["sxc"] },
+      "melodic": { "presentation": [], "practice": ["f"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "duple",
+      "mm": "120",
+      "rhythmSet": ["q", "sd", "sxc"]
+    },
+    "melody": {
+      "tonalCenter": "d",
+      "toneSet": ["d", "r", "m", "f"]
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": ["spain"],
+      "language": ["spanish"],
+      "translation": []
+    },
+    "packet source": ["antologia kodaly columbiana"],
+    "source": [
+      "ORTIZ MOLINA, María Angustias. Canciones con juegos. Granada: Grupo Editorial Universitario, 1999. P. 39"
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
       "notes": [[]]
     }
   },
