@@ -13,7 +13,7 @@ function HoldingDrawer() {
 
   return (
     <div className={`holdingDrawer ${selectedSongs.length > 0 ? 'open' : ''}`}>
-      <h2>Known Songs</h2>
+      <h2>Favorites</h2>
       <ul>
         {selectedSongs.map((songTitle, index) => (
           <div key={index}>

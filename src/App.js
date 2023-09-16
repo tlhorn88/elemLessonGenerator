@@ -4,6 +4,8 @@ import Home from './Components/Home/Home';
 import Layout from './Components/Layout/Layout';
 import SongDisplay from './Components/SongDisplay/SongDisplay';
 import './fonts/MUSED.ttf';
+import TemplateWorkspace from './Components/TemplateWorkspace/TemplateWorkspace';
+import LessonPlanGenerator from './Components/LessonPlanGenerator/LessonPlanGenerator';
 
 function App() {
   return (
@@ -12,6 +14,8 @@ function App() {
         <Route path='/' element={<Layout />}>
           <Route index element={<Home />} />
           <Route path='/songDisplay' element={<SongDisplay />} />
+          <Route path='/templateWorkspace' element={<TemplateWorkspace />} />
+          <Route path='/lessonPlanGenerator' element={<LessonPlanGenerator />} />
         </Route>
       </Routes>
     </div>
