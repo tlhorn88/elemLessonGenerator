@@ -6,7 +6,7 @@ import { NavLink } from 'react-router-dom';
 import { useDispatch } from 'react-redux';
 import { addToHolding } from '../../redux/actions';
 
-function Home() {
+function RepSearch() {
   const dispatch = useDispatch();
 
   const searchCriteria = [
@@ -133,4 +133,4 @@ function Home() {
   );
 }
 
-export default Home;
+export default RepSearch;

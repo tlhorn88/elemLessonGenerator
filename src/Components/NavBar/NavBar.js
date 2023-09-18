@@ -5,7 +5,7 @@ function NavBar() {
   const navigate = useNavigate();
 
   const handleRepertoireSearchClick = () => {
-    navigate('/');
+    navigate('RepSearch');
   };
 
   const handleTemplateSpaceClick = () => {
@@ -20,7 +20,7 @@ function NavBar() {
     <div className="navBar">
       <ul className="navBarList">
         <li>
-          <NavLink to="/" onClick={handleRepertoireSearchClick}>
+          <NavLink to="repSearch" onClick={handleRepertoireSearchClick}>
             directory
           </NavLink>
         </li>

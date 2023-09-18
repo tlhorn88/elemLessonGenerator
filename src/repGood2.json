@@ -2938,21 +2938,24 @@
 
   {
     "songTitle": "bunde de san antonio",
-    "score": [],
+    "score": ["../../../songImages/bundeDeSanAntonio.png"],
     "function": {
-      "rhythmic": { "presentation": [], "practice": [] },
-      "melodic": { "presentation": [], "practice": [] },
+      "rhythmic": { "presentation": ["w"], "practice": ["w"] },
+      "melodic": {
+        "presentation": ["major", "natural minor"],
+        "practice": ["major", "natural minor"]
+      },
       "kinder": [],
       "misc": {}
     },
     "rhythm": {
       "meter": "",
       "mm": "",
-      "rhythmSet": []
+      "rhythmSet": ["w", "q", "sd"]
     },
     "melody": {
-      "tonalCenter": "",
-      "toneSet": []
+      "tonalCenter": "d",
+      "toneSet": ["m,", "f,", "s,", "t,", "d", "r", "m"]
     },
     "context": {
       "subject": [],
@@ -3103,6 +3106,47 @@
           "Per HNU, “Mrs. Thomas, the singer, who was 85 years old, lived by herself in a small log cabin in the woods. When we came upon her she was singing to sleep her grand-niece, a little baby of 2 months old. It made a lovely picture, and the crooning song, though very simple, sounded very beautiful.”"
         ]
       ]
+    }
+  },
+
+  {
+    "songTitle": "caé caé",
+    "score": ["../../../songImages/caeCae.png"],
+    "function": {
+      "rhythmic": { "presentation": ["w"], "practice": ["w"] },
+      "melodic": {
+        "presentation": [],
+        "practice": []
+      },
+      "kinder": ["steady beat"],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "duple",
+      "mm": "100",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "d",
+      "toneSet": ["t,", "d", "r", "m", "f"]
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": ["spanish"],
+      "translation": []
+    },
+    "packet source": ["antologia kodaly columbiana"],
+    "source": [
+      "JIMENEZ Olga Lucía. Ronda que ronda la Ronda. Panamericana Editorial. 1999"
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
     }
   },
 
@@ -3751,7 +3795,10 @@
 
   {
     "songTitle": "coffee canon",
-    "score": ["../../../songImages/coffeeCanon.png"],
+    "score": [
+      "../../../songImages/coffeeCanon.png",
+      "../../../songImages/cafe.png"
+    ],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["qsd"] },
       "melodic": { "presentation": [], "practice": ["f"] },
