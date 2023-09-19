@@ -3151,6 +3151,78 @@
   },
 
   {
+    "songTitle": "camina la virgen pura",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "campanero",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
     "songTitle": "canoe round",
     "score": ["../../../songImages/canoeRound.png"],
     "function": {
@@ -3201,6 +3273,114 @@
           "Per Phil - The best ostinato for this song is sdsdqq.  This ostinato will keep this from rushing."
         ]
       ]
+    }
+  },
+
+  {
+    "songTitle": "canon de tallis",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "cantas del valle de tenza",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "cana de los trapiches",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
     }
   },
 
@@ -3280,6 +3460,42 @@
     "form": [],
     "packet source": [],
     "source": ["https://mrmeehlsmusic.wixsite.com/mmmusic/song-search"],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "cartas y cartas",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
     "misc": {
       "partWork": [],
       "recording": [],
@@ -3887,6 +4103,114 @@
   },
 
   {
+    "songTitle": "con mi martillo",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "coplas de cundinamarca y boyaca",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "coplas de torbellino",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
     "songTitle": "cotton eye joe",
     "score": ["../../../songImages/cottonEyeJoe.png"],
     "function": {
@@ -3926,6 +4250,42 @@
     ],
     "misc": {
       "partWork": ["2-part arrangement - 46 Two Part American Folk Songs, p8."],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "cuando manuelito",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
       "recording": [],
       "gameType": [],
       "gameDirections": [],
@@ -4172,6 +4532,42 @@
   },
 
   {
+    "songTitle": "da pacem domine",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
     "songTitle": "daughter will you marry",
     "score": ["../../../songImages/daughterWillYouMarry.png"],
     "function": {
@@ -4386,6 +4782,42 @@
       "gameType": [],
       "gameDirections": [],
       "notes": [["See My Singing Bird for actions."]]
+    }
+  },
+
+  {
+    "songTitle": "diez perritos",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
     }
   },
 
@@ -4661,6 +5093,114 @@
   },
 
   {
+    "songTitle": "dos caballos",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "dos palomitas",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "dos por diez",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
     "songTitle": "down came a lady",
     "score": ["../../../songImages/downCameALady.png"],
     "function": {
@@ -4926,6 +5466,42 @@
   },
 
   {
+    "songTitle": "duermase nina",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
     "songTitle": "duerme mi tesoro",
     "score": ["../../../songImages/duermeMiTesoro.png"],
     "function": {
@@ -4987,6 +5563,114 @@
       "lyrics": [],
       "ethnicOrigin": [],
       "language": ["spanish"],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "el burrito del teniente",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "el cacique juancho pepe",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "el caiman cienaguero",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
       "translation": []
     },
     "packet source": [],
@@ -5126,6 +5810,78 @@
   },
 
   {
+    "songTitle": "el gavan",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "el pajarito",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
     "songTitle": "el pajaro",
     "score": ["../../../songImages/elPajaro.png"],
     "function": {
@@ -5215,6 +5971,42 @@
   },
 
   {
+    "songTitle": "el pescador",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
     "songTitle": "el reloj de la calavera",
     "score": ["../../../songImages/elRelojDeLaCalavera.png"],
     "function": {
@@ -5257,6 +6049,186 @@
       "notes": [
         ["Phrase one in Spanish and the unique text per verse in English."]
       ]
+    }
+  },
+
+  {
+    "songTitle": "el pilon",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "el puente de avinon",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "el puente esta quebrado",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "el reloj de jerusalen",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "el tordo",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
     }
   },
 
@@ -5307,6 +6279,114 @@
           "A child is designated as Emiliano.  The child lies down on the floor.  The other students form a circle that passes over Emiliano.  The students sing the song and hop over Emiliano one at a time.  Meanwhile, another child is designated Mariquita.  At the end of the song, the child goes and touches Emiliano on the forehead and says, “Tiene calentura de pollo.”  The students start the song again.  At the end, Mariquita again touches Emiliano and says, “Tiene feibre.”  This continues until Mariquita says, “¡Ya se murió!”  At this point, Emiliano rises and chases everyone.  Whomever he catches is the next Emiliano.  *Instead of Emiliano chasing everyone, he can chase Mariquita."
         ]
       ],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "en el pinar del bosque",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "en la batalla",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "en la feria del maestro andres",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
       "notes": [[]]
     }
   },
@@ -5446,6 +6526,42 @@
   },
 
   {
+    "songTitle": "estaba el senor don gato",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
     "songTitle": "este nino lindo",
     "score": ["../../../songImages/esteNinoLindo.png"],
     "function": {
@@ -5521,6 +6637,42 @@
           "The palm faces up.  Start with the pinky, and fold one finger in as each line of the rhyme is said."
         ]
       ],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "etico peletico",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
       "notes": [[]]
     }
   },
@@ -5782,6 +6934,42 @@
   },
 
   {
+    "songTitle": "gavilan pollero",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
     "songTitle": "golden ring",
     "score": ["../../../songImages/goldenRing.png"],
     "function": {
@@ -5971,6 +7159,42 @@
           "Verse three:  All players do a “step together” step going to their left.  On the last phrase they may step back to begin the singing again."
         ]
       ],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "guillermo tell",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
       "notes": [[]]
     }
   },
@@ -7457,6 +8681,78 @@
   },
 
   {
+    "songTitle": "juuan pirulero",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "jugeuemos en el bosque",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
     "songTitle": "just from the kitchen",
     "score": ["../../../songImages/justFromTheKitchen.png"],
     "function": {
@@ -7699,6 +8995,150 @@
   },
 
   {
+    "songTitle": "kyrie eleison",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "la arana picua",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "la cabrita blanca",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "la campesina",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
     "songTitle": "la cucaracha",
     "score": ["../../../songImages/laCucaracha.png"],
     "function": {
@@ -7737,6 +9177,42 @@
           "Use this at the end of the “Milano” or “Emiliano” singing games to represent students carrying Emiliano to the grave."
         ]
       ]
+    }
+  },
+
+  {
+    "songTitle": "la marisola",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
     }
   },
 
@@ -7795,6 +9271,150 @@
           "This game was originally intended for girls.  The girls move in a circle as they sing without holding hands.  When they get to the third verse they alternate jumping forward then back every two lines."
         ]
       ],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "la ocuacua",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "la perica",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "la petaquita",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "la pobre coja",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
       "notes": [[]]
     }
   },
@@ -7892,6 +9512,42 @@
   },
 
   {
+    "songTitle": "la vaca",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
     "songTitle": "la vieja inez",
     "score": ["../../../songImages/laViejaInez.png"],
     "function": {
@@ -7937,6 +9593,78 @@
         ]
       ],
       "notes": [["Introduce with the story of a lady asking for sugar."]]
+    }
+  },
+
+  {
+    "songTitle": "la virgen se esta peinando",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "la viudita",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
     }
   },
 
@@ -8618,6 +10346,114 @@
   },
 
   {
+    "songTitle": "los cinco negritos",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "los esqueletos",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "los pollitos",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
     "songTitle": "lucy locket",
     "score": ["../../../songImages/lucyLocket.png"],
     "function": {
@@ -8659,6 +10495,42 @@
           "A seated circle of players hold up their hands, palms facing each other, fingers slightly curved, to make “pockets”. One player is chosen to leave the room. A penny is placed in one of the “pockets”. The absent player returns when the singing begins, and must guess who has the penny. Loud or soft singing from the group is used as a guide to “hot” or “cold”, helping the player to find the holder of the penny."
         ]
       ],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "lunes y martes",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
       "notes": [[]]
     }
   },
@@ -8893,6 +10765,42 @@
   },
 
   {
+    "songTitle": "mi totumita",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
     "songTitle": "michael row the boat",
     "score": ["../../../songImages/michaelRowTheBoat.png"],
     "function": {
@@ -8938,6 +10846,114 @@
           "HNU - The same songs are used for rowing as for shouting.  I know only one pure boat-song, the fine lyric, 'Michael row the boat ashore'; and this I have no doubt is a real spiritual - it being the archangel Michael that is addressed.  'As I have written these tunes, ' says Mr. Ware, 'two measures are to be sung to each stroke, the first measure being accented by the beginning of the stroke, the second by the rattle of the oars in the rowlocks.  On the passenger boat at the [Beaufort] ferry, they rowed from sixteen to thirty strokes a minute; twenty-four was the average.  'Michael row' was used when the load was heavy or the tide was against us.'  -- Allen et al, Slave Songs of the United States"
         ]
       ]
+    }
+  },
+
+  {
+    "songTitle": "mis manitas",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "misia propicia",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "miron miron",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
     }
   },
 
@@ -9227,6 +11243,78 @@
           "(Abbreviated ostinato: “Cross, down, clap, right, clap, left clap, both.”)  The first clap comes on the word “My” in the beginning of the song."
         ]
       ],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "na filomena (1)",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "na filomena (2)",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
       "notes": [[]]
     }
   },
@@ -9554,6 +11642,42 @@
         ]
       ],
       "notes": [["Per Gaby - Teach as first passing game."]]
+    }
+  },
+
+  {
+    "songTitle": "oh e-le-le",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
     }
   },
 
@@ -10344,6 +12468,42 @@
   },
 
   {
+    "songTitle": "paco paquito",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
     "songTitle": "page's train",
     "score": ["../../../songImages/pagesTrain.png"],
     "function": {
@@ -10373,6 +12533,78 @@
       "Erdei, Peter (ed.) and Komlos, Katalin.  150 American Folk Songs. Boosey & Hawkes, 1974 (7th printing 1985). p. 20.",
       "Schinhan, Jan K., ed. Frank C. Brown Collection of North Carolina Folklore, Vol. V. Durham, N.C.: Duke University Press, 1962. 75."
     ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "pasajeros al tren",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "pasala",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
     "misc": {
       "partWork": [],
       "recording": [],
@@ -10534,6 +12766,42 @@
     "score": ["../../../songImages/pegLegThePirate.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["aqa"] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "pepe chiquito",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
       "kinder": [],
       "misc": {}
@@ -10954,6 +13222,42 @@
   },
 
   {
+    "songTitle": "que llueva",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
     "songTitle": "rabbit and possum",
     "score": ["../../../songImages/rabbitAndPossum.png"],
     "function": {
@@ -11142,6 +13446,42 @@
           "Some authorities cast doubt on this history; they trace the meaning of “rosie” to the myth that gifted children had the power to “laugh roses” and interpret “all fall down” to merely mean “curtsy.”  However, the authors are inclined to believe that the former is more in keeping with the evolution of children’s singing games of similar antiquity."
         ]
       ]
+    }
+  },
+
+  {
+    "songTitle": "ritmo",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
     }
   },
 
@@ -11371,6 +13711,42 @@
   },
 
   {
+    "songTitle": "sa chi chi sa",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
     "songTitle": "sagidi sagidi sapopo",
     "score": ["../../../songImages/sagidiSapopo.png"],
     "function": {
@@ -11512,6 +13888,42 @@
   },
 
   {
+    "songTitle": "samba lele",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
     "songTitle": "sammy sacket",
     "score": ["../../../songImages/sammySacket.png"],
     "function": {
@@ -11552,6 +13964,42 @@
         ]
       ],
       "notes": [["Use to transition into a line"]]
+    }
+  },
+
+  {
+    "songTitle": "san jose y maria",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
     }
   },
 
@@ -11782,6 +14230,78 @@
       "gameType": [],
       "gameDirections": [],
       "notes": [["Find book by _______."]]
+    }
+  },
+
+  {
+    "songTitle": "senihua",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "se va el caiman",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
     }
   },
 
@@ -12217,6 +14737,42 @@
   },
 
   {
+    "songTitle": "sol solecito",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
     "songTitle": "somebody's knocking at your door",
     "score": ["../../../songImages/somebodysKnockinAtYourDoor.png"],
     "function": {
@@ -12247,6 +14803,42 @@
       "Eisen, A., & Robertson, L. (2010). An American Methodology: an Inclusive Approach to Musical Literacy (2nd ed.). Lake Charles, LA.: Sneaky Snake Publications.  p. 386.",
       "Sing it Yourself (Bradford)"
     ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "soplo la vela",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
     "misc": {
       "partWork": [],
       "recording": [],
@@ -12507,6 +15099,42 @@
   },
 
   {
+    "songTitle": "tengo tengo",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
     "songTitle": "this old man",
     "score": ["../../../songImages/thisOldMan.png"],
     "function": {
@@ -12677,6 +15305,42 @@
   },
 
   {
+    "songTitle": "tortuguita",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
     "songTitle": "to work upon the railway",
     "score": ["../../../songImages/toWorkUponTheRailway.png"],
     "function": {
@@ -12716,6 +15380,42 @@
           "SA - A song written about immigrant Irish railroad workers; set to the tune of a popular Irish reel: probably from a Music Hall variety show"
         ]
       ]
+    }
+  },
+
+  {
+    "songTitle": "trapichito",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
     }
   },
 
@@ -12835,6 +15535,78 @@
           "Players stand in a circle with one person (the witch) in the middle.  On the words “to buy”, the players clap their hands on to and make a fist with each hand on buy.  When they say Hey Old Witch, they may put their hands up to their mouths as if calling.  The witch then points to one of the players, who replies, “One o'clock, going on two” etc. until the sixth player has said “Five o'clock going on six.”  With each question, the witch may pantomime and give their answer.  After the last question, all the players in the circle must close their eyes as the witch replies in a scary voice “to boil one of your chickens.” grabbing one of the players in the circle.  The frightened person becomes the next witch."
         ]
       ],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "vamos a subir al cerro",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "veni veni",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
       "notes": [[]]
     }
   },
@@ -13418,6 +16190,42 @@
     ],
     "misc": {
       "partWork": ["canon"],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
+    "songTitle": "ya lloviendo esta",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": [] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "",
+      "mm": "",
+      "rhythmSet": []
+    },
+    "melody": {
+      "tonalCenter": "",
+      "toneSet": []
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": [],
+    "source": [],
+    "misc": {
+      "partWork": [],
       "recording": [],
       "gameType": [],
       "gameDirections": [],

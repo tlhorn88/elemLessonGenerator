@@ -119,7 +119,7 @@ function RepSearch() {
                       <button
                         onClick={() => handleAddToHoldingClick(song.songTitle)}
                       >
-                        Add to holding
+                        Add to Favorites
                       </button>
                     </td>
                   </tr>
