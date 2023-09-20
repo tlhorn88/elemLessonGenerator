@@ -5,16 +5,20 @@
   grid-column-gap: 0px;
   grid-row-gap: 0px;
   background-color: salmon;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 5px;
 }
 
 .demographics {
-  grid-area: 1 / 1 / 3 / 3;
+  grid-area: 1 / 1 / 2 / 3;
 }
 
-.contentAndSchedule {
-  grid-area: 1 / 3 / 3 / 5;
+.schedule {
+  grid-area: 1 / 3 / 2 / 5;
 }
 
-.advanced {
-  grid-area: 3 / 1 / 4 / 5;
+.content {
+  grid-area: 2 / 1 / 4 / 5;
 }

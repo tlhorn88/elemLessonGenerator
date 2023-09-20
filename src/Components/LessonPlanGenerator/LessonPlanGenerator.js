@@ -18,7 +18,12 @@ function LessonPlanGenerator() {
           <h3>Spanish</h3>
           <p>Add more</p>
         </div>
-        <div className="contentAndSchedule">
+        <div className="advanced">
+          <h2>Schedule</h2>
+          <p>I see my students for *** minute lessons, *** times a week for *** weeks a semester.</p>
+        
+        </div>
+        <div className="content">
           <h2>Content Options:</h2>
           <h3>Starting points:</h3>
           <h4>Melodic</h4>
@@ -26,15 +31,6 @@ function LessonPlanGenerator() {
           <h3>Ending points:</h3>
           <h4>Melodic</h4>
           <h4>Rhythmic</h4>
-        </div>
-        <div className="advanced">
-          <h2>Advanced (show/hide)</h2>
-          <p>Would you like to modify the template structure?</p>
-          <button>Yes</button>
-          <p>Would you like to modify the concept sequence?</p>
-          <NavLink to="ConceptSequence" onClick={handleConceptSequenceClick}>
-            <button>Yes</button>
-          </NavLink>
         </div>
       </div>
     </div>
