@@ -34,11 +34,7 @@ function RepSearch() {
         (song.toneSet &&
           song.toneSet.length === toneSetFilter.length &&
           toneSetFilter.every((tone) => song.toneSet.includes(tone))))
-    // &&
-    // (rhythmSetFilter.length === 0 ||
-    //   (song.rhythmSet &&
-    //     song.rhythmSet.length === rhythmSetFilter.length &&
-    //     rhythmSetFilter.every((figure) => song.rhythmSet.includes(figure))))
+
   );
 
   // EVENT HANDLERS

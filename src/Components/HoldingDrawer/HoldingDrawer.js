@@ -4,7 +4,8 @@ import { useSelector, useDispatch } from 'react-redux';
 import { removeFromHolding } from '../../redux/actions';
 
 function HoldingDrawer() {
-  const selectedSongs = useSelector((state) => state.selectedSongs);
+  const selectedSongs = useSelector((state) => state.selectedSongs.selectedSongs);
+
   const dispatch = useDispatch();
 
   const handleRemoveromHolding = (songTitle) => {
@@ -14,6 +15,8 @@ function HoldingDrawer() {
   return (
     <div className={`holdingDrawer ${selectedSongs.length > 0 ? 'open' : ''}`}>
       <h2>Favorites</h2>
+      <p>WILL BE A HOLDING GROUND FOR USER FAVORITES.</p>
+      <p>Eventually, these songs will take priority over other potential songs in lesson plan structure.</p>
       <ul>
         {selectedSongs.map((songTitle, index) => (
           <div key={index}>
@@ -22,7 +25,6 @@ function HoldingDrawer() {
           </div>
         ))}
       </ul>
-      {/* <button>View Song Packet</button> */}
     </div>
   );
 }

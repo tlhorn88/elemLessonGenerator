@@ -1,12 +1,12 @@
 import './LessonPlanGenerator.css';
 import { NavLink, useNavigate } from 'react-router-dom';
+// import ConceptSequence from '../ConceptSequence/ConceptSequence';
+import { useSelector } from 'react-redux';
 
 function LessonPlanGenerator() {
-  const navigate = useNavigate();
+  const conceptSequence = useSelector((state) => state.conceptSequence);
+  console.log(conceptSequence);
 
-  const handleConceptSequenceClick = () => {
-    navigate('ConceptSequence');
-  };
   return (
     <div>
       <h1>LESSON PLAN GENERATOR</h1>
@@ -20,8 +20,10 @@ function LessonPlanGenerator() {
         </div>
         <div className="advanced">
           <h2>Schedule</h2>
-          <p>I see my students for *** minute lessons, *** times a week for *** weeks a semester.</p>
-        
+          <p>
+            I see my students for *** minute lessons, *** times a week for ***
+            weeks a semester.
+          </p>
         </div>
         <div className="content">
           <h2>Content Options:</h2>
@@ -32,6 +34,21 @@ function LessonPlanGenerator() {
           <h4>Melodic</h4>
           <h4>Rhythmic</h4>
         </div>
+        <div className="conceptSequence"></div>
+        <h2>Concept Sequence</h2>
+        <ul>
+          {Array.isArray(conceptSequence) ? (
+            conceptSequence.map((concept) => (
+              <li key={concept.id}>{concept.concept}</li>
+              ))
+
+          ) : (
+            <li>No concepts available</li>
+          )
+          }
+        </ul>
+        <p>{conceptSequence[0].concept}</p>
+        
       </div>
     </div>
   );

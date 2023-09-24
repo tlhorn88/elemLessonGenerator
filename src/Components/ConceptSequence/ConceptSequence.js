@@ -1,42 +1,17 @@
 import './ConceptSequence.css';
-import { useState } from 'react';
+import { useDispatch } from 'react-redux';
+// import LessonPlanGenerator from '../LessonPlanGenerator/LessonPlanGenerator';
+import { addConceptSequence } from '../../redux/actions.js'
 
 function ConceptSequence() {
-  const [conceptSequence, changeConceptSequence] = useState([
-    'tuneful singing',
-    'beat',
-    'loud v. soft',
-    'high low chant',
-    'fast slow',
-    'high low melody',
-    'rhythm long short',
-    'qsd',
-    'sm',
-    'Z',
-    'l',
-    '2$',
-    'd',
-    'w',
-    'r',
-    'xxcc',
-    'dP',
-    '4$',
-    'l,',
-    'sxc',
-    's,',
-    'xcd',
-    "d'",
-    'a',
-    'lP',
-    'aqa',
-    'f',
-    'ra',
-    't,',
-    '3$',
-    't',
-    'gc',
-    'ar',
-  ]);
+  const dispatch = useDispatch();
+
+const conceptSequenceData = [
+  ,
+]
+
+  dispatch(addConceptSequence(conceptSequenceData));
+
   return (
     <div>
       <h1>CONCEPT SEQUENCE</h1>
