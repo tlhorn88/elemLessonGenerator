@@ -22,3 +22,16 @@
 .content {
   grid-area: 2 / 1 / 4 / 5;
 }
+
+.conceptList {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.concept {
+  background-color: rgb(189, 189, 207);
+  border-radius: 5px;
+  margin: 5px;
+  height: 50px;
+  list-style: none;
+}

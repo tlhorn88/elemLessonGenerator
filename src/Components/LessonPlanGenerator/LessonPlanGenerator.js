@@ -4,7 +4,9 @@ import { NavLink, useNavigate } from 'react-router-dom';
 import { useSelector } from 'react-redux';
 
 function LessonPlanGenerator() {
-  const conceptSequence = useSelector((state) => state.conceptSequence);
+  const conceptSequence = useSelector(
+    (state) => state.conceptSequence.conceptSequence
+  );
   console.log(conceptSequence);
 
   return (
@@ -36,19 +38,14 @@ function LessonPlanGenerator() {
         </div>
         <div className="conceptSequence"></div>
         <h2>Concept Sequence</h2>
-        <ul>
-          {Array.isArray(conceptSequence) ? (
-            conceptSequence.map((concept) => (
-              <li key={concept.id}>{concept.concept}</li>
-              ))
-
-          ) : (
-            <li>No concepts available</li>
-          )
-          }
+        <p>(modify)</p>
+        <ul className="conceptList">
+          {conceptSequence.map((concept) => (
+            <li className="concept" key={concept.id}>
+              {concept.concept}
+            </li>
+          ))}
         </ul>
-        <p>{conceptSequence[0].concept}</p>
-        
       </div>
     </div>
   );
