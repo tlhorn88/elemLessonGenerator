@@ -4,6 +4,9 @@ import { useSelector } from 'react-redux';
 
 function TemplateWorkspace() {
   const selectedSongs = useSelector((state) => state.selectedSongs.selectedSongs);
+
+  const lessonTemplate = useSelector((state) => state.lessonTemplate.lessonTemplate);
+    console.log(lessonTemplate);
   return (
     <div>
       <h1>TEMPLATE WORKSPACE</h1>

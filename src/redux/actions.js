@@ -30,3 +30,10 @@ export const addConceptSequence = (data) => {
     payload: data,
   };
 };
+
+export const addTemplateSequence = (data) => {
+  return {
+    type: 'ADD_TEMPLATE_SEQUENCE',
+    payload: data,
+  };
+};
