@@ -10,12 +10,22 @@ function TemplateWorkspace() {
   return (
     <div>
       <h1>TEMPLATE WORKSPACE</h1>
+      <button>USE THIS TEMPLATE (nagivates to LP generator)</button>
+      <button>Save this template</button>
       <ul>
         {selectedSongs.map((songTitle, index) => (
           <div key={index}>
             <li>{songTitle}</li>
           </div>
         ))}
+      </ul>
+      <ul className='template1'>
+          {lessonTemplate.map((lessonTemplate, index) => (
+            <div className='templateComponent'>
+              <li>{lessonTemplate.lessonComponent}</li>
+              <li>{lessonTemplate.componentDescription}</li>
+            </div>
+          ))}
       </ul>
     </div>
   )

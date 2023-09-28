@@ -15612,10 +15612,48 @@
   },
 
   {
+    "songTitle": "villancico",
+    "score": [],
+    "function": {
+      "rhythmic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": ["f"] },
+      "kinder": [],
+      "misc": {}
+    },
+    "rhythm": {
+      "meter": "compound",
+      "mm": "90",
+      "rhythmSet": ["r", "qa", "ssd", "Asd"]
+    },
+    "melody": {
+      "tonalCenter": "d",
+      "toneSet": ["d", "r", "m", "f", "s", "l"]
+    },
+    "context": {
+      "subject": [],
+      "lyrics": [],
+      "ethnicOrigin": [],
+      "language": [],
+      "translation": []
+    },
+    "packet source": ["antologia kodaly columbiana"],
+    "source": [
+      "GUTIERREZ, Benigno. De todo el Maíz. Tonadas típicas campesinas. Medellín,Imprenta Municipal. 1944 No 19"
+    ],
+    "misc": {
+      "partWork": [],
+      "recording": [],
+      "gameType": [],
+      "gameDirections": [],
+      "notes": [[]]
+    }
+  },
+
+  {
     "songTitle": "viva la musica",
     "score": ["../../../songImages/vivaLaMusica.png"],
     "function": {
-      "rhythmic": { "presentation": [], "practice": ["ra"] },
+      "rhythmic": { "presentation": ["ra"], "practice": ["ra"] },
       "melodic": { "presentation": [], "practice": [] },
       "kinder": [],
       "misc": ["fermata"]
@@ -15639,10 +15677,11 @@
     "packet source": ["tx state"],
     "source": [
       "Bolkavac, Edward and Judith Johnson. 150 Rounds for Singing and Teaching. Boosey & Hawkes, Inc. New York, NY. 1996. Page ___.",
-      "How Can I Keep From Singing, p. 19."
+      "How Can I Keep From Singing, p. 19.",
+      "VIVA LA MÚSICA. Canciones Infantiles para los grados 1 y 2. Misión Pedagógica Alemana. Bogotá, Colombia.1972"
     ],
     "misc": {
-      "partWork": [],
+      "partWork": ["canon"],
       "recording": [],
       "gameType": [],
       "gameDirections": [],
@@ -16201,29 +16240,29 @@
     "songTitle": "ya lloviendo esta",
     "score": [],
     "function": {
-      "rhythmic": { "presentation": [], "practice": [] },
-      "melodic": { "presentation": [], "practice": [] },
+      "rhythmic": { "presentation": [], "practice": ["Q"] },
+      "melodic": { "presentation": ["r"], "practice": ["r"] },
       "kinder": [],
       "misc": {}
     },
     "rhythm": {
-      "meter": "",
-      "mm": "",
-      "rhythmSet": []
+      "meter": "duple",
+      "mm": "100",
+      "rhythmSet": ["q", "Q", "sd"]
     },
     "melody": {
-      "tonalCenter": "",
-      "toneSet": []
+      "tonalCenter": "d",
+      "toneSet": ["d", "r", "m"]
     },
     "context": {
       "subject": [],
       "lyrics": [],
       "ethnicOrigin": [],
-      "language": [],
+      "language": ["spanish"],
       "translation": []
     },
-    "packet source": [],
-    "source": [],
+    "packet source": ["antologia kodaly columbiana"],
+    "source": ["Tradición oral. Transcripción de Alejandro Zuleta"],
     "misc": {
       "partWork": [],
       "recording": [],

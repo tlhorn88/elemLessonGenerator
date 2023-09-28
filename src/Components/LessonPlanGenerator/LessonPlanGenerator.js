@@ -2,12 +2,31 @@ import './LessonPlanGenerator.css';
 import { NavLink, useNavigate } from 'react-router-dom';
 // import ConceptSequence from '../ConceptSequence/ConceptSequence';
 import { useSelector } from 'react-redux';
+import { useState } from 'react';
 
 function LessonPlanGenerator() {
   const conceptSequence = useSelector(
     (state) => state.conceptSequence.conceptSequence
   );
-  console.log(conceptSequence);
+
+    const [selectedRhythmicConcept, setSelectedRhythmicConcept] = useState('');
+    const [selectedMelodicConcept, setSelectedMelodicConcept] = useState('');
+
+
+  let kinderSequence = [];
+  let rhythmicSequence = [];
+  let melodicSequence = [];
+
+  conceptSequence.forEach((concept) => {
+    if (concept.conceptType === 'kinder') {
+      kinderSequence.push(concept);
+    } else if (concept.conceptType === 'rhythm') {
+      rhythmicSequence.push(concept);
+    } else if (concept.conceptType === 'melody') {
+      melodicSequence.push(concept);
+    }
+  });
+
 
   return (
     <div>
@@ -27,11 +46,32 @@ function LessonPlanGenerator() {
             weeks a semester.
           </p>
         </div>
+        <h4>Melodic</h4>
         <div className="content">
           <h2>Content Options:</h2>
           <h3>Starting points:</h3>
           <h4>Melodic</h4>
+          <select
+            value={selectedMelodicConcept}
+            onChange={(e) => setSelectedMelodicConcept(e.target.value)}>
+            <option value="">Select a Melodic Starting Point</option>
+            {melodicSequence.map((concept) => (
+              <option key={concept.id} value={concept.concept}>
+                {concept.concept}
+              </option>
+            ))}
+            </select>
           <h4>Rhythmic</h4>
+          <select
+            value={selectedRhythmicConcept}
+            onChange={(e) => setSelectedRhythmicConcept(e.target.value)}>
+            <option value="">Select a Rhythmic Starting Point</option>
+            {rhythmicSequence.map((concept) => (
+              <option key={concept.id} value={concept.concept}>
+                {concept.concept}
+              </option>
+            ))}
+            </select>
           <h3>Ending points:</h3>
           <h4>Melodic</h4>
           <h4>Rhythmic</h4>

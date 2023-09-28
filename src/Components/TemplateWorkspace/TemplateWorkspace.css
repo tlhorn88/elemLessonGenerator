@@ -1,0 +1,10 @@
+.template1 {
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+}
+
+.templateComponent {
+  background-color: darkgrey;
+  margin: 5px;
+}
