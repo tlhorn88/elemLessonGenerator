@@ -8,6 +8,7 @@ import TemplateWorkspace from './Components/TemplateWorkspace/TemplateWorkspace'
 import LessonPlanGenerator from './Components/LessonPlanGenerator/LessonPlanGenerator';
 import RepSearch from './Components/RepSearch/RepSearch';
 import ConceptSequence from './Components/ConceptSequence/ConceptSequence';
+import LessonDisplay from './Components/LessonDisplay/LessonDisplay';
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
           />
           <Route path="/repSearch" element={<RepSearch />} />
           <Route path="/conceptSequence" element={<ConceptSequence />} />
+          <Route path='/lessonDisplay' element={<LessonDisplay />} />
         </Route>
       </Routes>
     </div>

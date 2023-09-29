@@ -5,6 +5,9 @@ import { useSelector } from 'react-redux';
 import { useState } from 'react';
 
 function LessonPlanGenerator() {
+
+  const navigate = useNavigate();
+
   const conceptSequence = useSelector(
     (state) => state.conceptSequence.conceptSequence
   );
@@ -25,6 +28,11 @@ function LessonPlanGenerator() {
       melodicSequence.push(concept);
     }
   });
+
+  // EVENT HANDLERS
+  const handleGenerateButtonClick = () => {
+    navigate(`/lessonDisplay?melodicConcept=${selectedMelodicConcept}`);
+  }
 
   return (
     <div>
@@ -92,15 +100,23 @@ function LessonPlanGenerator() {
           <h2>Concept Sequence</h2>
           <p>(modify)</p>
           <ul className="conceptList">
-            {conceptSequence.map((concept) => (
+            {rhythmicSequence.map((concept) => (
+              <li className="concept" key={concept.id}>
+                {concept.concept}
+              </li>
+            ))}
+          </ul>
+          <ul className="conceptList">
+            {melodicSequence.map((concept) => (
               <li className="concept" key={concept.id}>
                 {concept.concept}
               </li>
             ))}
           </ul>
         </div>
-        
+
       </div>
+      <button onClick={handleGenerateButtonClick}>GENERATE!</button>
     </div>
   );
 }
