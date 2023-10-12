@@ -1,15 +1,3 @@
-// export const addToHolding = (songTitle) => {
-//   return (dispatch, getState) => {
-//     const selectedSongs = getState().selectedSongs;
-//     if(!selectedSongs.includes(songTitle)) {
-//       dispatch({
-//         type: 'ADD_TO_HOLDING',
-//         payload: songTitle,
-//       });
-//     }
-//   };
-// };
-
 export const addToHolding = (songTitle) => {
   return {
     type: 'ADD_TO_HOLDING',
@@ -37,3 +25,10 @@ export const addTemplateSequence = (data) => {
     payload: data,
   };
 };
+
+export const updatePracticeSongs = (practiceSongs) => {
+  return {
+    type: 'UPDATE_PRACTICE_SONGS',
+    payload: practiceSongs,
+  };
+}; 

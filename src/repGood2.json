@@ -12838,7 +12838,7 @@
     "score": ["../../../songImages/phoebeInHerPetticoat.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["qsd", "w"] },
-      "melodic": { "presentation": [], "practice": ["l,"] },
+      "melodic": { "presentation": ["l,"], "practice": ["l,"] },
       "kinder": [],
       "misc": {}
     },
@@ -15309,14 +15309,14 @@
     "score": [],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
-      "melodic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": ["Aa"] },
       "kinder": [],
       "misc": {}
     },
     "rhythm": {
       "meter": "",
       "mm": "",
-      "rhythmSet": []
+      "rhythmSet": ["q", "Q", "sd", "Aa"]
     },
     "melody": {
       "tonalCenter": "",
@@ -15329,8 +15329,10 @@
       "language": [],
       "translation": []
     },
-    "packet source": [],
-    "source": [],
+    "packet source": ["antologia kodaly columbiana"],
+    "source": [
+      "VÁHOS, Óscar. Grupo Canchimalos. Medellín. Transcripción de Laura Gómez Turriago"
+    ],
     "misc": {
       "partWork": [],
       "recording": [],
@@ -15388,18 +15390,18 @@
     "score": [],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
-      "melodic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": ["natural minor"] },
       "kinder": [],
       "misc": {}
     },
     "rhythm": {
-      "meter": "",
-      "mm": "",
+      "meter": "duple",
+      "mm": "85",
       "rhythmSet": []
     },
     "melody": {
-      "tonalCenter": "",
-      "toneSet": []
+      "tonalCenter": "l",
+      "toneSet": ["m,", "l,", "t", "d", "r", "m", "f"]
     },
     "context": {
       "subject": [],
@@ -15408,8 +15410,10 @@
       "language": [],
       "translation": []
     },
-    "packet source": [],
-    "source": [],
+    "packet source": ["antologia kodaly columbiana"],
+    "source": [
+      "CATÁLOGO DE 200 obras del repertorio vocal-coral Infantil y escolar Colombiano y Latinoamericano. Colombia. Fundación Nueva Cultura. Ministerio de Cultura."
+    ],
     "misc": {
       "partWork": [],
       "recording": [],
@@ -15543,19 +15547,19 @@
     "songTitle": "vamos a subir al cerro",
     "score": [],
     "function": {
-      "rhythmic": { "presentation": [], "practice": [] },
+      "rhythmic": { "presentation": ["xxcc"], "practice": ["xxcc"] },
       "melodic": { "presentation": [], "practice": [] },
       "kinder": [],
       "misc": {}
     },
     "rhythm": {
-      "meter": "",
-      "mm": "",
-      "rhythmSet": []
+      "meter": "duple",
+      "mm": "125",
+      "rhythmSet": ["q", "sd", "xxcc"]
     },
     "melody": {
-      "tonalCenter": "",
-      "toneSet": []
+      "tonalCenter": "d",
+      "toneSet": ["d", "r", "m", "f", "s", "l"]
     },
     "context": {
       "subject": [],
@@ -15564,8 +15568,8 @@
       "language": [],
       "translation": []
     },
-    "packet source": [],
-    "source": [],
+    "packet source": ["antologia kodaly columbiana"],
+    "source": ["Tradicion oral Transcripción de Alejandro Zuleta"],
     "misc": {
       "partWork": [],
       "recording": [],
@@ -15580,28 +15584,30 @@
     "score": [],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
-      "melodic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": ["natural minor"] },
       "kinder": [],
       "misc": {}
     },
     "rhythm": {
-      "meter": "",
-      "mm": "",
-      "rhythmSet": []
+      "meter": "quadruple",
+      "mm": "90",
+      "rhythmSet": ["t", "w", "q", "Q"]
     },
     "melody": {
-      "tonalCenter": "",
-      "toneSet": []
+      "tonalCenter": "l,",
+      "toneSet": ["m,", "l,", "t,", "d", "r", "m", "f", "s"]
     },
     "context": {
       "subject": [],
       "lyrics": [],
-      "ethnicOrigin": [],
-      "language": [],
+      "ethnicOrigin": ["france"],
+      "language": ["spanish"],
       "translation": []
     },
-    "packet source": [],
-    "source": [],
+    "packet source": ["antologia kodaly columbiana"],
+    "source": [
+      "CHOKSY, Lois. The Kodály Method. New Jersey: Prentice Hall inc., 1999 Texto en castellano: Alejandro Zuleta."
+    ],
     "misc": {
       "partWork": [],
       "recording": [],

@@ -29,8 +29,8 @@
 .conceptSequence {
   grid-area: 2 / 2 / 3 / 3;
   background: lightslategray;
-  display: flex;
-  flex-wrap: wrap;
+  /* display: flex;
+  flex-wrap: wrap; */
 }
 
 .concept {
@@ -39,4 +39,8 @@
   margin: 5px;
   height: 25px;
   list-style: none;
+}
+
+.selected {
+  color: red;
 }

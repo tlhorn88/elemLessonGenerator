@@ -5,7 +5,6 @@ import { useSelector } from 'react-redux';
 import { useState } from 'react';
 
 function LessonPlanGenerator() {
-
   const navigate = useNavigate();
 
   const conceptSequence = useSelector(
@@ -32,13 +31,20 @@ function LessonPlanGenerator() {
   // EVENT HANDLERS
   const handleGenerateButtonClick = () => {
     navigate(`/lessonDisplay?melodicConcept=${selectedMelodicConcept}`);
-  }
+  };
+
+  const handleMelodicStartingPointClick = (selectedConcept) => {
+    setSelectedMelodicConcept(selectedConcept);
+  };
+
+  const handleRhythmicStartingPointClick = (selectedConcept) => {
+    setSelectedRhythmicConcept(selectedConcept);
+  };
 
   return (
     <div>
       <h1>LESSON PLAN GENERATOR</h1>
       <div className="lessonPlanGrid">
-
         <div className="demographics">
           <h2>Student Demographics</h2>
           <h3>Grade</h3>
@@ -68,29 +74,19 @@ function LessonPlanGenerator() {
           <h2>Content Options:</h2>
           <h3>Starting points:</h3>
           <h4>Melodic</h4>
-          <select
-            value={selectedMelodicConcept}
-            onChange={(e) => setSelectedMelodicConcept(e.target.value)}
-          >
-            <option value="">Select a Melodic Starting Point</option>
+
+          <ul>
             {melodicSequence.map((concept) => (
-              <option key={concept.id} value={concept.concept}>
+              <li
+                className={`concept ${selectedMelodicConcept === concept.concept ? 'selected' : ''}`}
+                key={concept.id}
+                onClick={() => handleMelodicStartingPointClick(concept.concept)}
+              >
                 {concept.concept}
-              </option>
+              </li>
             ))}
-          </select>
-          <h4>Rhythmic</h4>
-          <select
-            value={selectedRhythmicConcept}
-            onChange={(e) => setSelectedRhythmicConcept(e.target.value)}
-          >
-            <option value="">Select a Rhythmic Starting Point</option>
-            {rhythmicSequence.map((concept) => (
-              <option key={concept.id} value={concept.concept}>
-                {concept.concept}
-              </option>
-            ))}
-          </select>
+          </ul>
+
           <h3>Ending points:</h3>
           <h4>Melodic</h4>
           <h4>Rhythmic</h4>
@@ -99,22 +95,19 @@ function LessonPlanGenerator() {
         <div className="conceptSequence">
           <h2>Concept Sequence</h2>
           <p>(modify)</p>
-          <ul className="conceptList">
+          <h4>Rhythmic</h4>
+          <ul>
             {rhythmicSequence.map((concept) => (
-              <li className="concept" key={concept.id}>
-                {concept.concept}
-              </li>
-            ))}
-          </ul>
-          <ul className="conceptList">
-            {melodicSequence.map((concept) => (
-              <li className="concept" key={concept.id}>
+              <li
+              className='concept'
+              key={concept.id}
+              onClick={() => handleRhythmicStartingPointClick(concept.concept)}
+              >
                 {concept.concept}
               </li>
             ))}
           </ul>
         </div>
-
       </div>
       <button onClick={handleGenerateButtonClick}>GENERATE!</button>
     </div>
