@@ -183,6 +183,9 @@ function LessonDisplay() {
                 }
                 onBlur={() => setDropDownIndex(-1)}
               >
+                <option value={selectedPracticeSongsArray[index] || title} className="option-selected">
+                  {selectedPracticeSongsArray[index] || title}
+                </option>
                 {availablePracticeSongs.map((songTitle, idx) => (
                   <option key={idx} value={songTitle}>
                     {songTitle}
@@ -190,10 +193,10 @@ function LessonDisplay() {
                 ))}
               </select>
             ) : (
-              <>
+              <div className='songAndButtonWrapper'>
                 <p>{title}</p>
                 <button onClick={() => setDropDownIndex(index)}>...</button>
-              </>
+              </div>
             )}
           </li>
         ))}
