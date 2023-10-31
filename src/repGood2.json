@@ -499,7 +499,7 @@
 
   {
     "songTitle": "al pasar la barca",
-    "score": ["../../../songImages/alPasarLaBarca.png"],
+    "score": ["../../../songImages/aPasarLaBarca.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": ["t,"], "practice": ["t,", "l"] },
@@ -621,7 +621,7 @@
 
   {
     "songTitle": "ama uacashpa tiajungui",
-    "score": ["../../../songImages/amaUacashpaTiajungui"],
+    "score": ["../../../songImages/amaUacashpaTiajungui.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["minor pentatonic"] },
       "melodic": { "presentation": [], "practice": [] },
@@ -663,7 +663,7 @@
 
   {
     "songTitle": "anton pirulero",
-    "score": ["../../../songImages/antonPirulero"],
+    "score": ["../../../songImages/antonPirulero.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": ["l"] },
@@ -704,8 +704,8 @@
   },
 
   {
-    "songTitle": "arruruu",
-    "score": ["../../../songImages/arrurru"],
+    "songTitle": "arrurru",
+    "score": ["../../../songImages/arrurru.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["w"] },
       "melodic": { "presentation": [], "practice": [] },
@@ -747,7 +747,7 @@
 
   {
     "songTitle": "ay dios que mujer",
-    "score": ["../../../songImages/ayDiosQueMujer"],
+    "score": ["../../../songImages/ayDiosQueMujer.png"],
     "function": {
       "rhythmic": { "presentation": ["6*"], "practice": ["6*"] },
       "melodic": { "presentation": ["f"], "practice": [] },
@@ -1714,7 +1714,10 @@
 
   {
     "songTitle": "are you sleeping? (brother john)",
-    "score": ["../../../songImages/areYouSleeping.png"],
+    "score": [
+      "../../../songImages/areYouSleeping.png",
+      "../../../songImages/campanero.png"
+    ],
     "function": {
       "rhythmic": { "presentation": ["4$"], "practice": ["w", "4$"] },
       "melodic": { "presentation": [], "practice": ["f"] },
@@ -2609,7 +2612,7 @@
   },
   {
     "songTitle": "boots of shining leather",
-    "score": [],
+    "score": ["../../../songImages/bootsOfShiningLeather.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["w"] },
       "melodic": { "presentation": [], "practice": ["t", "t,"] },
@@ -3066,7 +3069,7 @@
 
   {
     "songTitle": "bye bye baby",
-    "score": [],
+    "score": ["../../../songImages/byeByeBaby.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["w"] },
       "melodic": { "presentation": [], "practice": ["r"] },
@@ -3152,21 +3155,21 @@
 
   {
     "songTitle": "camina la virgen pura",
-    "score": [],
+    "score": ["../../../songImages/caminaLaVirgenPura.png"],
     "function": {
-      "rhythmic": { "presentation": [], "practice": [] },
-      "melodic": { "presentation": [], "practice": [] },
+      "rhythmic": { "presentation": [], "practice": ["3$"] },
+      "melodic": { "presentation": [], "practice": ["t,"] },
       "kinder": [],
       "misc": {}
     },
     "rhythm": {
       "meter": "",
-      "mm": "",
-      "rhythmSet": []
+      "mm": "triple",
+      "rhythmSet": ["w", "q"]
     },
     "melody": {
-      "tonalCenter": "",
-      "toneSet": []
+      "tonalCenter": "d",
+      "toneSet": ["s,", "l,", "t,", "d", "r"]
     },
     "context": {
       "subject": [],
@@ -3175,44 +3178,10 @@
       "language": [],
       "translation": []
     },
-    "packet source": [],
-    "source": [],
-    "misc": {
-      "partWork": [],
-      "recording": [],
-      "gameType": [],
-      "gameDirections": [],
-      "notes": [[]]
-    }
-  },
-
-  {
-    "songTitle": "campanero",
-    "score": [],
-    "function": {
-      "rhythmic": { "presentation": [], "practice": [] },
-      "melodic": { "presentation": [], "practice": [] },
-      "kinder": [],
-      "misc": {}
-    },
-    "rhythm": {
-      "meter": "",
-      "mm": "",
-      "rhythmSet": []
-    },
-    "melody": {
-      "tonalCenter": "",
-      "toneSet": []
-    },
-    "context": {
-      "subject": [],
-      "lyrics": [],
-      "ethnicOrigin": [],
-      "language": [],
-      "translation": []
-    },
-    "packet source": [],
-    "source": [],
+    "packet source": ["antologia kodaly columbiana"],
+    "source": [
+      "BEUTLER, Gisela. Estudios sobre e Romancero Español en Colombia, Bogotá: Instituto Caro y Cuervo, 1977, p.555"
+    ],
     "misc": {
       "partWork": [],
       "recording": [],
@@ -3278,21 +3247,21 @@
 
   {
     "songTitle": "canon de tallis",
-    "score": [],
+    "score": ["../../../songImages/canonDeTallis.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
-      "melodic": { "presentation": [], "practice": [] },
+      "melodic": { "presentation": [], "practice": ["t,"] },
       "kinder": [],
       "misc": {}
     },
     "rhythm": {
-      "meter": "",
-      "mm": "",
-      "rhythmSet": []
+      "meter": "quadruple",
+      "mm": "80",
+      "rhythmSet": ["q"]
     },
     "melody": {
-      "tonalCenter": "",
-      "toneSet": []
+      "tonalCenter": "d",
+      "toneSet": ["s,", "l,", "t,", "d", "r", "m", "f", "s"]
     },
     "context": {
       "subject": [],
@@ -3301,10 +3270,13 @@
       "language": [],
       "translation": []
     },
-    "packet source": [],
-    "source": [],
+    "packet source": ["antologia kodaly columbiana"],
+    "source": [
+      "HEMSY de GAINZA, Violeta. 70 cánones de aquí y de allá. Buenos Aires: Ricordi 1967",
+      "Thomas Tallis 1505-1585"
+    ],
     "misc": {
-      "partWork": [],
+      "partWork": ["canon"],
       "recording": [],
       "gameType": [],
       "gameDirections": [],
@@ -3314,7 +3286,7 @@
 
   {
     "songTitle": "cantas del valle de tenza",
-    "score": [],
+    "score": ["../../../songImages/cantasDelValleDeTenza.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -3322,13 +3294,13 @@
       "misc": {}
     },
     "rhythm": {
-      "meter": "",
-      "mm": "",
+      "meter": "compound",
+      "mm": "110",
       "rhythmSet": []
     },
     "melody": {
-      "tonalCenter": "",
-      "toneSet": []
+      "tonalCenter": "d",
+      "toneSet": ["d", "m", "f", "s", "l"]
     },
     "context": {
       "subject": [],
@@ -3337,7 +3309,7 @@
       "language": [],
       "translation": []
     },
-    "packet source": [],
+    "packet source": ["antologia kodaly columbiana"],
     "source": [],
     "misc": {
       "partWork": [],
@@ -3350,7 +3322,7 @@
 
   {
     "songTitle": "cana de los trapiches",
-    "score": [],
+    "score": ["../../../songImages/canaDeLosTrapiches.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -3363,8 +3335,8 @@
       "rhythmSet": []
     },
     "melody": {
-      "tonalCenter": "",
-      "toneSet": []
+      "tonalCenter": "d",
+      "toneSet": ["d", "r", "m", "f", "s", "l"]
     },
     "context": {
       "subject": [],
@@ -3373,8 +3345,10 @@
       "language": [],
       "translation": []
     },
-    "packet source": [],
-    "source": [],
+    "packet source": ["antologia kodaly columbiana"],
+    "source": [
+      "GALINDO PALMA, Humberto. Memoria de Cantalicio Rojas 1896-1974, Ibagué, El Poira Editores 1999. y GIL, Germàn. Corporaciòn Cultural Mestizo. 2004"
+    ],
     "misc": {
       "partWork": [],
       "recording": [],
@@ -3471,17 +3445,17 @@
 
   {
     "songTitle": "cartas y cartas",
-    "score": [],
+    "score": ["../../../songImages/cartasYCartas.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
-      "kinder": [],
+      "kinder": ["steady beat"],
       "misc": {}
     },
     "rhythm": {
-      "meter": "",
-      "mm": "",
-      "rhythmSet": []
+      "meter": "duple",
+      "mm": "120",
+      "rhythmSet": ["q", "Q", "sd", "Aa"]
     },
     "melody": {
       "tonalCenter": "",
@@ -3494,8 +3468,8 @@
       "language": [],
       "translation": []
     },
-    "packet source": [],
-    "source": [],
+    "packet source": ["antologia kodaly columbiana"],
+    "source": ["JIMENEZ, Olga Lucìa. En: A Contratiempo, Vol. 1, 1988."],
     "misc": {
       "partWork": [],
       "recording": [],
@@ -4104,21 +4078,21 @@
 
   {
     "songTitle": "con mi martillo",
-    "score": [],
+    "score": ["../../../songImages/conMiMartillo.png"],
     "function": {
-      "rhythmic": { "presentation": [], "practice": [] },
-      "melodic": { "presentation": [], "practice": [] },
+      "rhythmic": { "presentation": [], "practice": ["qsd", "Q"] },
+      "melodic": { "presentation": [], "practice": ["r"] },
       "kinder": [],
       "misc": {}
     },
     "rhythm": {
-      "meter": "",
-      "mm": "",
-      "rhythmSet": []
+      "meter": "duple",
+      "mm": "120",
+      "rhythmSet": ["q", "sd", "Q"]
     },
     "melody": {
-      "tonalCenter": "",
-      "toneSet": []
+      "tonalCenter": "d",
+      "toneSet": ["d", "r", "m", "s"]
     },
     "context": {
       "subject": [],
@@ -4127,8 +4101,8 @@
       "language": [],
       "translation": []
     },
-    "packet source": [],
-    "source": [],
+    "packet source": ["antologia kodaly columbiana"],
+    "source": ["Transcripción de Alejandro Zuleta"],
     "misc": {
       "partWork": [],
       "recording": [],
@@ -4140,31 +4114,33 @@
 
   {
     "songTitle": "coplas de cundinamarca y boyaca",
-    "score": [],
+    "score": ["../../../songImages/coplasDeCundinamarcaYBoyaca.png"],
     "function": {
-      "rhythmic": { "presentation": [], "practice": [] },
+      "rhythmic": { "presentation": [], "practice": ["aqa"] },
       "melodic": { "presentation": [], "practice": [] },
       "kinder": [],
       "misc": {}
     },
     "rhythm": {
-      "meter": "",
-      "mm": "",
-      "rhythmSet": []
+      "meter": "triple",
+      "mm": "110",
+      "rhythmSet": ["aqa", "q", "sd", "Aa"]
     },
     "melody": {
-      "tonalCenter": "",
-      "toneSet": []
+      "tonalCenter": "d",
+      "toneSet": ["s,", "l,", "t,", "d", "r", "m", "f", "s", "l"]
     },
     "context": {
       "subject": [],
       "lyrics": [],
       "ethnicOrigin": [],
-      "language": [],
+      "language": ["spanish"],
       "translation": []
     },
-    "packet source": [],
-    "source": [],
+    "packet source": ["antologia kodaly columbiana"],
+    "source": [
+      "PIÑEROS CORPAS, Joaquín. Introducción al Cancionero Noble de Colombia. Transcripción, Alejandro Zuleta."
+    ],
     "misc": {
       "partWork": [],
       "recording": [],
@@ -4176,21 +4152,21 @@
 
   {
     "songTitle": "coplas de torbellino",
-    "score": [],
+    "score": ["../../../songImages/coplasDeTorbellino.png"],
     "function": {
-      "rhythmic": { "presentation": [], "practice": [] },
-      "melodic": { "presentation": [], "practice": [] },
+      "rhythmic": { "presentation": [], "practice": ["aqa"] },
+      "melodic": { "presentation": [], "practice": ["f", "t,"] },
       "kinder": [],
       "misc": {}
     },
     "rhythm": {
-      "meter": "",
-      "mm": "",
-      "rhythmSet": []
+      "meter": "triple",
+      "mm": "110",
+      "rhythmSet": ["aqa", "q", "sd", "Aa"]
     },
     "melody": {
-      "tonalCenter": "",
-      "toneSet": []
+      "tonalCenter": "d",
+      "toneSet": ["t,", "d", "r", "m", "f", "s", "l", "t", "d'"]
     },
     "context": {
       "subject": [],
@@ -4199,8 +4175,10 @@
       "language": [],
       "translation": []
     },
-    "packet source": [],
-    "source": [],
+    "packet source": ["antologia kodaly columbiana"],
+    "source": [
+      "NOSSA Bernarda En: Repertorio Vocal Tradicional de Colombia.  Ministerio de Cultura, Colombia. 1999"
+    ],
     "misc": {
       "partWork": [],
       "recording": [],
@@ -4259,7 +4237,7 @@
 
   {
     "songTitle": "cuando manuelito",
-    "score": [],
+    "score": ["../../../songImages/cuandoManuelito.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -4267,23 +4245,25 @@
       "misc": {}
     },
     "rhythm": {
-      "meter": "",
-      "mm": "",
-      "rhythmSet": []
+      "meter": "duple",
+      "mm": "92",
+      "rhythmSet": ["q", "sd", "Q", "Aa"]
     },
     "melody": {
       "tonalCenter": "",
-      "toneSet": []
+      "toneSet": ["m,", "l,", "t,", "d", "r", "m", "s"]
     },
     "context": {
       "subject": [],
       "lyrics": [],
-      "ethnicOrigin": [],
-      "language": [],
+      "ethnicOrigin": ["ecuador"],
+      "language": ["spanish"],
       "translation": []
     },
-    "packet source": [],
-    "source": [],
+    "packet source": ["antologia kodaly columbiana"],
+    "source": [
+      "GABOR. Charles. Antología, Introducción a la música folklórica del Ecuador. Quito: PNUD- UNESCO, 1981. P. 35"
+    ],
     "misc": {
       "partWork": [],
       "recording": [],
@@ -4533,21 +4513,21 @@
 
   {
     "songTitle": "da pacem domine",
-    "score": [],
+    "score": ["../../../songImages/daPacemDomine.png"],
     "function": {
-      "rhythmic": { "presentation": [], "practice": [] },
+      "rhythmic": { "presentation": [], "practice": ["ar"] },
       "melodic": { "presentation": [], "practice": [] },
       "kinder": [],
       "misc": {}
     },
     "rhythm": {
-      "meter": "",
-      "mm": "",
-      "rhythmSet": []
+      "meter": "quadruple",
+      "mm": "100",
+      "rhythmSet": ["w", "q", "sd", "ra"]
     },
     "melody": {
-      "tonalCenter": "",
-      "toneSet": []
+      "tonalCenter": "d",
+      "toneSet": ["d", "r", "m", "f", "s"]
     },
     "context": {
       "subject": [],
@@ -4556,10 +4536,10 @@
       "language": [],
       "translation": []
     },
-    "packet source": [],
-    "source": [],
+    "packet source": ["antologia kodaly columbiana"],
+    "source": ["Aprendido de Amalia Samper. Transcripción de Alejandro Zuleta"],
     "misc": {
-      "partWork": [],
+      "partWork": ["canon"],
       "recording": [],
       "gameType": [],
       "gameDirections": [],
@@ -4787,21 +4767,21 @@
 
   {
     "songTitle": "diez perritos",
-    "score": [],
+    "score": ["../../../songImages/diezPerritos.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
-      "kinder": [],
+      "kinder": ["counting"],
       "misc": {}
     },
     "rhythm": {
-      "meter": "",
-      "mm": "",
-      "rhythmSet": []
+      "meter": "duple",
+      "mm": "110",
+      "rhythmSet": ["aqxc", "sd"]
     },
     "melody": {
-      "tonalCenter": "",
-      "toneSet": []
+      "tonalCenter": "d",
+      "toneSet": ["d", "r", "m", "f", "s", "l", "t", "d'"]
     },
     "context": {
       "subject": [],
@@ -4810,8 +4790,10 @@
       "language": [],
       "translation": []
     },
-    "packet source": [],
-    "source": [],
+    "packet source": ["antologia kodaly columbiana"],
+    "source": [
+      "Joaquina Rodriguez, en BEUTLER, Gisela, Estudios sobre el Romancero Español en Colombia. Bogotá: Instituto caro y Cuervo, 1977 p 574. Texto adicional (en cursiva): Alejandro Zuleta."
+    ],
     "misc": {
       "partWork": [],
       "recording": [],
@@ -5094,7 +5076,7 @@
 
   {
     "songTitle": "dos caballos",
-    "score": [],
+    "score": ["../../../songImages/dosCaballos.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -5102,13 +5084,13 @@
       "misc": {}
     },
     "rhythm": {
-      "meter": "",
-      "mm": "",
-      "rhythmSet": []
+      "meter": "triple",
+      "mm": "80",
+      "rhythmSet": ["w", "q", "sd"]
     },
     "melody": {
-      "tonalCenter": "",
-      "toneSet": []
+      "tonalCenter": "d",
+      "toneSet": ["d", "r", "m", "f", "s", "l"]
     },
     "context": {
       "subject": [],
@@ -5117,7 +5099,7 @@
       "language": [],
       "translation": []
     },
-    "packet source": [],
+    "packet source": ["antologia kodaly columbiana"],
     "source": [],
     "misc": {
       "partWork": [],
@@ -5130,7 +5112,7 @@
 
   {
     "songTitle": "dos palomitas",
-    "score": [],
+    "score": ["../../../songImages/dosPalomitas.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -5166,7 +5148,7 @@
 
   {
     "songTitle": "dos por diez",
-    "score": [],
+    "score": ["../../../songImages/dosPorDiez.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -5431,7 +5413,7 @@
 
   {
     "songTitle": "ducks in the millpond",
-    "score": [],
+    "score": ["../../../songImages/ducksInTheMillpond.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": ["s,"], "practice": ["s,"] },
@@ -5467,7 +5449,7 @@
 
   {
     "songTitle": "duermase nina",
-    "score": [],
+    "score": ["../../../songImages/duermaseNina.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -5578,7 +5560,7 @@
 
   {
     "songTitle": "el burrito del teniente",
-    "score": [],
+    "score": ["../../../songImages/elBurritoDelTeniente.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -5614,7 +5596,7 @@
 
   {
     "songTitle": "el cacique juancho pepe",
-    "score": [],
+    "score": ["../../../songImages/elCaciqueJuanchoPepe.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -5650,7 +5632,7 @@
 
   {
     "songTitle": "el caiman cienaguero",
-    "score": [],
+    "score": ["../../../songImages/elCaimanCienaguero.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -5811,7 +5793,7 @@
 
   {
     "songTitle": "el gavan",
-    "score": [],
+    "score": ["../../../songImages/elGavan.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -5847,7 +5829,7 @@
 
   {
     "songTitle": "el pajarito",
-    "score": [],
+    "score": ["../../../songImages/elPajarito.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -5972,7 +5954,7 @@
 
   {
     "songTitle": "el pescador",
-    "score": [],
+    "score": ["../../../songImages/elPescador.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -6054,7 +6036,7 @@
 
   {
     "songTitle": "el pilon",
-    "score": [],
+    "score": ["../../../songImages/elPilon.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -6090,7 +6072,7 @@
 
   {
     "songTitle": "el puente de avinon",
-    "score": [],
+    "score": ["../../../songImages/elPuenteDeAvinon.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -6126,7 +6108,7 @@
 
   {
     "songTitle": "el puente esta quebrado",
-    "score": [],
+    "score": ["../../../songImages/elPuenteEstaQuebrado.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -6162,7 +6144,7 @@
 
   {
     "songTitle": "el reloj de jerusalen",
-    "score": [],
+    "score": ["../../../songImages/elRelojDeJerusalen.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -6198,7 +6180,7 @@
 
   {
     "songTitle": "el tordo",
-    "score": [],
+    "score": ["../../../songImages/elTordo.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -6285,7 +6267,7 @@
 
   {
     "songTitle": "en el pinar del bosque",
-    "score": [],
+    "score": ["../../../songImages/enElPinarDelBosque.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -6321,7 +6303,7 @@
 
   {
     "songTitle": "en la batalla",
-    "score": [],
+    "score": ["../../../songImages/enLaBatalla.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -6357,7 +6339,7 @@
 
   {
     "songTitle": "en la feria del maestro andres",
-    "score": [],
+    "score": ["../../../songImages/enLaFeriaDelMaestroAndres.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -6527,7 +6509,7 @@
 
   {
     "songTitle": "estaba el senor don gato",
-    "score": [],
+    "score": ["../../../songImages/estabaElSenorDonGato.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -6643,7 +6625,7 @@
 
   {
     "songTitle": "etico peletico",
-    "score": [],
+    "score": ["../../../songImages/eticoPeletico.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -6935,7 +6917,7 @@
 
   {
     "songTitle": "gavilan pollero",
-    "score": [],
+    "score": ["../../../songImages/gavilanPollero.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -7165,7 +7147,7 @@
 
   {
     "songTitle": "guillermo tell",
-    "score": [],
+    "score": ["../../../songImages/guillermoTell.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -8681,8 +8663,8 @@
   },
 
   {
-    "songTitle": "juuan pirulero",
-    "score": [],
+    "songTitle": "juan pirulero",
+    "score": ["../../../songImages/juanPirulero.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -8717,8 +8699,8 @@
   },
 
   {
-    "songTitle": "jugeuemos en el bosque",
-    "score": [],
+    "songTitle": "juguemos en el bosque",
+    "score": ["../../../songImages/juguemosEnElBosque.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -8996,7 +8978,7 @@
 
   {
     "songTitle": "kyrie eleison",
-    "score": [],
+    "score": ["../../../songImages/kyrieEleison.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -9032,7 +9014,7 @@
 
   {
     "songTitle": "la arana picua",
-    "score": [],
+    "score": ["../../../songImages/laAranaPicua.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -9068,7 +9050,7 @@
 
   {
     "songTitle": "la cabrita blanca",
-    "score": [],
+    "score": ["../../../songImages/laCabritaBlanca.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -9103,8 +9085,8 @@
   },
 
   {
-    "songTitle": "la campesina",
-    "score": [],
+    "songTitle": "la campensina",
+    "score": ["../../../songImages/laCampensina.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -9182,7 +9164,7 @@
 
   {
     "songTitle": "la marisola",
-    "score": [],
+    "score": ["../../../songImages/laMarisola.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -9277,7 +9259,7 @@
 
   {
     "songTitle": "la ocuacua",
-    "score": [],
+    "score": ["../../../songImages/laOcuacua.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -9313,7 +9295,7 @@
 
   {
     "songTitle": "la perica",
-    "score": [],
+    "score": ["../../../songImages/laPerica.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -9349,7 +9331,7 @@
 
   {
     "songTitle": "la petaquita",
-    "score": [],
+    "score": ["../../../songImages/laPetaquita.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -9385,7 +9367,7 @@
 
   {
     "songTitle": "la pobre coja",
-    "score": [],
+    "score": ["../../../songImages/laPobreCoja.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -9513,7 +9495,7 @@
 
   {
     "songTitle": "la vaca",
-    "score": [],
+    "score": ["../../../songImages/laVaca.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -9598,7 +9580,7 @@
 
   {
     "songTitle": "la virgen se esta peinando",
-    "score": [],
+    "score": ["../../../songImages/laVirgenSeEstaPeinando.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -9634,7 +9616,7 @@
 
   {
     "songTitle": "la viudita",
-    "score": [],
+    "score": ["../../../songImages/laViudita.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -9964,7 +9946,7 @@
 
   {
     "songTitle": "let's hide the pumpkin",
-    "score": [],
+    "score": ["../../../songImages/letsHideThePumpkin.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["qsd"] },
       "melodic": { "presentation": [], "practice": ["l"] },
@@ -10347,7 +10329,7 @@
 
   {
     "songTitle": "los cinco negritos",
-    "score": [],
+    "score": ["../../../songImages/losCincoNegritos.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -10383,7 +10365,7 @@
 
   {
     "songTitle": "los esqueletos",
-    "score": [],
+    "score": ["../../../songImages/losEsqueletos.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -10419,7 +10401,7 @@
 
   {
     "songTitle": "los pollitos",
-    "score": [],
+    "score": ["../../../songImages/losPollitos.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -10501,7 +10483,7 @@
 
   {
     "songTitle": "lunes y martes",
-    "score": [],
+    "score": ["../../../songImages/lunesYMartes.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -10766,7 +10748,7 @@
 
   {
     "songTitle": "mi totumita",
-    "score": [],
+    "score": ["../../../songImages/miTotumita.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -10851,7 +10833,7 @@
 
   {
     "songTitle": "mis manitas",
-    "score": [],
+    "score": ["../../../songImages/misManitas.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -10887,7 +10869,7 @@
 
   {
     "songTitle": "misia propicia",
-    "score": [],
+    "score": ["../../../songImages/misiaPropicia.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -10923,7 +10905,7 @@
 
   {
     "songTitle": "miron miron",
-    "score": [],
+    "score": ["../../../songImages/mironMiron.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -11249,7 +11231,7 @@
 
   {
     "songTitle": "na filomena (1)",
-    "score": [],
+    "score": ["../../../songImages/naFilomena.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -11285,7 +11267,7 @@
 
   {
     "songTitle": "na filomena (2)",
-    "score": [],
+    "score": ["../../../songImages/naFilomena2.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -11647,7 +11629,7 @@
 
   {
     "songTitle": "oh e-le-le",
-    "score": [],
+    "score": ["../../../songImages/ohELeLe.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -12469,7 +12451,7 @@
 
   {
     "songTitle": "paco paquito",
-    "score": [],
+    "score": ["../../../songImages/pacoPaquito.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -12544,7 +12526,7 @@
 
   {
     "songTitle": "pasajeros al tren",
-    "score": [],
+    "score": ["../../../songImages/pasajerosAlTren.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -12580,7 +12562,7 @@
 
   {
     "songTitle": "pasala",
-    "score": [],
+    "score": ["../../../songImages/pasala.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -12799,7 +12781,7 @@
 
   {
     "songTitle": "pepe chiquito",
-    "score": [],
+    "score": ["../../../songImages/pepeChiquito.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -13223,7 +13205,7 @@
 
   {
     "songTitle": "que llueva",
-    "score": [],
+    "score": ["../../../songImages/queLlueva.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -13451,7 +13433,7 @@
 
   {
     "songTitle": "ritmo",
-    "score": [],
+    "score": ["../../../songImages/ritmo.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -13712,7 +13694,7 @@
 
   {
     "songTitle": "sa chi chi sa",
-    "score": [],
+    "score": ["../../../songImages/saChiChiSa.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -13889,7 +13871,7 @@
 
   {
     "songTitle": "samba lele",
-    "score": [],
+    "score": ["../../../songImages/sambaLele.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -13969,7 +13951,7 @@
 
   {
     "songTitle": "san jose y maria",
-    "score": [],
+    "score": ["../../../songImages/sanJoseYMaria.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -14235,7 +14217,7 @@
 
   {
     "songTitle": "senihua",
-    "score": [],
+    "score": ["../../../songImages/senihua.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -14271,7 +14253,7 @@
 
   {
     "songTitle": "se va el caiman",
-    "score": [],
+    "score": ["../../../songImages/seVaElCaiman.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -14738,7 +14720,7 @@
 
   {
     "songTitle": "sol solecito",
-    "score": [],
+    "score": ["../../../songImages/solSolecito.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -14814,7 +14796,7 @@
 
   {
     "songTitle": "soplo la vela",
-    "score": [],
+    "score": ["../../../songImages/soploLaVela.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -15100,7 +15082,7 @@
 
   {
     "songTitle": "tengo tengo",
-    "score": [],
+    "score": ["../../../songImages/tengoTengo.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": [] },
@@ -15268,7 +15250,7 @@
 
   {
     "songTitle": "tortillitas",
-    "score": [],
+    "score": ["../../../songImages/tortillitas.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["qsd"] },
       "melodic": { "presentation": [], "practice": ["sol mi"] },
@@ -15306,7 +15288,7 @@
 
   {
     "songTitle": "tortuguita",
-    "score": [],
+    "score": ["../../../songImages/tortuguita.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": ["Aa"] },
@@ -15387,7 +15369,7 @@
 
   {
     "songTitle": "trapichito",
-    "score": [],
+    "score": ["../../../songImages/trapichito.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": ["natural minor"] },
@@ -15545,7 +15527,7 @@
 
   {
     "songTitle": "vamos a subir al cerro",
-    "score": [],
+    "score": ["../../../songImages/vamosASubirAlCerro.png"],
     "function": {
       "rhythmic": { "presentation": ["xxcc"], "practice": ["xxcc"] },
       "melodic": { "presentation": [], "practice": [] },
@@ -15581,7 +15563,7 @@
 
   {
     "songTitle": "veni veni",
-    "score": [],
+    "score": ["../../../songImages/veniVeniEmmanuel.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": ["natural minor"] },
@@ -15619,7 +15601,7 @@
 
   {
     "songTitle": "villancico",
-    "score": [],
+    "score": ["../../../songImages/villancico.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": [] },
       "melodic": { "presentation": [], "practice": ["f"] },
@@ -16244,7 +16226,7 @@
 
   {
     "songTitle": "ya lloviendo esta",
-    "score": [],
+    "score": ["../../../songImages/yaLloviendoEsta.png"],
     "function": {
       "rhythmic": { "presentation": [], "practice": ["Q"] },
       "melodic": { "presentation": ["r"], "practice": ["r"] },
